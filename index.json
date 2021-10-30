@@ -2596,5 +2596,14 @@
     "genre": ["Love, Instrumental"],
     "link": "https://www.youtube.com/watch?v=6FURuLYrR_Q"
  }
-
+{
+   "id": 93,
+    "name": "Raatan Lambiyan",
+    "lyrics": "https://www.hinditracks.in/raataan-lambiyan-lyrics",
+    "album": "Shershaah",
+    "Duration": "2 min 31 sec",
+    "singer": ["Jubin Nautiyal, Asees Kaur"],
+    "genre": ["Love, Instrumental"],
+    "link": "https://youtu.be/gvyUuxdRdR4"
+ }
 ]
