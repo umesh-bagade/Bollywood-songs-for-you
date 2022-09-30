@@ -1901,6 +1901,7 @@
    "genre": ["Love, Instrumental"],
    "link": "https://youtu.be/gvyUuxdRdR4"
 }
+ {
 "id": 213,
    "name": "Muskurane",
    "lyrics": "https://www.azlyrics.com/lyrics/arijitsingh/muskurane.html",
@@ -1909,5 +1910,16 @@
    "singer": ["Arijit SIngh"],
    "genre": ["Love, Instrumental"],
    "link": "https://www.youtube.com/watch?v=4gNu8LsfYP8"
-}
+},
+{
+"id": 243,
+   "name": "Maiyya Mainu ",
+   "lyrics": "https://www.lyricsgoal.com/maiyya-mainu-jersey-sachet-tandon/",
+   "album": "Jersey",
+   "Duration": "4 min 19 sec",
+   "singer": ["Sachet-Parampara," Shellee" , "Gowtam T"],
+   "genre": ["Love, Instrumental"],
+   "link": "https://www.youtube.com/watch?v=y7MW7d8fb1Y"
+},
+
 ]
