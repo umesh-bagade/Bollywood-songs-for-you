@@ -1921,6 +1921,18 @@
    "genre": ["Love, Instrumental"],
    "link": "https://www.youtube.com/watch?v=4gNu8LsfYP8"
 
+},
+{
+   "id": 214,
+   "name": "tum hi ho",
+   "lyrics": "https://www.indicine.com/movies/bollywood/sajda-lyrics-my-name-is-khan/",
+   "album": "aashiqui 2",
+   "Duration": "4 min 58 sec",
+   "singer": ["arijit singh", "Shankar Mahadevan", "Richa Sharma"],
+   "genre": ["Romantic"],
+   "link": "https://youtu.be/3rPEWcY6Oww"
+
+
 },{
  "id": 214,
    "name": "Sau Aasmaan",
@@ -2022,6 +2034,7 @@
    "singer": ["Shreya Ghoshal"],
    "genre": ["Love, Instrumental"],
    "link": "https://www.youtube.com/watch?v=CtgD91Ev4NU"
+
 }
    "name": "Udi Udi Jaye",
    "lyrics": "https://www.lyricsmint.com/raees/udi-udi-jaye",
