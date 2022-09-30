@@ -1993,6 +1993,16 @@
 
 {
    "id": 219,
+
+   "name": "Dhadhkan",
+   "lyrics": "https://www.jiosaavn.com/album/sanam---dhakdkan/zJ-5PdpWpxI_",
+   "album": "dhakdkan",
+   "Duration": "3 min 15 sec",
+   "singer": [" Lata Mangeshkar, Udit narayn "],
+   "genre": ["Love, Instrumental"],
+   "link": "https://www.youtube.com/watch?v=dx1MPawGE-E"
+}
+
    "name": "Rozana",
    "lyrics": "https://lyricstranslate.com/en/shreya-ghoshal-rozana-lyrics.html",
    "album": "Naam Shabana",
@@ -2009,7 +2019,6 @@
    "genre": ["Celebration","Dance"],
    "link": "https://www.jiosaavn.com/song/udi-udi-jaye/Gx8vZTwEX2o"
 },
-
 
 ]
 
