@@ -1968,6 +1968,17 @@
    "genre": ["Indian Film Pop"],
    "link": "https://youtu.be/piUHBTXsoiY"
 }
+
+{
+   "id": 219,
+   "name": "Rozana",
+   "lyrics": "https://lyricstranslate.com/en/shreya-ghoshal-rozana-lyrics.html",
+   "album": "Naam Shabana",
+   "Duration": "4 min 29 sec",
+   "singer": ["Shreya Ghoshal"],
+   "genre": ["Love, Instrumental"],
+   "link": "https://www.youtube.com/watch?v=CtgD91Ev4NU"
+}
    "name": "Udi Udi Jaye",
    "lyrics": "https://www.lyricsmint.com/raees/udi-udi-jaye",
    "album": "Raees",
@@ -1976,6 +1987,7 @@
    "genre": ["Celebration","Dance"],
    "link": "https://www.jiosaavn.com/song/udi-udi-jaye/Gx8vZTwEX2o"
 },
+
 
 ]
 
