@@ -2033,6 +2033,16 @@
    "singer": ["Sukhwinder Singh","Bhoomi Trivedi","Karsan Sagathia"],
    "genre": ["Celebration","Dance"],
    "link": "https://www.jiosaavn.com/song/udi-udi-jaye/Gx8vZTwEX2o"
+},
+   {
+   "id": 214,
+   "name": "Desi Kalakaar",
+   "lyrics": "https://genius.com/Yo-yo-honey-singh-desi-kalakaar-lyrics",
+   "album": "Desi Kalakaar",
+   "Duration": "4 min 33 sec",
+   "singer": ["Yo Yo Honey Singh"],
+   "genre": ["Rap, Instrumental"],
+   "link": "https://www.youtube.com/watch?v=jTg15DrXhB0"
 }
 
 ]
