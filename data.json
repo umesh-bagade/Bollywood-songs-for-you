@@ -2094,7 +2094,18 @@
    "genre": ["Love, Instrumental"],
    "link": "https://www.youtube.com/watch?v=4gNu8LsfYP8"
 
-}
+},
+
+{
+   "id": 214,
+   "name": "tere bin",
+   "lyrics": "https://www.indicine.com/movies/bollywood/sajda-lyrics-my-name-is-khan/",
+   "album": "wazir",
+   "Duration": "4 min 58 sec",
+   "singer": ["Rahat Fateh Ali Khan", "Shankar Mahadevan", "Richa Sharma"],
+   "genre": ["Romantic"],
+   "link": "https://youtu.be/3rPEWcY6Oww"
+},
 
 ]
 
