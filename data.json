@@ -1959,6 +1959,7 @@
    "genre": ["Love, Instrumental"],
    "link": "https://youtu.be/vB1qh0eUv78"
 },
+
  {
    "id": 220,
    "name": "Love me like you do",
@@ -1968,7 +1969,37 @@
    "singer": [" Ellie Doungling "],
    "genre": ["Love, Instrumental"],
    "link": "https://www.youtube.com/watch?v=AJtDXIazrMo"
+
+{
+   "id": 219,  "name": "Raabta",
+   "lyrics": "https://www.lyricsoff.com/songs/raabta.html",
+   "album": "Agent Vinod",
+   "Duration": "4 min 39 sec",
+   "singer": ["Arijit Singh"],
+   "genre": ["Indian Film Pop"],
+   "link": "https://youtu.be/piUHBTXsoiY"
+
 }
+
+{
+   "id": 219,
+   "name": "Rozana",
+   "lyrics": "https://lyricstranslate.com/en/shreya-ghoshal-rozana-lyrics.html",
+   "album": "Naam Shabana",
+   "Duration": "4 min 29 sec",
+   "singer": ["Shreya Ghoshal"],
+   "genre": ["Love, Instrumental"],
+   "link": "https://www.youtube.com/watch?v=CtgD91Ev4NU"
+}
+   "name": "Udi Udi Jaye",
+   "lyrics": "https://www.lyricsmint.com/raees/udi-udi-jaye",
+   "album": "Raees",
+   "Duration": "4 min 20 sec",
+   "singer": ["Sukhwinder Singh","Bhoomi Trivedi","Karsan Sagathia"],
+   "genre": ["Celebration","Dance"],
+   "link": "https://www.jiosaavn.com/song/udi-udi-jaye/Gx8vZTwEX2o"
+},
+
 
 ]
 
