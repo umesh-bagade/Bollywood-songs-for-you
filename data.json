@@ -1900,7 +1900,9 @@
    "singer": ["Jubin Nautiyal, Asees Kaur"],
    "genre": ["Love, Instrumental"],
    "link": "https://youtu.be/gvyUuxdRdR4"
+
 },
+
  {
 "id": 213,
    "name": "Muskurane",
@@ -1910,7 +1912,27 @@
    "singer": ["Arijit SIngh"],
    "genre": ["Love, Instrumental"],
    "link": "https://www.youtube.com/watch?v=4gNu8LsfYP8"
+},
 
+{
+
+   "id": 243,
+   "name": "Maiyya Mainu ",
+   "lyrics": "https://www.lyricsgoal.com/maiyya-mainu-jersey-sachet-tandon/",
+   "album": "Jersey",
+   "Duration": "4 min 19 sec",
+   "singer": ["Sachet-Parampara," Shellee" , "Gowtam T"],
+   "genre": ["Love, Instrumental"],
+   "link": "https://www.youtube.com/watch?v=y7MW7d8fb1Y"
+},
+   "id": 214,
+   "name": "Chand Si Mehbooba",
+   "lyrics": "https://www.jiosaavn.com/lyrics/chand-si-mehbooba-lyrics/JA1TfjBDBXQ",
+   "album": "Himalay Ki God Mein ",
+   "Duration": "3 min 35 sec",
+   "singer": ["Mukesh"],
+   "genre": ["Romantic"],
+   "link": "https://www.youtube.com/watch?v=WYjVa10bP1c"
 },
 {
    "id": 214,
@@ -1921,9 +1943,8 @@
    "singer": ["arijit singh", "Shankar Mahadevan", "Richa Sharma"],
    "genre": ["Romantic"],
    "link": "https://youtu.be/3rPEWcY6Oww"
-
-
-},{
+},
+{
  "id": 214,
    "name": "Sau Aasmaan",
    "lyrics": "https://open.spotify.com/track/0zHZSO80CTxNtvtRhveHRJ",
@@ -1934,7 +1955,7 @@
    "link": "https://www.youtube.com/watch?v=mpjNh-uGBY4"
 },
 {
-"id": 215,
+   "id": 215,
    "name": "Lag ja gale",
    "lyrics": "https://gaana.com/lyrics/lag-ja-gale-8",
    "album": "Woh Kaun Thi?",
@@ -1942,7 +1963,17 @@
    "singer": ["Nayan Shankar"],
    "genre": ["Love"],
    "link": "https://youtu.be/TFr6G5zveS8"
-},{
+},
+
+{"id": 218,
+   "name": "Tumhi aana",
+   "lyrics": "https://gaana.com/lyrics/lag-ja-gale-8",
+   "album": "Woh Kaun Thi?",
+   "Duration": "4 min 39 sec",
+   "singer": ["jubeen N"],
+   "genre": ["Love"],
+   "link": "https://youtu.be/TFr6G5zveS8"
+{
 "id": 216
    "name": "Lag ja gale",
    "lyrics": "https://gaana.com/lyrics/lag-ja-gale-8",
@@ -1961,7 +1992,6 @@
    "singer": ["Lata Mangeshkar"],
    "link": "https://youtu.be/vB1qh0eUv78"
 },
-
 {
    "id": 269,
    "name": "Tere Sang Yara",
@@ -1971,8 +2001,8 @@
    "singer": ["Atif Aslam"],
    "genre": ["Romantic", "slow"],
    "link": "https://www.youtube.com/watch?v=gIOea2pgfIo"
-
- {
+},
+{
    "id": 218,
    "name": "lag ja gale",
    "lyrics": "https://www.jiosaavn.com/album/sanam---lag-ja-gale/zJ-5PdpWpxI_",
@@ -1992,7 +2022,7 @@
    "singer": [" Ellie Doungling "],
    "genre": ["Love, Instrumental"],
    "link": "https://www.youtube.com/watch?v=AJtDXIazrMo"
-
+},
 {
    "id": 219,  "name": "Raabta",
    "lyrics": "https://www.lyricsoff.com/songs/raabta.html",
@@ -2015,8 +2045,8 @@
    "singer": [" Lata Mangeshkar, Udit narayn "],
    "genre": ["Love, Instrumental"],
    "link": "https://www.youtube.com/watch?v=dx1MPawGE-E"
-}
-
+},
+{
    "name": "Rozana",
    "lyrics": "https://lyricstranslate.com/en/shreya-ghoshal-rozana-lyrics.html",
    "album": "Naam Shabana",
@@ -2024,8 +2054,8 @@
    "singer": ["Shreya Ghoshal"],
    "genre": ["Love, Instrumental"],
    "link": "https://www.youtube.com/watch?v=CtgD91Ev4NU"
-
-}
+},
+{
    "name": "Udi Udi Jaye",
    "lyrics": "https://www.lyricsmint.com/raees/udi-udi-jaye",
    "album": "Raees",
@@ -2053,7 +2083,40 @@
    "singer": ["Evan Giia and MEMBA"],
    "genre": ["Indian,Indie"],
    "link": "https://www.youtube.com/watch?v=bR8sE9ubyTI"
-}
+},
+{
+   "id": 214,
+   "name": "Aayat",
+   "lyrics": "https://www.azlyrics.com/lyrics/arijitsingh/aayat.html",
+   "album": "Bajirao Mastani",
+   "Duration": "4 min 32 sec",
+   "singer": ["Arijit Singh"],
+   "genre": ["Romantic", "slow"],
+   "link": "https://www.youtube.com/watch?v=XZ8NF2Yv7J0"
+},
+{
+   "id": 214,
+   "name": "Ranjha",
+   "lyrics": "https://www.azlyrics.com/lyrics/arijitsingh/muskurane.html",
+   "album": "Shersha",
+   "Duration": "2 min 19 sec",
+   "singer": ["B Prak"],
+   "genre": ["Love, Instrumental"],
+   "link": "https://www.youtube.com/watch?v=4gNu8LsfYP8"
+
+},
+
+{
+   "id": 214,
+   "name": "tere bin",
+   "lyrics": "https://www.indicine.com/movies/bollywood/sajda-lyrics-my-name-is-khan/",
+   "album": "wazir",
+   "Duration": "4 min 58 sec",
+   "singer": ["Rahat Fateh Ali Khan", "Shankar Mahadevan", "Richa Sharma"],
+   "genre": ["Romantic"],
+   "link": "https://youtu.be/3rPEWcY6Oww"
+},
+
 
 ]
 
