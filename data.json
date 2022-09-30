@@ -1909,5 +1909,15 @@
    "singer": ["Arijit SIngh"],
    "genre": ["Love, Instrumental"],
    "link": "https://www.youtube.com/watch?v=4gNu8LsfYP8"
+},
+{
+   "id": 214,
+   "name": "Raanjhana",
+   "lyrics": "https://www.lyricsmint.com/raanjhanaa/raanjhanaa-title-song",
+   "album": "Raanjhana",
+   "Duration": "3 min 10 sec",
+   "singer": ["Shiraz Uppal", " Jaswinder Singh"],
+   "genre": ["Romantic"],
+   "link": "https://www.youtube.com/watch?v=OsTGp5n6w5E"
 }
 ]
