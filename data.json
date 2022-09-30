@@ -1910,4 +1910,14 @@
    "genre": ["Love, Instrumental"],
    "link": "https://www.youtube.com/watch?v=4gNu8LsfYP8"
 }
+{
+   "id": 214,
+   "name": "Aayat",
+   "lyrics": "https://www.azlyrics.com/lyrics/arijitsingh/aayat.html",
+   "album": "Bajirao Mastani",
+   "Duration": "4 min 32 sec",
+   "singer": ["Arijit Singh"],
+   "genre": ["Romantic", "slow"],
+   "link": "https://www.youtube.com/watch?v=XZ8NF2Yv7J0"
+},
 ]
