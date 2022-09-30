@@ -1958,6 +1958,16 @@
    "singer": [" Lata Mangeshkar "],
    "genre": ["Love, Instrumental"],
    "link": "https://youtu.be/vB1qh0eUv78"
+},
+ {
+   "id": 220,
+   "name": "Love me like you do",
+   "lyrics": "https://www.azlyrics.com/lyrics/elliegoulding/lovemelikeyoudofiftyshadesfreedversion.html",
+   "album": "Fifty shades of gray",
+   "Duration": "4 min 39 sec",
+   "singer": [" Ellie Doungling "],
+   "genre": ["Love, Instrumental"],
+   "link": "https://www.youtube.com/watch?v=AJtDXIazrMo"
 }
 
 ]
