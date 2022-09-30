@@ -2043,7 +2043,16 @@
    "singer": ["Yo Yo Honey Singh"],
    "genre": ["Rap, Instrumental"],
    "link": "https://www.youtube.com/watch?v=jTg15DrXhB0"
+},
+{
+   "id": 214,
+   "name": "Aayat",
+   "lyrics": "https://www.azlyrics.com/lyrics/arijitsingh/aayat.html",
+   "album": "Bajirao Mastani",
+   "Duration": "4 min 32 sec",
+   "singer": ["Arijit Singh"],
+   "genre": ["Romantic", "slow"],
+   "link": "https://www.youtube.com/watch?v=XZ8NF2Yv7J0"
 }
-
 ]
 
