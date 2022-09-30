@@ -1,6 +1,6 @@
-### How to contribute###
+# How to contribute #
 
--The songs details should be added into the json file.
--please follow the required format.
--feel free to add bollywood songs you like.
--Try not to repeat songs already present.
+#### 1) The songs details should be added into the data.json file.
+#### 2) Please follow the required format.
+#### 3) Feel free to add bollywood songs you like.
+#### 4) But try not to repeat songs already present.
