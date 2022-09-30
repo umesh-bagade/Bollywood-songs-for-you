@@ -1900,7 +1900,7 @@
    "singer": ["Jubin Nautiyal, Asees Kaur"],
    "genre": ["Love, Instrumental"],
    "link": "https://youtu.be/gvyUuxdRdR4"
-}
+}{
 "id": 213,
    "name": "Muskurane",
    "lyrics": "https://www.azlyrics.com/lyrics/arijitsingh/muskurane.html",
@@ -1909,5 +1909,15 @@
    "singer": ["Arijit SIngh"],
    "genre": ["Love, Instrumental"],
    "link": "https://www.youtube.com/watch?v=4gNu8LsfYP8"
+},
+{
+   "id": 214,
+   "name": "Waka Waka (This Time for Africa)",
+   "lyrics": "https://lyricbasket.in/waka-waka-song-lyrics-valmiki-varun-tej/",
+   "album": "",
+   "Duration": "3 min 22 sec",
+   "singer": ["Shakira"],
+   "genre": ["Afro-fusion,Soca"],
+   "link": "https://www.youtube.com/watch?v=1zacYmrdexA"
 }
 ]
