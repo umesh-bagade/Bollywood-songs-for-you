@@ -4,20 +4,10 @@
    "lyrics": "https://www.indicine.com/movies/bollywood/sajda-lyrics-my-name-is-khan/",
    "album": "My Name is Khan (2010)",
    "Duration": "4 min 58 sec",
-   "singer": ["Udit Narayan", "Sameer"],
+   "singer": ["Rahat Fateh Ali Khan", "Shankar Mahadevan", "Richa Sharma"],
    "genre": ["Romantic"],
    "link": "https://youtu.be/3rPEWcY6Oww"
-},
- {
-   "id": 1111,
-   "name": "Maa (Banke tera saya mai tujhko tham lu)",
-   "lyrics": "https://lyricsset.com/banke-tera-saya-mai-tujhko-tham-lu-lyrics/",
-   "album": "My Name is Khan (2010)",
-   "Duration": "3 min 23 sec",
-   "singer": ["Udit Narayan", "Sameer"],
-   "genre": ["heart-touching"],
-   "link": "https://www.gamelodu.com/banke-tera-saya-mai-tujhako-tham-lu-mp3-song-download-pagalworld-320kbps-free-hq/"
-},{
+}, {
    "id": 2,
    "name": "Mast Magaan",
    "lyrics": "https://gaana.com/lyrics/mast-magan-1",
@@ -2008,7 +1998,7 @@
    "singer": ["Sukhwinder Singh","Bhoomi Trivedi","Karsan Sagathia"],
    "genre": ["Celebration","Dance"],
    "link": "https://www.jiosaavn.com/song/udi-udi-jaye/Gx8vZTwEX2o"
-},
+}
 
 
 ]
