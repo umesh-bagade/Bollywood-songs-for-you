@@ -1959,6 +1959,17 @@
    "singer": ["Lata Mangeshkar"],
    "link": "https://youtu.be/vB1qh0eUv78"
 },
+
+{
+   "id": 269,
+   "name": "Tere Sang Yara",
+   "lyrics": "https://www.azlyrics.com/lyrics/atifaslam/teresangyaara.html",
+   "album": "Rustom",
+   "Duration": "5 min 5 sec",
+   "singer": ["Atif Aslam"],
+   "genre": ["Romantic", "slow"],
+   "link": "https://www.youtube.com/watch?v=gIOea2pgfIo"
+
  {
    "id": 218,
    "name": "lag ja gale",
@@ -1989,7 +2000,8 @@
    "genre": ["Indian Film Pop"],
    "link": "https://youtu.be/piUHBTXsoiY"
 
-}
+
+},
 
 {
    "id": 219,
