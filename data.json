@@ -2074,6 +2074,16 @@
    "genre": ["Rap, Instrumental"],
    "link": "https://www.youtube.com/watch?v=jTg15DrXhB0"
 },
+   {
+   "id": 220,
+   "name": "For Aisha",
+   "lyrics": "https://sweet-lyrics.blogspot.com/2020/05/memba-for-aisha-lyrics-sky-is-pink.html",
+   "album": "For Aisha",
+   "Duration": "5 min 59 sec",
+   "singer": ["Evan Giia and MEMBA"],
+   "genre": ["Indian,Indie"],
+   "link": "https://www.youtube.com/watch?v=bR8sE9ubyTI"
+},
 {
    "id": 214,
    "name": "Aayat",
@@ -2106,6 +2116,7 @@
    "genre": ["Romantic"],
    "link": "https://youtu.be/3rPEWcY6Oww"
 },
+
 
 ]
 
