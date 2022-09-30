@@ -1909,5 +1909,23 @@
    "singer": ["Arijit SIngh"],
    "genre": ["Love, Instrumental"],
    "link": "https://www.youtube.com/watch?v=4gNu8LsfYP8"
+},
+{"id": 217,
+   "name": "Lag ja gale",
+   "lyrics": "https://gaana.com/lyrics/lag-ja-gale-8",
+   "album": "Woh Kaun Thi?",
+   "Duration": "4 min 39 sec",
+   "singer": ["Nayan Shankar"],
+   "genre": ["Love"],
+   "link": "https://youtu.be/TFr6G5zveS8"
+},
+{"id": 218,
+   "name": "Tumhi aana",
+   "lyrics": "https://gaana.com/lyrics/lag-ja-gale-8",
+   "album": "Woh Kaun Thi?",
+   "Duration": "4 min 39 sec",
+   "singer": ["jubeen N"],
+   "genre": ["Love"],
+   "link": "https://youtu.be/TFr6G5zveS8"
 }
 ]
