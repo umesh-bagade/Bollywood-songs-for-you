@@ -1913,6 +1913,14 @@
    "link": "https://www.youtube.com/watch?v=4gNu8LsfYP8"
 },
 {
+   "id":214,
+   "name":"Jogi",
+   "lyrics":"https://www.lyricsbull.com/jogi-shaadi-mein-zaroor-aana/",
+   "album":"Shadi me jaroor ana",
+   "Duration":"4 min 44 sec",
+   "singer":["Yasser Desai ,Aakanksha Sharma"],
+   "genre":["Love","Instrumental"],
+   "link":"https://www.youtube.com/watch?v=HexFqifusOk"
    "id": 214,
    "name": "Waka Waka (This Time for Africa)",
    "lyrics": "https://lyricbasket.in/waka-waka-song-lyrics-valmiki-varun-tej/",
@@ -2037,9 +2045,6 @@
    "singer": [" Lata Mangeshkar "],
    "genre": ["Love, Instrumental"],
    "link": "https://youtu.be/vB1qh0eUv78
-}
-
-   "link": "https://youtu.be/vB1qh0eUv78"
 },
 
  {
