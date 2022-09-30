@@ -1900,7 +1900,8 @@
    "singer": ["Jubin Nautiyal, Asees Kaur"],
    "genre": ["Love, Instrumental"],
    "link": "https://youtu.be/gvyUuxdRdR4"
-}
+},
+ {
 "id": 213,
    "name": "Muskurane",
    "lyrics": "https://www.azlyrics.com/lyrics/arijitsingh/muskurane.html",
@@ -1909,7 +1910,140 @@
    "singer": ["Arijit SIngh"],
    "genre": ["Love, Instrumental"],
    "link": "https://www.youtube.com/watch?v=4gNu8LsfYP8"
+
+},
+{
+   "id": 214,
+   "name": "tum hi ho",
+   "lyrics": "https://www.indicine.com/movies/bollywood/sajda-lyrics-my-name-is-khan/",
+   "album": "aashiqui 2",
+   "Duration": "4 min 58 sec",
+   "singer": ["arijit singh", "Shankar Mahadevan", "Richa Sharma"],
+   "genre": ["Romantic"],
+   "link": "https://youtu.be/3rPEWcY6Oww"
+
+
+},{
+ "id": 214,
+   "name": "Sau Aasmaan",
+   "lyrics": "https://open.spotify.com/track/0zHZSO80CTxNtvtRhveHRJ",
+   "album": "Baar Baar Dekho",
+   "Duration": "4 min 19 sec",
+   "singer": ["Aarmaan Malik", "Neeti Mohan"],
+   "genre": ["Romantic"],
+   "link": "https://www.youtube.com/watch?v=mpjNh-uGBY4"
+},
+{
+"id": 215,
+   "name": "Lag ja gale",
+   "lyrics": "https://gaana.com/lyrics/lag-ja-gale-8",
+   "album": "Woh Kaun Thi?",
+   "Duration": "4 min 39 sec",
+   "singer": ["Nayan Shankar"],
+   "genre": ["Love"],
+   "link": "https://youtu.be/TFr6G5zveS8"
+},{
+"id": 216
+   "name": "Lag ja gale",
+   "lyrics": "https://gaana.com/lyrics/lag-ja-gale-8",
+   "album": "Woh Kaun Thi?",
+   "Duration": "4 min 39 sec",
+   "singer": ["Nayan Shankar"],
+   "genre": ["Love"],
+   "link": "https://youtu.be/TFr6G5zveS8"
+},
+{
+"id": 217,
+   "name": "Lag ja gale",
+   "lyrics": "https://gaana.com/lyrics/lag-ja-gale-8",
+   "album": "Woh Kaun Thi?",
+   "Duration": "4 min 40 sec",
+   "singer": ["Lata Mangeshkar"],
+   "link": "https://youtu.be/vB1qh0eUv78"
+},
+
+{
+   "id": 269,
+   "name": "Tere Sang Yara",
+   "lyrics": "https://www.azlyrics.com/lyrics/atifaslam/teresangyaara.html",
+   "album": "Rustom",
+   "Duration": "5 min 5 sec",
+   "singer": ["Atif Aslam"],
+   "genre": ["Romantic", "slow"],
+   "link": "https://www.youtube.com/watch?v=gIOea2pgfIo"
+
+ {
+   "id": 218,
+   "name": "lag ja gale",
+   "lyrics": "https://www.jiosaavn.com/album/sanam---lag-ja-gale/zJ-5PdpWpxI_",
+   "album": "Rewind With Sanam",
+   "Duration": "4 min 39 sec",
+   "singer": [" Lata Mangeshkar "],
+   "genre": ["Love, Instrumental"],
+   "link": "https://youtu.be/vB1qh0eUv78"
+},
+
+ {
+   "id": 220,
+   "name": "Love me like you do",
+   "lyrics": "https://www.azlyrics.com/lyrics/elliegoulding/lovemelikeyoudofiftyshadesfreedversion.html",
+   "album": "Fifty shades of gray",
+   "Duration": "4 min 39 sec",
+   "singer": [" Ellie Doungling "],
+   "genre": ["Love, Instrumental"],
+   "link": "https://www.youtube.com/watch?v=AJtDXIazrMo"
+
+{
+   "id": 219,  "name": "Raabta",
+   "lyrics": "https://www.lyricsoff.com/songs/raabta.html",
+   "album": "Agent Vinod",
+   "Duration": "4 min 39 sec",
+   "singer": ["Arijit Singh"],
+   "genre": ["Indian Film Pop"],
+   "link": "https://youtu.be/piUHBTXsoiY"
+
+
+},
+
+{
+   "id": 219,
+
+   "name": "Dhadhkan",
+   "lyrics": "https://www.jiosaavn.com/album/sanam---dhakdkan/zJ-5PdpWpxI_",
+   "album": "dhakdkan",
+   "Duration": "3 min 15 sec",
+   "singer": [" Lata Mangeshkar, Udit narayn "],
+   "genre": ["Love, Instrumental"],
+   "link": "https://www.youtube.com/watch?v=dx1MPawGE-E"
 }
+
+   "name": "Rozana",
+   "lyrics": "https://lyricstranslate.com/en/shreya-ghoshal-rozana-lyrics.html",
+   "album": "Naam Shabana",
+   "Duration": "4 min 29 sec",
+   "singer": ["Shreya Ghoshal"],
+   "genre": ["Love, Instrumental"],
+   "link": "https://www.youtube.com/watch?v=CtgD91Ev4NU"
+
+}
+   "name": "Udi Udi Jaye",
+   "lyrics": "https://www.lyricsmint.com/raees/udi-udi-jaye",
+   "album": "Raees",
+   "Duration": "4 min 20 sec",
+   "singer": ["Sukhwinder Singh","Bhoomi Trivedi","Karsan Sagathia"],
+   "genre": ["Celebration","Dance"],
+   "link": "https://www.jiosaavn.com/song/udi-udi-jaye/Gx8vZTwEX2o"
+},
+   {
+   "id": 214,
+   "name": "Desi Kalakaar",
+   "lyrics": "https://genius.com/Yo-yo-honey-singh-desi-kalakaar-lyrics",
+   "album": "Desi Kalakaar",
+   "Duration": "4 min 33 sec",
+   "singer": ["Yo Yo Honey Singh"],
+   "genre": ["Rap, Instrumental"],
+   "link": "https://www.youtube.com/watch?v=jTg15DrXhB0"
+},
 {
    "id": 214,
    "name": "Aayat",
@@ -1919,5 +2053,6 @@
    "singer": ["Arijit Singh"],
    "genre": ["Romantic", "slow"],
    "link": "https://www.youtube.com/watch?v=XZ8NF2Yv7J0"
-},
+}
 ]
+
