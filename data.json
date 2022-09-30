@@ -4,10 +4,20 @@
    "lyrics": "https://www.indicine.com/movies/bollywood/sajda-lyrics-my-name-is-khan/",
    "album": "My Name is Khan (2010)",
    "Duration": "4 min 58 sec",
-   "singer": ["Rahat Fateh Ali Khan", "Shankar Mahadevan", "Richa Sharma"],
+   "singer": ["Udit Narayan", "Sameer"],
    "genre": ["Romantic"],
    "link": "https://youtu.be/3rPEWcY6Oww"
-}, {
+},
+ {
+   "id": 1111,
+   "name": "Maa (Banke tera saya mai tujhko tham lu)",
+   "lyrics": "https://lyricsset.com/banke-tera-saya-mai-tujhko-tham-lu-lyrics/",
+   "album": "My Name is Khan (2010)",
+   "Duration": "3 min 23 sec",
+   "singer": ["Udit Narayan", "Sameer"],
+   "genre": ["heart-touching"],
+   "link": "https://www.gamelodu.com/banke-tera-saya-mai-tujhako-tham-lu-mp3-song-download-pagalworld-320kbps-free-hq/"
+},{
    "id": 2,
    "name": "Mast Magaan",
    "lyrics": "https://gaana.com/lyrics/mast-magan-1",
@@ -1958,10 +1968,32 @@
    "singer": [" Lata Mangeshkar "],
    "genre": ["Love, Instrumental"],
    "link": "https://youtu.be/vB1qh0eUv78"
+},
+
+ {
+   "id": 220,
+   "name": "Love me like you do",
+   "lyrics": "https://www.azlyrics.com/lyrics/elliegoulding/lovemelikeyoudofiftyshadesfreedversion.html",
+   "album": "Fifty shades of gray",
+   "Duration": "4 min 39 sec",
+   "singer": [" Ellie Doungling "],
+   "genre": ["Love, Instrumental"],
+   "link": "https://www.youtube.com/watch?v=AJtDXIazrMo"
+
+{
+   "id": 219,  "name": "Raabta",
+   "lyrics": "https://www.lyricsoff.com/songs/raabta.html",
+   "album": "Agent Vinod",
+   "Duration": "4 min 39 sec",
+   "singer": ["Arijit Singh"],
+   "genre": ["Indian Film Pop"],
+   "link": "https://youtu.be/piUHBTXsoiY"
+
 }
 
 {
    "id": 219,
+
    "name": "Dhadhkan",
    "lyrics": "https://www.jiosaavn.com/album/sanam---dhakdkan/zJ-5PdpWpxI_",
    "album": "dhakdkan",
@@ -1970,6 +2002,23 @@
    "genre": ["Love, Instrumental"],
    "link": "https://www.youtube.com/watch?v=dx1MPawGE-E"
 }
+
+   "name": "Rozana",
+   "lyrics": "https://lyricstranslate.com/en/shreya-ghoshal-rozana-lyrics.html",
+   "album": "Naam Shabana",
+   "Duration": "4 min 29 sec",
+   "singer": ["Shreya Ghoshal"],
+   "genre": ["Love, Instrumental"],
+   "link": "https://www.youtube.com/watch?v=CtgD91Ev4NU"
+}
+   "name": "Udi Udi Jaye",
+   "lyrics": "https://www.lyricsmint.com/raees/udi-udi-jaye",
+   "album": "Raees",
+   "Duration": "4 min 20 sec",
+   "singer": ["Sukhwinder Singh","Bhoomi Trivedi","Karsan Sagathia"],
+   "genre": ["Celebration","Dance"],
+   "link": "https://www.jiosaavn.com/song/udi-udi-jaye/Gx8vZTwEX2o"
+},
 
 ]
 
