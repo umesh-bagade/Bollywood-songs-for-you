@@ -1900,7 +1900,8 @@
    "singer": ["Jubin Nautiyal, Asees Kaur"],
    "genre": ["Love, Instrumental"],
    "link": "https://youtu.be/gvyUuxdRdR4"
-}
+},
+ {
 "id": 213,
    "name": "Muskurane",
    "lyrics": "https://www.azlyrics.com/lyrics/arijitsingh/muskurane.html",
@@ -1909,6 +1910,7 @@
    "singer": ["Arijit SIngh"],
    "genre": ["Love, Instrumental"],
    "link": "https://www.youtube.com/watch?v=4gNu8LsfYP8"
+
 },
 }
 "id": 214,
@@ -1919,5 +1921,56 @@
    "singer": ["Alak Yagnik,Kumar Sanu,Kavita Krishnamurthy,udit Narayan"],
    "genre": ["Love,Romantic"],
    "link": "https://www.youtube.com/watch?v=m9YhBDFxC5o"
+
+},
+{
+ "id": 214,
+   "name": "Sau Aasmaan",
+   "lyrics": "https://open.spotify.com/track/0zHZSO80CTxNtvtRhveHRJ",
+   "album": "Baar Baar Dekho",
+   "Duration": "4 min 19 sec",
+   "singer": ["Aarmaan Malik", "Neeti Mohan"],
+   "genre": ["Romantic"],
+   "link": "https://www.youtube.com/watch?v=mpjNh-uGBY4"
+},
+{
+"id": 215,
+   "name": "Lag ja gale",
+   "lyrics": "https://gaana.com/lyrics/lag-ja-gale-8",
+   "album": "Woh Kaun Thi?",
+   "Duration": "4 min 39 sec",
+   "singer": ["Nayan Shankar"],
+   "genre": ["Love"],
+   "link": "https://youtu.be/TFr6G5zveS8"
+},{
+"id": 216
+   "name": "Lag ja gale",
+   "lyrics": "https://gaana.com/lyrics/lag-ja-gale-8",
+   "album": "Woh Kaun Thi?",
+   "Duration": "4 min 39 sec",
+   "singer": ["Nayan Shankar"],
+   "genre": ["Love"],
+   "link": "https://youtu.be/TFr6G5zveS8"
+},
+{
+"id": 217,
+   "name": "Lag ja gale",
+   "lyrics": "https://gaana.com/lyrics/lag-ja-gale-8",
+   "album": "Woh Kaun Thi?",
+   "Duration": "4 min 40 sec",
+   "singer": ["Lata Mangeshkar"],
+   "link": "https://youtu.be/vB1qh0eUv78"
+},
+ {
+   "id": 218,
+   "name": "lag ja gale",
+   "lyrics": "https://www.jiosaavn.com/album/sanam---lag-ja-gale/zJ-5PdpWpxI_",
+   "album": "Rewind With Sanam",
+   "Duration": "4 min 39 sec",
+   "singer": [" Lata Mangeshkar "],
+   "genre": ["Love, Instrumental"],
+   "link": "https://youtu.be/vB1qh0eUv78
 }
+
 ]
+
