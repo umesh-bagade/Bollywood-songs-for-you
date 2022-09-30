@@ -2045,8 +2045,9 @@
    "singer": [" Lata Mangeshkar, Udit narayn "],
    "genre": ["Love, Instrumental"],
    "link": "https://www.youtube.com/watch?v=dx1MPawGE-E"
-},
-{
+ },
+ {
+   "id": 220,
    "name": "Rozana",
    "lyrics": "https://lyricstranslate.com/en/shreya-ghoshal-rozana-lyrics.html",
    "album": "Naam Shabana",
@@ -2064,6 +2065,18 @@
    "genre": ["Celebration","Dance"],
    "link": "https://www.jiosaavn.com/song/udi-udi-jaye/Gx8vZTwEX2o"
 },
+
+{
+   "id": 222,
+   "name": "Manwa Laage",
+   "lyrics": "https://wynk.in/u/wybKQLdok",
+   "album": " HAPPY NEW YEAR ",
+   "Duration": "4 min 28 sec",
+   "singer": ["Jubin Nautiyal"],
+   "genre": ["Love, Instrumental"],
+   "link": "https://youtu.be/d8IT-16kA8M"
+},
+
    {
    "id": 214,
    "name": "Desi Kalakaar",
