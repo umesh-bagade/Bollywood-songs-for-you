@@ -2025,8 +2025,9 @@
    "singer": [" Lata Mangeshkar, Udit narayn "],
    "genre": ["Love, Instrumental"],
    "link": "https://www.youtube.com/watch?v=dx1MPawGE-E"
-}
-
+},
+{
+   "id": 220,
    "name": "Rozana",
    "lyrics": "https://lyricstranslate.com/en/shreya-ghoshal-rozana-lyrics.html",
    "album": "Naam Shabana",
@@ -2035,7 +2036,9 @@
    "genre": ["Love, Instrumental"],
    "link": "https://www.youtube.com/watch?v=CtgD91Ev4NU"
 
-}
+},
+{
+   "id": 221,
    "name": "Udi Udi Jaye",
    "lyrics": "https://www.lyricsmint.com/raees/udi-udi-jaye",
    "album": "Raees",
@@ -2043,6 +2046,16 @@
    "singer": ["Sukhwinder Singh","Bhoomi Trivedi","Karsan Sagathia"],
    "genre": ["Celebration","Dance"],
    "link": "https://www.jiosaavn.com/song/udi-udi-jaye/Gx8vZTwEX2o"
+},
+{
+   "id": 222,
+   "name": "Manwa Laage",
+   "lyrics": "https://wynk.in/u/wybKQLdok",
+   "album": " HAPPY NEW YEAR ",
+   "Duration": "4 min 28 sec",
+   "singer": ["Jubin Nautiyal"],
+   "genre": ["Love, Instrumental"],
+   "link": "https://youtu.be/d8IT-16kA8M"
 },
 
 ]
