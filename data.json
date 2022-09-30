@@ -1958,7 +1958,17 @@
    "singer": [" Lata Mangeshkar "],
    "genre": ["Love, Instrumental"],
    "link": "https://youtu.be/vB1qh0eUv78"
-}
+},
+{
+   "id": 219,
+   "name": "Udi Udi Jaye",
+   "lyrics": "https://www.lyricsmint.com/raees/udi-udi-jaye",
+   "album": "Raees",
+   "Duration": "4 min 20 sec",
+   "singer": ["Sukhwinder Singh","Bhoomi Trivedi","Karsan Sagathia"],
+   "genre": ["Celebration","Dance"],
+   "link": "https://www.jiosaavn.com/song/udi-udi-jaye/Gx8vZTwEX2o"
+},
 
 ]
 
