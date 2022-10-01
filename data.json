@@ -3656,6 +3656,16 @@
    "singer": ["Alka Yagnik","Udit Narayan"],
    "genre": ["Romantic","Indian Film Pop"],
    "link": "https://www.youtube.com/watch?v=MKwVJv5d04Y"
+},
+{
+   "id": 224,
+   "name": "Kesariya",
+   "lyrics": "https://www.ilyricshub.com/kesariya-brahmastra/",
+   "album": "Brahmastra",
+   "Duration": "2 min 53 sec",
+   "singer": ["Arijit Singh"],
+   "genre": ["Romantic","Indian Film Pop"],
+   "link": "https://www.youtube.com/watch?v=BddP6PYo2gs&ab_channel=SonyMusicIndia"
 }
-   
+
 ]
