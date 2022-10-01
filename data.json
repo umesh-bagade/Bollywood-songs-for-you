@@ -2203,7 +2203,16 @@
    "link": "https://www.youtube.com/watch?v=-y6_cFZsMJA"
 },
 
-
+{
+   "id": 219,
+   "name": "Iktara",
+   "lyrics": "https://gaana.com/lyrics/iktara-9",
+   "album": "wake up sid",
+   "Duration": "4 min 13 sec",
+   "singer": ["Amitabh Bhattachary", "Amit Trivedi", "kavita Seth"],
+   "genre": ["Romantic"],
+   "link": "https://www.youtube.com/watch?v=fSS_R91Nimw"
+},
 
 ]
 
