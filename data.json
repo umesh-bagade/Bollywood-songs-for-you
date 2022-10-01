@@ -2112,7 +2112,7 @@
 },
 
    {
-   "id": 214,
+   "id": 264,
    "name": "Desi Kalakaar",
    "lyrics": "https://genius.com/Yo-yo-honey-singh-desi-kalakaar-lyrics",
    "album": "Desi Kalakaar",
@@ -2132,7 +2132,7 @@
    "link": "https://www.youtube.com/watch?v=bR8sE9ubyTI"
 },
 {
-   "id": 214,
+   "id": 254,
    "name": "Aayat",
    "lyrics": "https://www.azlyrics.com/lyrics/arijitsingh/aayat.html",
    "album": "Bajirao Mastani",
@@ -2153,7 +2153,7 @@
 
 },
 {
-   "id": 214,
+   "id": 244,
    "name": "tere bin",
    "lyrics": "https://www.indicine.com/movies/bollywood/sajda-lyrics-my-name-is-khan/",
    "album": "wazir",
@@ -2202,8 +2202,21 @@
    "genre": ["Sad","Emotional"],
    "link": "https://www.youtube.com/watch?v=-y6_cFZsMJA"
 },
+
+
 {
    "id": 219,
+   "name": "Iktara",
+   "lyrics": "https://gaana.com/lyrics/iktara-9",
+   "album": "wake up sid",
+   "Duration": "4 min 13 sec",
+   "singer": ["Amitabh Bhattachary", "Amit Trivedi", "kavita Seth"],
+   "genre": ["Romantic"],
+   "link": "https://www.youtube.com/watch?v=fSS_R91Nimw"
+},
+{
+   "id": 220,
+
    "name": "Tera Hone Laga Hoon",
    "lyrics": "https://gaana.com/playlist/ashitharamesh2-terahonelagahoon",
    "album": "Ajab Prem Ki Ghazab Kahani",
@@ -2214,7 +2227,7 @@
 },
 {
 
-   "id":220,
+   "id":221,
    "name": "Bawara mann rahat aake",
    "lyrics": "https://www.lyricsmint.com/jolly-llb-2/bawara-mann",
    "album": "Ajab Prem Ki Ghazab Kahani",
@@ -2224,7 +2237,7 @@
    "link": "https://www.youtube.com/watch?v=EwIljm4gFoE"
 },
 {
-   "id": 220,
+   "id": 222,
    "name": "Meri Chunar Udd Udd Jaye",
    "lyrics": "https://www.jiosaavn.com/lyrics/meri-chunar-udd-udd-jaye-lyrics/BikERwZoc2w",
    "album": "Meri Chunar Udd Udd Jaye",
@@ -2234,7 +2247,7 @@
    "link": "https://www.youtube.com/watch?v=p9r2GxMlRD4"
 },
 {
-   "id": 221,
+   "id": 223,
    "name": "Hum Yaar Hain Tumhare",
    "lyrics": "https://suhanelyrics.in/hum-yaar-hain-tumhare-song-lyrics-in-hindi-english/",
    "album": "Haan Maine Bhi Pyaar Kiya - Jhankar",
