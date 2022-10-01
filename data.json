@@ -3185,10 +3185,10 @@
 "lyrics": "https://www.lyricsgoal.com/maiyya-mainu-jersey-sachet-tandon/",
 "album": "Jersey",
 "Duration": "4 min 19 sec",
-"singer": [
-"Sachet-Parampara," Shellee" , "Gowtam T"],"genre": ["Love, Instrumental"
-],
+"singer": ["Sachet-Parampara","Shellee" , "Gowtam T"],
+"genre": ["Love", "Instrumental"],
 "link": "https://www.youtube.com/watch?v=y7MW7d8fb1Y"
+],
 },
 "id": 214,
 "name": "Chand Si Mehbooba",
@@ -3656,6 +3656,16 @@
    "singer": ["Alka Yagnik","Udit Narayan"],
    "genre": ["Romantic","Indian Film Pop"],
    "link": "https://www.youtube.com/watch?v=MKwVJv5d04Y"
+},
+{
+   "id": 224,
+   "name": "Give Me Some Sunshine",
+   "lyrics": "https://lirik.web.id/3/3-idiots/lirik-lagu-3-idiots-give-me-some-sunshine/",
+   "album": "Ost 3 Idiots",
+   "Duration": "4 min 15 sec",
+   "singer": ["Suraj Jagan", "Sharman Joshi"],
+   "genre": ["Indian Film Pop"],
+   "link": "https://youtu.be/lbCRtrrMvSw"
 }
    
 ]
