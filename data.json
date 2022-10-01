@@ -2202,12 +2202,8 @@
    "genre": ["Sad","Emotional"],
    "link": "https://www.youtube.com/watch?v=-y6_cFZsMJA"
 },
-
-
-
-]
-
-
+{
+   "id":219,
    "name": "Tera Hone Laga Hoon",
    "lyrics": "https://gaana.com/playlist/ashitharamesh2-terahonelagahoon",
    "album": "Ajab Prem Ki Ghazab Kahani",
@@ -2215,6 +2211,15 @@
    "singer": ["Atif Aslam"],
    "genre": ["Romantic"],
    "link": "https://www.youtube.com/watch?v=rTuxUAuJRyY"
+},
+{
+   "id":220,
+   "name": "Bawara mann rahat aake",
+   "lyrics": "https://www.lyricsmint.com/jolly-llb-2/bawara-mann",
+   "album": "Ajab Prem Ki Ghazab Kahani",
+   "Duration": "3 min 31 sec",
+   "singer": ["Jubin Nautiyal, Neeti Mohan"],
+   "genre": ["Soothing to ears"],
+   "link": "https://www.youtube.com/watch?v=EwIljm4gFoE"
 }
-
 ]
