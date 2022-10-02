@@ -3656,6 +3656,16 @@
    "singer": ["Alka Yagnik","Udit Narayan"],
    "genre": ["Romantic","Indian Film Pop"],
    "link": "https://www.youtube.com/watch?v=MKwVJv5d04Y"
-}
+},
+{
+   "id": 224,
+   "name": "Nashe Si Chadh Gayi",
+   "lyrics": "https://gaana.com/lyrics/nashe-si-chadh-gayi",
+   "album": "Befikre",
+   "Duration": "3 min 55 sec",
+   "singer": ["Arijit Singh"],
+   "genre": ["Indian Film Pop"],
+   "link": "https://www.youtube.com/watch?v=HoCwa6gnmM0"
+},
    
 ]
