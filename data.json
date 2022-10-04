@@ -3644,7 +3644,95 @@
     "singer": ["Arijit Singh"],
     "genre": ["Indian Film Pop"],
     "link": "https://www.youtube.com/watch?v=HoCwa6gnmM0"
- }
+ },
+ {
+   "name": "Tera Hone Laga Hoon",
+"lyrics": "https://gaana.com/playlist/ashitharamesh2-terahonelagahoon",
+"album": "Ajab Prem Ki Ghazab Kahani",
+"Duration": "4 min 59 sec",
+"singer": [
+"Atif Aslam"
+],
+"genre": [
+"Romantic"
+],
+"link": "https://www.youtube.com/watch?v=rTuxUAuJRyY"
 
- ]
- 
+},
+
+{
+   "id": 219,
+   "name": "Iktara",
+   "lyrics": "https://gaana.com/lyrics/iktara-9",
+   "album": "wake up sid",
+   "Duration": "4 min 13 sec",
+   "singer": ["Amitabh Bhattachary", "Amit Trivedi", "kavita Seth"],
+   "genre": ["Romantic"],
+   "link": "https://www.youtube.com/watch?v=fSS_R91Nimw"
+},
+{
+   "id": 220,
+
+   "name": "Tera Hone Laga Hoon",
+   "lyrics": "https://gaana.com/playlist/ashitharamesh2-terahonelagahoon",
+   "album": "Ajab Prem Ki Ghazab Kahani",
+   "Duration": "4 min 59 sec",
+   "singer": ["Atif Aslam"],
+   "genre": ["Romantic"],
+   "link": "https://www.youtube.com/watch?v=rTuxUAuJRyY"
+},
+{
+
+   "id":221,
+   "name": "Bawara mann rahat aake",
+   "lyrics": "https://www.lyricsmint.com/jolly-llb-2/bawara-mann",
+   "album": "Ajab Prem Ki Ghazab Kahani",
+   "Duration": "3 min 31 sec",
+   "singer": ["Jubin Nautiyal, Neeti Mohan"],
+   "genre": ["Soothing to ears"],
+   "link": "https://www.youtube.com/watch?v=EwIljm4gFoE"
+},
+{
+   "id": 222,
+   "name": "Meri Chunar Udd Udd Jaye",
+   "lyrics": "https://www.jiosaavn.com/lyrics/meri-chunar-udd-udd-jaye-lyrics/BikERwZoc2w",
+   "album": "Meri Chunar Udd Udd Jaye",
+   "Duration": "5 min 3 sec",
+   "singer": ["Falguni Pathak"],
+   "genre": ["Romantic","Indian Film Pop","Indian Pop"],
+   "link": "https://www.youtube.com/watch?v=p9r2GxMlRD4"
+},
+{
+   "id": 223,
+   "name": "Tip tip BARSA PAANI",
+   "lyrics": "https://www.hinditracks.in/tip-tip-barsa-pani-hindi-lyrics-mohra",
+   "album": "Mohra",
+   "Duration": "6 min 05 sec",
+   "singer": ["Alka Yagnik","Udit Narayan"],
+   "genre": ["Romantic","Indian Film Pop"],
+   "link": "https://www.youtube.com/watch?v=MKwVJv5d04Y"
+},
+{
+   "id": 224,
+   "name": "Nashe Si Chadh Gayi",
+   "lyrics": "https://gaana.com/lyrics/nashe-si-chadh-gayi",
+   "album": "Befikre",
+   "Duration": "3 min 55 sec",
+   "singer": ["Arijit Singh"],
+   "genre": ["Indian Film Pop"],
+   "link": "https://www.youtube.com/watch?v=HoCwa6gnmM0"
+},
+
+{
+   "id": 225,
+   "name": "tum se hi",
+   "lyrics": "https://www.lyrics.com/lyric/13121256/Unlinked+Artist/Tum+Se+Hi",
+   "album": "jab we met",
+   "Duration": "5 min 21 sec",
+   "singer": ["Mohit Chauhan"],
+   "genre": ["Romantic","Indian Film Pop"],
+   "link": "https://www.youtube.com/watch?v=mt9xg0mmt28"
+}
+]
+
+
