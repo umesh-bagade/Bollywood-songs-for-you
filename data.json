@@ -1,3596 +1,3651 @@
 [
-   {
-      "id": 1,
-      "name": "Sajdaa",
-      "lyrics": "https://www.indicine.com/movies/bollywood/sajda-lyrics-my-name-is-khan/",
-      "album": "My Name is Khan (2010)",
-      "Duration": "4 min 58 sec",
-      "singer": [
-         "Rahat Fateh Ali Khan",
-         "Shankar Mahadevan",
-         "Richa Sharma"
-      ],
-      "genre": [
-         "Romantic"
-      ],
-      "link": "https://youtu.be/3rPEWcY6Oww"
-   },
-   {
-      "id": 2,
-      "name": "Mast Magaan",
-      "lyrics": "https://gaana.com/lyrics/mast-magan-1",
-      "album": "2 States",
-      "Duration": "4 min 40 sec",
-      "singer": [
-         "Arijit Singh",
-         "Chinmayi Sripada"
-      ],
-      "genre": [
-         "Romantic",
-         "slow",
-         "lofi"
-      ],
-      "link": "https://youtu.be/fXRvluHnjxE"
-   },
-   {
-      "id": 3,
-      "name": "Sajde",
-      "lyrics": "https://gaana.com/lyrics/sajde",
-      "album": "Khatta Meetha",
-      "Duration": "5 min 5 sec",
-      "singer": [
-         "Pritam",
-         "K.K",
-         "Sunidhi Chauhan"
-      ],
-      "genre": [
-         "Romantic",
-         "slow"
-      ],
-      "link": "https://youtu.be/zfABYXP_NSA"
-   },
-   {
-      "id": 4,
-      "name": "Kholo Kholo",
-      "lyrics": "https://gaana.com/lyrics/kholo-kholo",
-      "album": "Taare Zameen Par",
-      "Duration": "6 min 34 sec",
-      "singer": [
-         "Raman Mahadevan"
-      ],
-      "genre": [
-         "Motivation",
-         "Pop"
-      ],
-      "link": "https://youtu.be/FIaUYKLg5S4"
-   },
-   {
-      "id": 5,
-      "name": "Mann Bharryaa 2.0",
-      "lyrics": "https://www.ilyricshub.com/mann-bharrya-2-0-shershaah-b-praak/",
-      "album": "Sheershaah",
-      "Duration": "3 min 50 sec",
-      "singer": [
-         "B Praak"
-      ],
-      "genre": [
-         "Emotional",
-         "slow",
-         "sad",
-         "Punjabi"
-      ],
-      "link": "https://youtu.be/1poXN3jF3Bw"
-   },
-   {
-      "id": 6,
-      "name": "Kabhii Tumhhe",
-      "lyrics": "https://www.ilyricshub.com/kabhi-tumhe-shershaah-darshan-raval/",
-      "album": "Sheershaah",
-      "Duration": "3 min 40 sec",
-      "singer": [
-         "Darshan Raval"
-      ],
-      "genre": [
-         "Emotional",
-         "slow",
-         "sad",
-         "Romantic",
-         "Punjabi"
-      ],
-      "link": "https://youtu.be/ByIZIKFmHOA"
-   },
-   {
-      "id": 7,
-      "name": "Raataan Lambiyan",
-      "lyrics": "https://www.ilyricshub.com/raataan-lambiyan-shershaah/",
-      "album": "Sheershaah",
-      "Duration": "2 min 31 sec",
-      "singer": [
-         "Jubin Nautiyal",
-         "Asees Kaur",
-         "Punjabi"
-      ],
-      "genre": [
-         "Romantic",
-         "slow"
-      ],
-      "link": "https://youtu.be/gvyUuxdRdR4"
-   },
-   {
-      "id": 8,
-      "name": "Ranjha ",
-      "lyrics": "https://www.ilyricshub.com/ranjha-shershaah-b-praak/",
-      "album": "Sheershaah",
-      "Duration": "3 min 13 sec",
-      "singer": [
-         "B Praak",
-         "Jasleen Royal",
-         "Punjabi"
-      ],
-      "genre": [
-         "Romantic",
-         "slow"
-      ],
-      "link": "https://youtu.be/V7LwfY5U5WI"
-   },
-   {
-      "id": 9,
-      "name": "Pani Da Rang",
-      "lyrics": "https://www.lyricsmint.com/vicky-donor/pani-da-rang",
-      "album": "Vicky Donor",
-      "Duration": "4 min 05 sec",
-      "singer": [
-         "Ayushmann Khurrana"
-      ],
-      "genre": [
-         "Romantic",
-         "Pop",
-         "Punjabi"
-      ],
-      "link": "https://youtu.be/2kgEc6oH9J0"
-   },
-   {
-      "id": 10,
-      "name": "Mere Liye Tum Kaafi Ho",
-      "lyrics": "https://gaana.com/lyrics/mere-liye-tum-kaafi-ho-from-shubh-mangal-zyada-saavdhan",
-      "album": "Shubh Mangal Zyada Saavdhan",
-      "Duration": "2 min 05 sec",
-      "singer": [
-         "Ayushman Khurana"
-      ],
-      "genre": [
-         "Romantic",
-         "Friendship"
-      ],
-      "link": "https://youtu.be/5LBB6OV3Ano"
-   },
-   {
-      "id": 11,
-      "name": "Rang De Basanti",
-      "lyrics": "https://www.hinditracks.in/mohe-rang-de-basanti-lyrics",
-      "album": "Rang De Basanti",
-      "Duration": "5 min 40 sec",
-      "singer": [
-         "Daler Mehndi"
-      ],
-      "genre": [
-         "Film Sountrack",
-         "Punjabi"
-      ],
-      "link": "https://youtu.be/5LBB6OV3Ano"
-   },
-   {
-      "id": 12,
-      "name": "Senorita",
-      "lyrics": "https://gaana.com/lyrics/senorita-17",
-      "album": "Zindagi Na Milegi Dobara",
-      "Duration": "3 min 51 sec",
-      "singer": [
-         "Farhan Akhtar",
-         " Hrithik Roshan",
-         "Abhay Deol"
-      ],
-      "genre": [
-         "Dance",
-         "Disco"
-      ],
-      "link": "https://youtu.be/yDv0WSgXJVg"
-   },
-   {
-      "id": 13,
-      "name": "Slow Motion Angreza",
-      "lyrics": "https://gaana.com/lyrics/slow-motion-angreza",
-      "album": "Bhaag Milkha Bhaag",
-      "Duration": "4 min 54 sec",
-      "singer": [
-         "Slow Motion Angreza",
-         "Shankar Mahadevan",
-         "Loy Mendonsa"
-      ],
-      "genre": [
-         "Dance",
-         "Disco"
-      ],
-      "link": "https://youtu.be/60vIVA5AZ9M"
-   },
-   {
-      "id": 14,
-      "name": "Sooraj Ki Baahon Mein",
-      "lyrics": "https://gaana.com/lyrics/sooraj-ki-baahon-mein-1",
-      "album": "Zindagi Na Milegi Dobara",
-      "Duration": "3 min 22 sec",
-      "singer": [
-         "Clinton Cerejo",
-         "Loy Mendonsa",
-         "Dominique Cerejo"
-      ],
-      "genre": [
-         "Chill",
-         "Motivation",
-         "Travel"
-      ],
-      "link": "https://youtu.be/gnrSX7TQJqU"
-   },
-   {
-      "id": 15,
-      "name": "Naina Da Kya Kasoor",
-      "lyrics": "https://www.lyricsbell.com/naina-da-kya-kasoor-andhadhun/",
-      "album": "Andhadhun",
-      "Duration": "3 min 30 sec",
-      "singer": [
-         "Amit Trivedi"
-      ],
-      "genre": [
-         "Pop",
-         "Romantic"
-      ],
-      "link": "https://youtu.be/WwvVUbllNkM"
-   },
-   {
-      "id": 16,
-      "name": "kaun tujhe",
-      "lyrics": "https://www.lyricsbell.com/kaun-tujhe",
-      "album": "M.S.Dhoni",
-      "Duration": "3 min 30 sec",
-      "singer": [
-         "Palak Muchhal"
-      ],
-      "genre": [
-         "Romantic"
-      ],
-      "link": "https://www.youtube.com/watch?v=atVof3pjT-I"
-   },
-   {
-      "id": 17,
-      "name": "Raftaarein",
-      "lyrics": "https://www.indicine.com/movies/lyrics/raftaarein-lyrics-ra-one/",
-      "album": "Ra.One",
-      "Duration": "4 min 45 sec",
-      "singer": [
-         "Vishal Dadlani"
-      ],
-      "genre": [
-         "Pop"
-      ],
-      "link": "https://www.youtube.com/watch?v=MlE-GojmNwM&ab_channel=T-Series"
-   },
-   {
-      "id": 18,
-      "name": "Aoi shiori",
-      "lyrics": "https://www.smule.com/song/galileo-galilei-aoi-shiori-full-romaji-karaoke-lyrics/796913691_2920463/arrangement",
-      "album": "",
-      "Duration": "2min",
-      "singer": [
-         "Galileo Galilei"
-      ],
-      "genre": [
-         "Romantic"
-      ],
-      "link": "https://www.youtube.com/results?search_query=aoi+shiori"
-   },
-   {
-      "id": 19,
-      "name": "Broke is a Joke",
-      "lyrics": "https://genius.com/Mc-stan-broke-is-a-joke-lyrics",
-      "album": "Broke is a Joke",
-      "Duration": "3 min 35 sec",
-      "singer": [
-         "MC STAN"
-      ],
-      "genre": [
-         "Motivation",
-         "Pop"
-      ],
-      "link": "https://youtu.be/YdIxAdTDpWU"
-   },
-   {
-      "id": 20,
-      "name": "Humnava",
-      "lyrics": "https://www.azlyrics.com/lyrics/arijitsingh/hamariadhurikahani.html",
-      "album": "Humari Adhuri Kahani",
-      "Duration": "6 min 19 sec",
-      "singer": [
-         "Papoon",
-         "Mithoon"
-      ],
-      "genre": [
-         "Romanace"
-      ],
-      "link": "https://www.youtube.com/watch?v=ktPD6TMovxs"
-   },
-   {
-      "id": 21,
-      "name": "chand sa roshan chehra",
-      "lyrics": "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiH9dL_nqfzAhWY8XMBHVfGAHoQFnoECBkQAQ&url=https%3A%2F%2Fwww.ajoobalyrics.com%2Fyeh-chaand-sa-roshan-chehra-lyrics-kashmir-ki-kali%2F&usg=AOvVaw0-My_DvQrryllZKs_xQUOu",
-      "album": "Tamannaah.",
-      "Duration": "6 min 19 sec",
-      "singer": [
-         "Udit Narayan",
-         "Mithoon"
-      ],
-      "genre": [
-         "Romanace"
-      ],
-      "link": "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiH9dL_nqfzAhWY8XMBHVfGAHoQwqsBegQIBBAB&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DVueN49P7JyU&usg=AOvVaw2i5UokZjIkxpd936yhE5y"
-   },
-   {
-      "id": 22,
-      "name": "Kabira",
-      "lyrics": "https://gaana.com/lyrics/kabira-1",
-      "album": "Yeh Jawaani Hai Deewani",
-      "Duration": "4 min 11 sec",
-      "singer": [
-         "TOCHI RAINA",
-         "REKHA BHARDWAJ"
-      ],
-      "genre": [
-         "Romanace"
-      ],
-      "link": "https://www.youtube.com/watch?v=jHNNMj5bNQw&list=PLP-07VKxSomFxGPP9Sa1lUBI_zTyGWHtu&index=10"
-   },
-   {
-      "id": 23,
-      "name": "Tu Chale",
-      "lyrics": "https://gaana.com/lyrics/tu-chale",
-      "album": "I",
-      "Duration": "4 min 52 sec",
-      "singer": [
-         "ARIJIT SINGH",
-         "SHREYA GHOSHAL"
-      ],
-      "genre": [
-         "Romanace"
-      ],
-      "link": "https://www.youtube.com/watch?v=iMuZRXsE7KI"
-   },
-   {
-      "id": 24,
-      "name": "Tu Hai Ki Nahi",
-      "lyrics": "https://gaana.com/lyrics/tu-hai-ki-nahi",
-      "album": "Roy",
-      "Duration": "5 min 33 sec",
-      "singer": [
-         "Ankit Tiwari"
-      ],
-      "genre": [
-         "Romanace"
-      ],
-      "link": "https://www.youtube.com/watch?v=61floBUAiTY"
-   },
-   {
-      "id": 25,
-      "name": "LAAL ISHQ",
-      "lyrics": "https://www.azlyrics.com/lyrics/arijitsingh/laalishq.html",
-      "album": "Goliyon Ki Raasleela Ram-leela",
-      "Duration": "6 min 43 sec",
-      "singer": [
-         "Arijit Singh"
-      ],
-      "genre": [
-         "Romanace"
-      ],
-      "link": "https://www.youtube.com/watch?v=PycY_BqbWaw"
-   },
-   {
-      "id": 26,
-      "name": "Saibo",
-      "lyrics": "https://gaana.com/lyrics/saibo-1",
-      "album": "Shor in the City ",
-      "Duration": "3 min 16 sec",
-      "singer": [
-         "Shreya Ghoshal,Tochi Raina"
-      ],
-      "genre": [
-         "Filmi, Pop"
-      ],
-      "link": "youtube.com/watch?v=P_HrHdFvcsg"
-   },
-   {
-      "id": 27,
-      "name": "Mumbai Dance",
-      "lyrics": "",
-      "album": "Bass Rani",
-      "Duration": "3 min 02 sec",
-      "singer": [
-         "Nucleya"
-      ],
-      "genre": [
-         "EDM"
-      ],
-      "link": "https://www.youtube.com/watch?v=f0DkVn-joQc"
-   },
-   {
-      "id": 28,
-      "name": "Lag jaa gale",
-      "lyrics": "https://gaana.com/song/lag-ja-gale-24",
-      "album": "Lag jaa gale",
-      "Duration": "5 min 02 sec",
-      "singer": [
-         "Lata Mangeshkar "
-      ],
-      "genre": [
-         "Romance"
-      ],
-      "link": "https://www.youtube.com/watch?v=TFr6G5zveS8"
-   },
-   {
-      "id": 29,
-      "name": "ranjha",
-      "lyrics": "https://www.hinditracks.in/ranjha-lyrics",
-      "album": "Shershaah",
-      "Duration": "3 min 13 sec",
-      "singer": [
-         "B Praak",
-         "Jasleen Royal"
-      ],
-      "genre": [
-         "Romantic"
-      ],
-      "link": "https://www.youtube.com/watch?v=V7LwfY5U5WI"
-   },
-   {
-      "id": 30,
-      "name": "aarambh hai prachand",
-      "lyrics": "https://www.hinditracks.in/aarambh-hai-prachand-lyrics-in-hindi-gulaal",
-      "album": "Gulaal",
-      "Duration": "4 min 55 sec",
-      "singer": [
-         "Piyush Mishra"
-      ],
-      "genre": [
-         "Motivational"
-      ],
-      "link": "https://www.youtube.com/watch?v=x9feF5rtMAc"
-   },
-   {
-      "id": 31,
-      "name": "Snake",
-      "lyrics": "https://genius.com/Mc-stan-snake-lyrics",
-      "album": "Snake",
-      "Duration": "4 min 36 sec",
-      "singer": [
-         "MC STAN"
-      ],
-      "genre": [
-         "Motivation",
-         "Pop"
-      ],
-      "link": "https://youtu.be/DSb7tmVcZm4"
-   },
-   {
-      "id": 32,
-      "name": "Tujhse Naraz Nahi Zindagi - Sanam",
-      "lyrics": "https://www.hinditracks.in/ranjha-lyrics",
-      "album": "SANAM",
-      "Duration": "4 min 12 sec",
-      "singer": [
-         "Lata Mangeshkar"
-      ],
-      "genre": [
-         "Romantic"
-      ],
-      "link": "https://www.youtube.com/watch?v=V7LwfY5U5WI"
-   },
-   {
-      "id": 33,
-      "name": "Namo Namo",
-      "lyrics": "https://www.lyricsmint.com/kedarnath/namo-namo",
-      "album": "Kedarnath",
-      "Duration": "5 min 22 sec",
-      "singer": [
-         "Amit Trivedi"
-      ],
-      "genre": [
-         "Classic"
-      ],
-      "link": "https://www.youtube.com/watch?v=HFX6AZ5bDDo"
-   },
-   {
-      "id": 34,
-      "name": "Tum Hi Ho",
-      "lyrics": "https://www.indicine.com/movies/lyrics/tum-hi-ho-lyrics-aashiqui-2/",
-      "album": "Aashiqui 2",
-      "Duration": "04 minutes 21 seconds",
-      "singer": [
-         "Arijit Singh"
-      ],
-      "genre": [
-         " Acoustic music",
-         "Filmi",
-         "Indian pop"
-      ],
-      "link": "https://youtu.be/IJq0yyWug1k"
-   },
-   {
-      "id": 35,
-      "name": "Saagar Kinare-Sagar(1985)",
-      "lyrics": "https://www.lyrics.com/lyric/28653018/Kishore+Kumar/Saagar+Kinare",
-      "album": "Saagar Kinare-Saagar",
-      "Duration": "3 min 45 sec",
-      "singer": [
-         "Lata Mangeshkar",
-         "Kishore Kumar"
-      ]
-   },
-   {
-      "id": 36,
-      "name": "Zara Zara by Maadhyam",
-      "lyrics": "https://youtu.be/MB6bUI5uaoc",
-      "album": "M.S.Dhoni",
-      "Duration": "4 min 6 sec",
-      "singer": [
-         "Bombay Jayashree"
-      ],
-      "genre": [
-         "Romantic"
-      ],
-      "link": "https://youtu.be/MB6bUI5uaoc"
-   },
-   {
-      "id": 37,
-      "name": "FRIENDS",
-      "lyrics": "https://www.azlyrics.com/lyrics/marshmello/friends.html",
-      "album": "FRIENDS",
-      "Duration": "3 min 51 sec",
-      "singer": [
-         "Marshmello & Anne-Marie "
-      ],
-      "genre": [
-         "Romance"
-      ],
-      "link": "https://youtu.be/jzD_yyEcp0M"
-   },
-   {
-      "id": 38,
-      "name": "Genda Phool",
-      "lyrics": "https://gaana.com/lyrics/genda-phool-6",
-      "albhum": "Genda Phool",
-      "Duration": "02:48",
-      "singer": [
-         "Badshah, Payal Dev"
-      ],
-      "genre": [
-         " Indian pop"
-      ],
-      "link": "https://youtu.be/SD4Z8dlZPd8"
-   },
-   {
-      "id": 39,
-      "name": "Enna Sona",
-      "lyrics": "https://www.azlyrics.com/lyrics/arijitsingh/ennasona.html",
-      "album": "Ok Jaanu",
-      "Duration": "3 min 51 sec",
-      "singer": [
-         "Arijit Singh"
-      ],
-      "link": "https://youtu.be/ofTxceS4wLI"
-   },
-   {
-      "id": 40,
-      "name": "Qaafirana",
-      "lyrics": "https://www.lyricsmint.com/kedarnath/qaafirana",
-      "album": "Kedarnath",
-      "Duration": "6 min 16 sec",
-      "singer": [
-         "Amit Trivedi"
-      ],
-      "genre": [
-         "Romantic"
-      ],
-      "link": "https://www.youtube.com/watch?v=ZmcBC9-wAXM"
-   },
-   {
-      "id": 41,
-      "name": "Te Amo",
-      "lyrics": "https://www.lyricsmint.com/dum-maaro-dum/te-amo",
-      "album": "Dum Maaro Dum",
-      "Duration": "4 min 25 sec",
-      "singer": [
-         "Ash King, Sunidhi Chauhan"
-      ],
-      "genre": [
-         "Romantic"
-      ],
-      "link": "https://youtu.be/lPXdn-pR8mI"
-   },
-   {
-      "id": 42,
-      "name": "Heropanti : Raat Bhar ",
-      "lyrics": "https://youtu.be/4KFVySixs_E",
-      "album": "Heropanti",
-      "Duration": "2 min 28 sec",
-      "singer": [
-         "Arijit Singh, Shreya Ghoshal"
-      ],
-      "genre": [
-         "Romantic",
-         "Pop",
-         "Hindi"
-      ],
-      "link": ""
-   },
-   {
-      "id": 43,
-      "name": "Tu Har Lamha ",
-      "lyrics": "https://www.hinditracks.in/tu-har-lamha-hindi-lyrics-khamoshiyan",
-      "album": "not available",
-      "Duration": "4 min 21 sec",
-      "singer": [
-         "Arijit Singh"
-      ],
-      "genre": [
-         "Romantic",
-         "Pop",
-         "Hindi"
-      ],
-      "link": "https://youtu.be/SdGL0qxgZGM"
-   },
-   {
-      "id": 44,
-      "name": "Filhall",
-      "lyrics": "https://lyricsraag.com/filhaal-song-translation-akshay-kumar/",
-      "album": "Filhall",
-      "Duration": "4:16",
-      "singer": [
-         "B Praak"
-      ],
-      "genre": [
-         "Romantic"
-      ],
-      "link": "https://youtu.be/DUwlGduupRI"
-   },
-   {
-      "id": 45,
-      "name": "Dekha Hazaro Dafaa",
-      "lyrices": "https://www.azlyrics.com/lyrics/arijitsingh/dekhahazarodafa.html",
-      "album": "Rustom",
-      "Duration": "3:33",
-      "singer": [
-         "Arijit Singh , Palak M"
-      ],
-      "genre": [
-         "Romantic"
-      ],
-      "link": "https://youtu.be/ImnYPjOd1Tw"
-   },
-   {
-      "id": 46,
-      "name": "Kun Faaya Kun",
-      "lyrics": "https://gaana.com/lyrics/kun-fayakun",
-      "album": "Rockstar",
-      "Duration": "6:21",
-      "singer": [
-         "A. R. Rahman, Javed Ali, Mohit Chauhan"
-      ],
-      "genre": [
-         "Sufi"
-      ],
-      "link": "https://www.youtube.com/watch?v=T94PHkuydcw"
-   },
-   {
-      "id": 47,
-      "name": "Dharkhaast",
-      "lyrics": "https://gaana.com/lyrics/darkhaast-1",
-      "album": "Shivaay",
-      "Duration": "6:55",
-      "singer": [
-         "Arijit Singh,Sunidhi Chauhan"
-      ],
-      "genre": [
-         "Romantic"
-      ],
-      "link": "https://youtu.be/GNm7vIZXEYw"
-   },
-   {
-      "id": 48,
-      "name": "Bade Acche Lagte Hai",
-      "lyrics": "https://gaana.com/lyrics/bade-achhe-lagte-hain",
-      "album": "Balika Badhu(1976)",
-      "Duration": "3 min 41 sec",
-      "singer": [
-         " Amit Kumar"
-      ],
-      "genre": [
-         "Romantic"
-      ],
-      "link": "https://youtu.be/ags3vxqbk-s"
-   },
-   {
-      "id": 49,
-      "name": "Zara Zara",
-      "lyrics": "https://gaana.com/lyrics/zara-zara-5",
-      "album": "Zara Zara",
-      "Duration": "4 min 56 sec",
-      "singer": [
-         " Bombay Jayashri"
-      ],
-      "genre": [
-         "Romantic",
-         "Filmy"
-      ],
-      "link": "https://youtu.be/NeXbmEnpSz0"
-   },
-   {
-      "id": 50,
-      "name": "Bawaal",
-      "lyrics": "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwi7v5zqyKjzAhXVXCsKHVZeDe0QFnoECAIQAQ&url=https%3A%2F%2Fwww.lyricsbell.com%2Fbawaal-mj5%2F&usg=AOvVaw2ptmUKxp_hdhV-MMKr5kP_",
-      "album": "ZBawaal",
-      "Duration": "3 min 14 sec",
-      "singer": [
-         " Kartik, Rohit"
-      ],
-      "genre": [
-         "Filmy"
-      ],
-      "link": "https://youtu.be/SGLVh57-HJs"
-   },
-   {
-      "id": 51,
-      "name": "Stay a little longer",
-      "lyrics": "https://www.lyricsmint.com/half-girlfriend/stay-a-little-longer",
-      "album": "Half Girlfriend",
-      "Duration": "4 min 59 sec",
-      "singer": [
-         " Anushka Shahaney "
-      ],
-      "genre": [
-         " Western swing",
-         "Filmy"
-      ],
-      "link": "https://www.youtube.com/watch?v=tjXHcyQhzqI"
-   },
-   {
-      "id": 52,
-      "name": "Dil Ko Karar Aaya",
-      "lyrics": "https://gaana.com/lyrics/dil-ko-karaar-aaya",
-      "album": "Sukoon",
-      "Duration": "2 min 29 sec",
-      "singer": [
-         " Neha Kakkar & Yasser Desai"
-      ],
-      "genre": [
-         "Romantic",
-         "lo-fi"
-      ],
-      "link": "https://youtu.be/Ad5s2_Z7-Pw"
-   },
-   {
-      "id": 53,
-      "name": "Sheikchillie",
-      "lyrics": "https://www.lyrics.com/sublyric/54086/Raftaar/Sheikh+Chilli+Original+Lyrics",
-      "album": "Sheikchillie",
-      "Duration": "4 min 13 sec",
-      "singer": [
-         "sheikchilli"
-      ],
-      "genre": [
-         "Pop"
-      ],
-      "link": "https://www.youtube.com/watch?v=uykOHAhId0Q"
-   },
-   {
-      "id": 54,
-      "name": "Kya Mujhe Pyar Hai",
-      "lyrics": "https://gaana.com/song/kya-mujhe-pyar-hai",
-      "album": "Woh Lamhe",
-      "Duration": "4 min 26 sec",
-      "singer": [
-         " KK,Pritam"
-      ],
-      "genre": [
-         "Romantic",
-         "Filmy"
-      ],
-      "link": "https://www.youtube.com/watch?v=lrAM_H7v8wM"
-   },
-   {
-      "id": 55,
-      "name": "Dil galt Kar Baitha hai",
-      "lyrics": "https://gaana.com/song/dil-galti-kar-baitha-hai-feat-mouni-roy",
-      "album": "Dil galt Kar Baitha hai",
-      "Duration": "4 min 26 sec",
-      "singer": [
-         "jubin"
-      ],
-      "genre": [
-         "Romantic",
-         "Filmy"
-      ],
-      "link": "https://www.youtube.com/watch?v=lrAM_H7v8wM"
-   },
-   {
-      "id": 56,
-      "name": "Kal Ho Naa Ho",
-      "lyrics": "https://gaana.com/song/kya-mujhe-pyar-hai",
-      "album": "Kal Ho Naa Ho",
-      "Duration": "4 min 46 sec",
-      "singer": [
-         "Sonu Nigam"
-      ],
-      "genre": [
-         "Romantic",
-         "Filmy"
-      ],
-      "link": "https://www.youtube.com/watch?v=g0eO74UmRBs"
-   },
-   {
-      "id": 57,
-      "name": "bazigar hai bazigar ",
-      "lyrics": "https://www.indicine.com/movies/lyrics/baigar/",
-      "album": "Bazigar",
-      "Duration": "03 minutes 15 seconds",
-      "singer": [
-         "Udit narayan "
-      ],
-      "genre": [
-         " Acoustic music",
-         "Filmi",
-         "Indian pop"
-      ],
-      "link": "https://youtu.be/IJq0yyWug1k"
-   },
-   {
-      "id": 58,
-      "name": "Kal Ho Naa Ho ",
-      "lyrics": "https://gaana.com/lyrics/kal-ho-naa-ho-5",
-      "album": " Kal Ho Naa Ho ",
-      "Duration": "5 min 23 sec",
-      "singer": [
-         "Sonu Nigam"
-      ],
-      "genre": [
-         "Romance",
-         "Filmi"
-      ],
-      "link": "https://youtu.be/g0eO74UmRBs"
-   },
-   {
-      "id": 59,
-      "name": "dil dooba",
-      "lyrics": "https://gaana.com/lyrics/dil dooba",
-      "album": "khakee",
-      "Duration": "4 min 38 sec",
-      "singer": [
-         "Sonu nigam "
-      ],
-      "genre": [
-         "Motivation",
-         "Pop"
-      ],
-      "link": "https://www.youtube.com/watch?v=SAiyopkF22M"
-   },
-   {
-      "id": 60,
-      "name": "Panchhi Banoo Udti Phiroon ",
-      "lyrics": "https://youtu.be/fUtIQtRMGzg",
-      "album": "Chori Chori",
-      "Duration": "4 min 20 sec",
-      "singer": [
-         "Lata Mangeshkar"
-      ],
-      "genre": [
-         "Motivation",
-         "Folk"
-      ],
-      "link": "https://youtu.be/bIhhCGFR2NE"
-   },
-   {
-      "id": 61,
-      "name": "Chinta ta chita chita",
-      "lyrics": "https://www.lyricsmint.com/rowdy-rathore/chinta-ta-ta-chita-chita",
-      "album": "Rowdy Rathore",
-      "Duration": "5 min 7 sec",
-      "singer": [
-         "Mika Singh "
-      ],
-      "genre": [
-         "dance number",
-         "Pop"
-      ],
-      "link": "https://www.youtube.com/watch?v=NPRd7Xc0tfM"
-   },
-   {
-      "id": 62,
-      "name": "KHAIRIYAT",
-      "lyrics": "https://www.ilyricshub.com/khairiyat-chhichhore-arijit-singh/",
-      "album": "Chhichhore",
-      "Duration": "3 min 58 sec",
-      "singer": [
-         "Arijit Singh "
-      ],
-      "genre": [
-         "dance number",
-         "Pop"
-      ],
-      "link": "https://www.youtube.com/watch?v=hoNb6HuNmU0"
-   },
-   {
-      "id": 63,
-      "name": "Dekha Hazaro Dafaa",
-      "lyrices": "https://www.azlyrics.com/lyrics/arijitsingh/dekhahazarodafa.html",
-      "album": "Rustom",
-      "Duration": "3:33",
-      "singer": [
-         "Arijit Singh , Palak M"
-      ],
-      "genre": [
-         "Romantic"
-      ],
-      "link": "https://youtu.be/ImnYPjOd1Tw"
-   },
-   {
-      "id": 64,
-      "name": "Mere Mehboob Qayamat Hogi",
-      "lyrices": "https://youtu.be/EBRc5ckj5k0",
-      "album": "NA",
-      "Duration": "4:32",
-      "singer": [
-         "Kishore Kumar"
-      ],
-      "genre": [
-         "Romantic"
-      ],
-      "link": "https://youtu.be/yIzCBU0_LyY"
-   },
-   {
-      "id": 65,
-      "name": "kun faya kun",
-      "lyrics": "https://genius.com/Ar-rahman-kun-faya-kun-lyrics",
-      "album": "Rockstar",
-      "Duration": "6 min 20 sec",
-      "singer": [
-         "A R Rahman",
-         "Javed Ali"
-      ],
-      "genre": [
-         "Sufi"
-      ],
-      "link": "https://youtu.be/T94PHkuydcw"
-   },
-   {
-      "id": 66,
-      "name": "vienna waits for you",
-      "lyrics": " https://genius.com/Billy-joel-vienna-lyrics",
-      "album": "vienna",
-      "Duration": "3 min 37 sec",
-      "singer": [
-         "billy joel "
-      ],
-      "genre": [
-         "dance number",
-         "Pop"
-      ],
-      "link": "https://www.youtube.com/results?search_query=vienna"
-   },
-   {
-      "id": 67,
-      "name": "Dildara",
-      "lyrics": "https://lyricsdna.com/songs/lyrics/dildara-dildara-lyrics-stand-by-me-ra-one",
-      "album": "Ra.One",
-      "Duration": "4 min 30 sec",
-      "singer": [
-         "Abhijeet Bhattacharya, Sowmya Raoh "
-      ],
-      "genre": [
-         "dance number",
-         "Pop"
-      ],
-      "link": "https://www.youtube.com/watch?v=gQ5qVtoLMk4"
-   },
-   {
-      "id": 68,
-      "name": "Tu Tu Hai Wahi ",
-      "lyrics": "https://www.lyricsoff.com/songs/tu-tu-hai-wahi-yeh-vaada-raha.html",
-      "album": "Yeh Vaada Raha ",
-      "Duration": "6 min 50 sec",
-      "singer": [
-         "Kishore Kumar",
-         "Asha Bhosle"
-      ],
-      "genre": [
-         "Romanace"
-      ],
-      "link": "https://youtu.be/hjfzFVw2Zjo"
-   },
-   {
-      "id": 69,
-      "name": "Raat kali ek khwab mein aayi",
-      "lyrics": "https://gaana.com/lyrics/raat-kali-ek-khwab-men-aai-23",
-      "album": "Buddha Mil Gaya",
-      "Duration": "4 min 59 sec",
-      "singer": [
-         "Kishore Kumar"
-      ],
-      "genre": [
-         "Romanace"
-      ],
-      "link": "https://www.youtube.com/watch?v=jFYlChHSdzo"
-   },
-   {
-      "id": 70,
-      "name": " Kisi Ki Muskurahaton Se ",
-      "lyrics": "https://youtu.be/z6FukwueP1o",
-      "album": "Legend Raj Kapoor-The Showman  Vol-3",
-      "Duration": "4 min 08 sec",
-      "singer": [
-         "Mukesh"
-      ],
-      "genre": [
-         "Motivational",
-         "Folk"
-      ],
-      "link": "https://youtu.be/z6FukwueP1o"
-   },
-   {
-      "id": 71,
-      "name": "Tu Tu Hai Wahi ",
-      "lyrics": "https://www.lyricsoff.com/songs/tu-tu-hai-wahi-yeh-vaada-raha.html",
-      "album": "Yeh Vaada Raha ",
-      "Duration": "6 min 50 sec",
-      "singer": [
-         "Kishore Kumar",
-         "Asha Bhosle"
-      ],
-      "genre": [
-         "Romanace"
-      ],
-      "link": "https://youtu.be/hjfzFVw2Zjo"
-   },
-   {
-      "id": 72,
-      "name": "Chand Sifarish ",
-      "lyrics": "https://gaana.com/lyrics/chand-sifarish-13",
-      "album": "Fanaa ",
-      "Duration": "4 min 536 sec",
-      "singer": [
-         "Shaan",
-         "Kailash Kher"
-      ],
-      "genre": [
-         "Romanace"
-      ],
-      "link": "https://youtu.be/zWEOx7TSM6I"
-   },
-   {
-      "id": 73,
-      "name": "Makhna",
-      "lyrics": "https://www.lyricsbell.com/makhna-drive/",
-      "album": "Drive",
-      "Duration": "3 min 13 sec",
-      "singer": [
-         "Tanishk Bagchi",
-         "Yasser Desai",
-         "Asees Kaur"
-      ],
-      "genre": [
-         "Filmy"
-      ],
-      "link": "https://www.youtube.com/watch?v=HqUeSjsYLNU"
-   },
-   {
-      "id": 74,
-      "name": "Pani Da Rang",
-      "lyrics": "https://gaana.com/lyrics/pani-di-gal",
-      "album": "Vicky Donor",
-      "Duration": "4 min",
-      "singer": [
-         " Ayushman Khurrana"
-      ],
-      "genre": [
-         "Filmi, Acoustic pop"
-      ],
-      "link": "https://youtu.be/2kgEc6oH9J0"
-   },
-   {
-      "id": 75,
-      "name": "Bhul Bhulaiya Title Track",
-      "lyrics": "https://gaana.com/song/bhool-bhulaiyaa-remix-1",
-      "album": "Bhul Bhulaiya Remix",
-      "Duration": "5 min 04 sec",
-      "singer": [
-         " Neeraj Sridhar"
-      ],
-      "genre": [
-         "Funny"
-      ],
-      "link": "https://www.youtube.com/watch?v=1hCQgzZoeNM"
-   },
-   {
-      "id": 76,
-      "name": "Janam Janam",
-      "lyrics": "https://www.azlyrics.com/lyrics/arijitsingh/janamjanam.html",
-      "album": "Dilwale",
-      "Duration": "4 min 13 sec",
-      "singer": [
-         " Arjit Singh"
-      ],
-      "genre": [
-         "Romantic"
-      ],
-      "link": "https://www.youtube.com/watch?v=pIBoAh4OXhQ"
-   },
-   {
-      "id": 77,
-      "name": "Bahara",
-      "lyrics": "https://gaana.com/lyrics/bahara-13",
-      "album": "I Hate Luv Storys",
-      "Duration": "4 min 08 sec",
-      "singer": [
-         "Shreya Goshal",
-         "Sona Mohapatra",
-         "Vishal\u00e2\u20ac\u201cShekhar"
-      ],
-      "genre": [
-         "Romantic"
-      ],
-      "link": "https://youtu.be/_VOXxKDNCuM"
-   },
-   {
-      "id": 78,
-      "name": "Love you zindagi",
-      "lyrics": "http://songolyrics.in/dear-zindagi/love-you-zindagi",
-      "album": "Dear Zindagi",
-      "Duration": "4 min 11 sec",
-      "singer": [
-         " Jasleen Royal"
-      ],
-      "genre": [
-         "motivation"
-      ],
-      "link": "https://www.youtube.com/watch?v=bw7bVpI5VcM"
-   },
-   {
-      "id": 79,
-      "name": "Illahi",
-      "lyrics": "https://gaana.com/lyrics/ilahi-9",
-      "album": "Yeh Jawaani Hai Deewani",
-      "Duration": "3 min 48 sec",
-      "singer": [
-         "Pritam",
-         "Arijit Singh"
-      ],
-      "genre": [
-         "Travel"
-      ],
-      "link": "https://www.youtube.com/watch?v=fdubeMFwuGs"
-   },
-   {
-      "id": 80,
-      "name": "Kaam 25",
-      "lyrics": "https://gaana.com/lyrics/kaam-25",
-      "album": "Sacred Games",
-      "Duration": "2 min 29 sec",
-      "singer": [
-         "Divine"
-      ],
-      "genre": [
-         "Rap"
-      ],
-      "link": "https://www.youtube.com/watch?v=ATf05n5LBHQ"
-   },
-   {
-      "id": 81,
-      "name": "Drivers license",
-      "lyrics": "https://www.republicworld.com/entertainment-news/music/drivers-license-lyrics-and-meaning-behind-this-olivia-rodrigo-song-explained.html",
-      "album": "Divers license",
-      "Duration": "4 min 2 sec",
-      "singer": [
-         "Daniel Nigro / Olivia Rodrigo"
-      ],
-      "genre": [
-         "Indie Pop"
-      ],
-      "link": "https://www.youtube.com/watch?v=_Bjf-iExroI"
-   },
-   {
-      "id": 82,
-      "name": "Kashmir Main Tu Kanyakumari",
-      "lyrics": "https://www.lyricsoff.com/songs/kashmir-main-tu-kanyakumari.html",
-      "album": "Chennai Express",
-      "Duration": "3 min 41 sec",
-      "singer": [
-         "Arijit Singh",
-         "Sunidhi Chauhan"
-      ],
-      "genre": [
-         "Folk"
-      ],
-      "link": "https://www.youtube.com/watch?v=dodDteh-m3Q"
-   },
-   {
-      "id": 83,
-      "name": "Dekhte Dekhte",
-      "lyrics": "https://www.lyricspedia.co.in/dekhte-dekhte-lyrics-atif-aslam/",
-      "album": "Batti Gul Meter Chalu",
-      "Duration": "4 min 36 sec",
-      "singer": [
-         " Atif Aslam"
-      ],
-      "genre": [
-         "Romantic"
-      ],
-      "link": "https://www.youtube.com/watch?v=jBQpGiubj0c"
-   },
-   {
-      "id": 84,
-      "name": "Tera Hone Laga Hoon",
-      "lyrics": "https://gaana.com/playlist/ashitharamesh2-terahonelagahoon",
-      "album": "Ajab Prem Ki Ghazab Kahani",
-      "Duration": "4 min 59 sec",
-      "singer": [
-         "  Atif Aslam"
-      ],
-      "genre": [
-         "Romantic"
-      ],
-      "link": "https://www.youtube.com/watch?v=rTuxUAuJRyY"
-   },
-   {
-      "id": 85,
-      "name": "Gerua",
-      "lyrics": "https://www.azlyrics.com/lyrics/arijitsingh/gerua.html",
-      "album": "Dilwale",
-      "Duration": "4 min 48 sec",
-      "singer": [
-         "Arijit Singh"
-      ],
-      "genre": [
-         "Romantic"
-      ],
-      "link": "https://youtu.be/AEIVhBS6baE"
-   },
-   {
-      "id": 86,
-      "name": "Enna Sona",
-      "lyrics": "https://www.azlyrics.com/lyrics/arijitsingh/ennasona.html",
-      "album": "Ok Jaanu",
-      "Duration": "3 min 33 sec",
-      "singer": [
-         "Arijit Singh"
-      ],
-      "genre": [
-         "Romantic"
-      ],
-      "link": "https://youtu.be/mrdRHsIkK_c"
-   },
-   {
-      "id": 87,
-      "name": "Kalank (Title Track)",
-      "lyrics": "https://www.lyricsmint.com/kalank/kalank-title-track",
-      "album": "Kalank",
-      "Duration": "5 min 11 sec",
-      "singer": [
-         "Arijit Singh"
-      ],
-      "genre": [
-         "Romantic"
-      ],
-      "link": "https://youtu.be/Grr0FlC8SQA"
-   },
-   {
-      "id": 88,
-      "name": "Iktara",
-      "lyrics": "https://gaana.com/lyrics/iktara-9",
-      "album": "wake up sid",
-      "Duration": "4 min 13 sec",
-      "singer": [
-         "Amitabh Bhattachary",
-         "Amit Trivedi",
-         "kavita Seth"
-      ],
-      "genre": [
-         "Romantic"
-      ],
-      "link": "https://www.youtube.com/watch?v=fSS_R91Nimw"
-   },
-   {
-      "id": 89,
-      "name": "tu bin bataye",
-      "lyrics": "https://genius.com/Ar-rahman-tu-bin-bataye-lyrics",
-      "album": "Rang de basanti",
-      "Duration": "5 min 55 sec",
-      "singer": [
-         "A.R Rahman"
-      ],
-      "genre": [
-         "Romantic"
-      ],
-      "link": "https://www.youtube.com/watch?v=UqblLzBwlns"
-   },
-   {
-      "id": 90,
-      "name": "Kinna Sona",
-      "lyrics": "https://www.ilyricshub.com/kinna-sona-marjaavaan/",
-      "album": "Marjaavaan",
-      "Duration": "4 min 33 sec",
-      "singer": [
-         "Jubin Nautiyal"
-      ],
-      "genre": [
-         "Romantic"
-      ],
-      "link": "https://www.youtube.com/watch?v=7lfFZs50JHM"
-   },
-   {
-      "id": 91,
-      "name": "Mere naal tu whistle baja",
-      "lyrics": "https://gaana.com/lyrics/whistle-baja",
-      "album": "Heropanti",
-      "Duration": "3 min 25 sec",
-      "singer": [
-         "Manj Musik"
-      ],
-      "genre": [
-         "Romantic"
-      ],
-      "link": "https://www.youtube.com/watch?v=5NM7VF0AOfo"
-   },
-   {
-      "id": 92,
-      "name": "Khoj",
-      "lyrics": "https://genius.com/When-chai-met-toast-khoj-lyrics",
-      "album": "Believe",
-      "Duration": "3 min 31 sec",
-      "singer": [
-         "When Chai Met Toast pop/folk band"
-      ],
-      "genre": [
-         "Pop, Rock, Folk"
-      ],
-      "link": "https://youtu.be/LMEdbBK4bk0"
-   },
-   {
-      "id": 93,
-      "name": "Kinna Sona",
-      "lyrics": "https://www.ilyricshub.com/kinna-sona-marjaavaan/",
-      "album": "Marjaavaan",
-      "Duration": "4 min 33 sec",
-      "singer": [
-         "Jubin Nautiyal"
-      ],
-      "genre": [
-         "Romantic"
-      ],
-      "link": "https://www.youtube.com/watch?v=7lfFZs50JHM"
-   },
-   {
-      "id": 94,
-      "name": "Thug Le",
-      "lyrics": "https://gaana.com/lyrics/thug-le-14",
-      "album": "Ladies Vs Rickt Bahl",
-      "Duration": "3 min 38 sec",
-      "singer": [
-         "Vishal Dadlani"
-      ],
-      "genre": [
-         "Energetic"
-      ],
-      "link": "https://www.youtube.com/watch?v=LEYXdZ_rVbo"
-   },
-   {
-      "id": 95,
-      "name": "Sajdaa",
-      "lyrics": "https://www.indicine.com/movies/bollywood/sajda-lyrics-my-name-is-khan/",
-      "album": "My Name is Khan (2010)",
-      "Duration": "4 min 58 sec",
-      "singer": [
-         "Rahat Fateh Ali Khan",
-         "Shankar Mahadevan",
-         "Richa Sharma"
-      ],
-      "genre": [
-         "Romantic"
-      ],
-      "link": "https://youtu.be/3rPEWcY6Oww"
-   },
-   {
-      "id": 96,
-      "name": "Mast Magaan",
-      "lyrics": "https://gaana.com/lyrics/mast-magan-1",
-      "album": "2 States",
-      "Duration": "4 min 40 sec",
-      "singer": [
-         "Arijit Singh",
-         "Chinmayi Sripada"
-      ],
-      "genre": [
-         "Romantic",
-         "slow",
-         "lofi"
-      ],
-      "link": "https://youtu.be/fXRvluHnjxE"
-   },
-   {
-      "id": 97,
-      "name": "Sajde",
-      "lyrics": "https://gaana.com/lyrics/sajde",
-      "album": "Khatta Meetha",
-      "Duration": "5 min 5 sec",
-      "singer": [
-         "Pritam",
-         "K.K",
-         "Sunidhi Chauhan"
-      ],
-      "genre": [
-         "Romantic",
-         "slow"
-      ],
-      "link": "https://youtu.be/zfABYXP_NSA"
-   },
-   {
-      "id": 98,
-      "name": "Kholo Kholo",
-      "lyrics": "https://gaana.com/lyrics/kholo-kholo",
-      "album": "Taare Zameen Par",
-      "Duration": "6 min 34 sec",
-      "singer": [
-         "Raman Mahadevan"
-      ],
-      "genre": [
-         "Motivation",
-         "Pop"
-      ],
-      "link": "https://youtu.be/FIaUYKLg5S4"
-   },
-   {
-      "id": 99,
-      "name": "Mann Bharryaa 2.0",
-      "lyrics": "https://www.ilyricshub.com/mann-bharrya-2-0-shershaah-b-praak/",
-      "album": "Sheershaah",
-      "Duration": "3 min 50 sec",
-      "singer": [
-         "B Praak"
-      ],
-      "genre": [
-         "Emotional",
-         "slow",
-         "sad",
-         "Punjabi"
-      ],
-      "link": "https://youtu.be/1poXN3jF3Bw"
-   },
-   {
-      "id": 100,
-      "name": "Kabhii Tumhhe",
-      "lyrics": "https://www.ilyricshub.com/kabhi-tumhe-shershaah-darshan-raval/",
-      "album": "Sheershaah",
-      "Duration": "3 min 40 sec",
-      "singer": [
-         "Darshan Raval"
-      ],
-      "genre": [
-         "Emotional",
-         "slow",
-         "sad",
-         "Romantic",
-         "Punjabi"
-      ],
-      "link": "https://youtu.be/ByIZIKFmHOA"
-   },
-   {
-      "id": 101,
-      "name": "Raataan Lambiyan",
-      "lyrics": "https://www.ilyricshub.com/raataan-lambiyan-shershaah/",
-      "album": "Sheershaah",
-      "Duration": "2 min 31 sec",
-      "singer": [
-         "Jubin Nautiyal",
-         "Asees Kaur",
-         "Punjabi"
-      ],
-      "genre": [
-         "Romantic",
-         "slow"
-      ],
-      "link": "https://youtu.be/gvyUuxdRdR4"
-   },
-   {
-      "id": 102,
-      "name": "Ranjha ",
-      "lyrics": "https://www.ilyricshub.com/ranjha-shershaah-b-praak/",
-      "album": "Sheershaah",
-      "Duration": "3 min 13 sec",
-      "singer": [
-         "B Praak",
-         "Jasleen Royal",
-         "Punjabi"
-      ],
-      "genre": [
-         "Romantic",
-         "slow"
-      ],
-      "link": "https://youtu.be/V7LwfY5U5WI"
-   },
-   {
-      "id": 103,
-      "name": "Pani Da Rang",
-      "lyrics": "https://www.lyricsmint.com/vicky-donor/pani-da-rang",
-      "album": "Vicky Donor",
-      "Duration": "4 min 05 sec",
-      "singer": [
-         "Ayushmann Khurrana"
-      ],
-      "genre": [
-         "Romantic",
-         "Pop",
-         "Punjabi"
-      ],
-      "link": "https://youtu.be/2kgEc6oH9J0"
-   },
-   {
-      "id": 104,
-      "name": "Mere Liye Tum Kaafi Ho",
-      "lyrics": "https://gaana.com/lyrics/mere-liye-tum-kaafi-ho-from-shubh-mangal-zyada-saavdhan",
-      "album": "Shubh Mangal Zyada Saavdhan",
-      "Duration": "2 min 05 sec",
-      "singer": [
-         "Ayushman Khurana"
-      ],
-      "genre": [
-         "Romantic",
-         "Friendship"
-      ],
-      "link": "https://youtu.be/5LBB6OV3Ano"
-   },
-   {
-      "id": 105,
-      "name": "Rang De Basanti",
-      "lyrics": "https://www.hinditracks.in/mohe-rang-de-basanti-lyrics",
-      "album": "Rang De Basanti",
-      "Duration": "5 min 40 sec",
-      "singer": [
-         "Daler Mehndi"
-      ],
-      "genre": [
-         "Film Sountrack",
-         "Punjabi"
-      ],
-      "link": "https://youtu.be/5LBB6OV3Ano"
-   },
-   {
-      "id": 106,
-      "name": "Senorita",
-      "lyrics": "https://gaana.com/lyrics/senorita-17",
-      "album": "Zindagi Na Milegi Dobara",
-      "Duration": "3 min 51 sec",
-      "singer": [
-         "Farhan Akhtar",
-         " Hrithik Roshan",
-         "Abhay Deol"
-      ],
-      "genre": [
-         "Dance",
-         "Disco"
-      ],
-      "link": "https://youtu.be/yDv0WSgXJVg"
-   },
-   {
-      "id": 107,
-      "name": "Slow Motion Angreza",
-      "lyrics": "https://gaana.com/lyrics/slow-motion-angreza",
-      "album": "Bhaag Milkha Bhaag",
-      "Duration": "4 min 54 sec",
-      "singer": [
-         "Slow Motion Angreza",
-         "Shankar Mahadevan",
-         "Loy Mendonsa"
-      ],
-      "genre": [
-         "Dance",
-         "Disco"
-      ],
-      "link": "https://youtu.be/60vIVA5AZ9M"
-   },
-   {
-      "id": 108,
-      "name": "Sooraj Ki Baahon Mein",
-      "lyrics": "https://gaana.com/lyrics/sooraj-ki-baahon-mein-1",
-      "album": "Zindagi Na Milegi Dobara",
-      "Duration": "3 min 22 sec",
-      "singer": [
-         "Clinton Cerejo",
-         "Loy Mendonsa",
-         "Dominique Cerejo"
-      ],
-      "genre": [
-         "Chill",
-         "Motivation",
-         "Travel"
-      ],
-      "link": "https://youtu.be/gnrSX7TQJqU"
-   },
-   {
-      "id": 109,
-      "name": "Naina Da Kya Kasoor",
-      "lyrics": "https://www.lyricsbell.com/naina-da-kya-kasoor-andhadhun/",
-      "album": "Andhadhun",
-      "Duration": "3 min 30 sec",
-      "singer": [
-         "Amit Trivedi"
-      ],
-      "genre": [
-         "Pop",
-         "Romantic"
-      ],
-      "link": "https://youtu.be/WwvVUbllNkM"
-   },
-   {
-      "id": 110,
-      "name": "kaun tujhe",
-      "lyrics": "https://www.lyricsbell.com/kaun-tujhe",
-      "album": "M.S.Dhoni",
-      "Duration": "3 min 30 sec",
-      "singer": [
-         "Palak Muchhal"
-      ],
-      "genre": [
-         "Romantic"
-      ],
-      "link": "https://www.youtube.com/watch?v=atVof3pjT-I"
-   },
-   {
-      "id": 111,
-      "name": "Raftaarein",
-      "lyrics": "https://www.indicine.com/movies/lyrics/raftaarein-lyrics-ra-one/",
-      "album": "Ra.One",
-      "Duration": "4 min 45 sec",
-      "singer": [
-         "Vishal Dadlani"
-      ],
-      "genre": [
-         "Pop"
-      ],
-      "link": "https://www.youtube.com/watch?v=MlE-GojmNwM&ab_channel=T-Series"
-   },
-   {
-      "id": 112,
-      "name": "Aoi shiori",
-      "lyrics": "https://www.smule.com/song/galileo-galilei-aoi-shiori-full-romaji-karaoke-lyrics/796913691_2920463/arrangement",
-      "album": "",
-      "Duration": "2min",
-      "singer": [
-         "Galileo Galilei"
-      ],
-      "genre": [
-         "Romantic"
-      ],
-      "link": "https://www.youtube.com/results?search_query=aoi+shiori"
-   },
-   {
-      "id": 113,
-      "name": "Broke is a Joke",
-      "lyrics": "https://genius.com/Mc-stan-broke-is-a-joke-lyrics",
-      "album": "Broke is a Joke",
-      "Duration": "3 min 35 sec",
-      "singer": [
-         "MC STAN"
-      ],
-      "genre": [
-         "Motivation",
-         "Pop"
-      ],
-      "link": "https://youtu.be/YdIxAdTDpWU"
-   },
-   {
-      "id": 114,
-      "name": "Humnava",
-      "lyrics": "https://www.azlyrics.com/lyrics/arijitsingh/hamariadhurikahani.html",
-      "album": "Humari Adhuri Kahani",
-      "Duration": "6 min 19 sec",
-      "singer": [
-         "Papoon",
-         "Mithoon"
-      ],
-      "genre": [
-         "Romanace"
-      ],
-      "link": "https://www.youtube.com/watch?v=ktPD6TMovxs"
-   },
-   {
-      "id": 115,
-      "name": "chand sa roshan chehra",
-      "lyrics": "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiH9dL_nqfzAhWY8XMBHVfGAHoQFnoECBkQAQ&url=https%3A%2F%2Fwww.ajoobalyrics.com%2Fyeh-chaand-sa-roshan-chehra-lyrics-kashmir-ki-kali%2F&usg=AOvVaw0-My_DvQrryllZKs_xQUOu",
-      "album": "Tamannaah.",
-      "Duration": "6 min 19 sec",
-      "singer": [
-         "Udit Narayan",
-         "Mithoon"
-      ],
-      "genre": [
-         "Romanace"
-      ],
-      "link": "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiH9dL_nqfzAhWY8XMBHVfGAHoQwqsBegQIBBAB&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DVueN49P7JyU&usg=AOvVaw2i5UokZjIkxpd936yhE5y"
-   },
-   {
-      "id": 116,
-      "name": "Kabira",
-      "lyrics": "https://gaana.com/lyrics/kabira-1",
-      "album": "Yeh Jawaani Hai Deewani",
-      "Duration": "4 min 11 sec",
-      "singer": [
-         "TOCHI RAINA",
-         "REKHA BHARDWAJ"
-      ],
-      "genre": [
-         "Romanace"
-      ],
-      "link": "https://www.youtube.com/watch?v=jHNNMj5bNQw&list=PLP-07VKxSomFxGPP9Sa1lUBI_zTyGWHtu&index=10"
-   },
-   {
-      "id": 117,
-      "name": "Tu Chale",
-      "lyrics": "https://gaana.com/lyrics/tu-chale",
-      "album": "I",
-      "Duration": "4 min 52 sec",
-      "singer": [
-         "ARIJIT SINGH",
-         "SHREYA GHOSHAL"
-      ],
-      "genre": [
-         "Romanace"
-      ],
-      "link": "https://www.youtube.com/watch?v=iMuZRXsE7KI"
-   },
-   {
-      "id": 118,
-      "name": "Tu Hai Ki Nahi",
-      "lyrics": "https://gaana.com/lyrics/tu-hai-ki-nahi",
-      "album": "Roy",
-      "Duration": "5 min 33 sec",
-      "singer": [
-         "Ankit Tiwari"
-      ],
-      "genre": [
-         "Romanace"
-      ],
-      "link": "https://www.youtube.com/watch?v=61floBUAiTY"
-   },
-   {
-      "id": 119,
-      "name": "LAAL ISHQ",
-      "lyrics": "https://www.azlyrics.com/lyrics/arijitsingh/laalishq.html",
-      "album": "Goliyon Ki Raasleela Ram-leela",
-      "Duration": "6 min 43 sec",
-      "singer": [
-         "Arijit Singh"
-      ],
-      "genre": [
-         "Romanace"
-      ],
-      "link": "https://www.youtube.com/watch?v=PycY_BqbWaw"
-   },
-   {
-      "id": 120,
-      "name": "Saibo",
-      "lyrics": "https://gaana.com/lyrics/saibo-1",
-      "album": "Shor in the City ",
-      "Duration": "3 min 16 sec",
-      "singer": [
-         "Shreya Ghoshal,Tochi Raina"
-      ],
-      "genre": [
-         "Filmi, Pop"
-      ],
-      "link": "youtube.com/watch?v=P_HrHdFvcsg"
-   },
-   {
-      "id": 121,
-      "name": "Mumbai Dance",
-      "lyrics": "",
-      "album": "Bass Rani",
-      "Duration": "3 min 02 sec",
-      "singer": [
-         "Nucleya"
-      ],
-      "genre": [
-         "EDM"
-      ],
-      "link": "https://www.youtube.com/watch?v=f0DkVn-joQc"
-   },
-   {
-      "id": 122,
-      "name": "Lag jaa gale",
-      "lyrics": "https://gaana.com/song/lag-ja-gale-24",
-      "album": "Lag jaa gale",
-      "Duration": "5 min 02 sec",
-      "singer": [
-         "Lata Mangeshkar "
-      ],
-      "genre": [
-         "Romance"
-      ],
-      "link": "https://www.youtube.com/watch?v=TFr6G5zveS8"
-   },
-   {
-      "id": 123,
-      "name": "ranjha",
-      "lyrics": "https://www.hinditracks.in/ranjha-lyrics",
-      "album": "Shershaah",
-      "Duration": "3 min 13 sec",
-      "singer": [
-         "B Praak",
-         "Jasleen Royal"
-      ],
-      "genre": [
-         "Romantic"
-      ],
-      "link": "https://www.youtube.com/watch?v=V7LwfY5U5WI"
-   },
-   {
-      "id": 124,
-      "name": "aarambh hai prachand",
-      "lyrics": "https://www.hinditracks.in/aarambh-hai-prachand-lyrics-in-hindi-gulaal",
-      "album": "Gulaal",
-      "Duration": "4 min 55 sec",
-      "singer": [
-         "Piyush Mishra"
-      ],
-      "genre": [
-         "Motivational"
-      ],
-      "link": "https://www.youtube.com/watch?v=x9feF5rtMAc"
-   },
-   {
-      "id": 125,
-      "name": "Snake",
-      "lyrics": "https://genius.com/Mc-stan-snake-lyrics",
-      "album": "Snake",
-      "Duration": "4 min 36 sec",
-      "singer": [
-         "MC STAN"
-      ],
-      "genre": [
-         "Motivation",
-         "Pop"
-      ],
-      "link": "https://youtu.be/DSb7tmVcZm4"
-   },
-   {
-      "id": 126,
-      "name": "Tujhse Naraz Nahi Zindagi - Sanam",
-      "lyrics": "https://www.hinditracks.in/ranjha-lyrics",
-      "album": "SANAM",
-      "Duration": "4 min 12 sec",
-      "singer": [
-         "Lata Mangeshkar"
-      ],
-      "genre": [
-         "Romantic"
-      ],
-      "link": "https://www.youtube.com/watch?v=V7LwfY5U5WI"
-   },
-   {
-      "id": 127,
-      "name": "Namo Namo",
-      "lyrics": "https://www.lyricsmint.com/kedarnath/namo-namo",
-      "album": "Kedarnath",
-      "Duration": "5 min 22 sec",
-      "singer": [
-         "Amit Trivedi"
-      ],
-      "genre": [
-         "Classic"
-      ],
-      "link": "https://www.youtube.com/watch?v=HFX6AZ5bDDo"
-   },
-   {
-      "id": 128,
-      "name": "Tum Hi Ho",
-      "lyrics": "https://www.indicine.com/movies/lyrics/tum-hi-ho-lyrics-aashiqui-2/",
-      "album": "Aashiqui 2",
-      "Duration": "04 minutes 21 seconds",
-      "singer": [
-         "Arijit Singh"
-      ],
-      "genre": [
-         " Acoustic music",
-         "Filmi",
-         "Indian pop"
-      ],
-      "link": "https://youtu.be/IJq0yyWug1k"
-   },
-   {
-      "id": 129,
-      "name": "Saagar Kinare-Sagar(1985)",
-      "lyrics": "https://www.lyrics.com/lyric/28653018/Kishore+Kumar/Saagar+Kinare",
-      "album": "Saagar Kinare-Saagar",
-      "Duration": "3 min 45 sec",
-      "singer": [
-         "Lata Mangeshkar",
-         "Kishore Kumar"
-      ]
-   },
-   {
-      "id": 130,
-      "name": "Zara Zara by Maadhyam",
-      "lyrics": "https://youtu.be/MB6bUI5uaoc",
-      "album": "M.S.Dhoni",
-      "Duration": "4 min 6 sec",
-      "singer": [
-         "Bombay Jayashree"
-      ],
-      "genre": [
-         "Romantic"
-      ],
-      "link": "https://youtu.be/MB6bUI5uaoc"
-   },
-   {
-      "id": 131,
-      "name": "FRIENDS",
-      "lyrics": "https://www.azlyrics.com/lyrics/marshmello/friends.html",
-      "album": "FRIENDS",
-      "Duration": "3 min 51 sec",
-      "singer": [
-         "Marshmello & Anne-Marie "
-      ],
-      "genre": [
-         "Romance"
-      ],
-      "link": "https://youtu.be/jzD_yyEcp0M"
-   },
-   {
-      "id": 132,
-      "name": "Genda Phool",
-      "lyrics": "https://gaana.com/lyrics/genda-phool-6",
-      "albhum": "Genda Phool",
-      "Duration": "02:48",
-      "singer": [
-         "Badshah, Payal Dev"
-      ],
-      "genre": [
-         " Indian pop"
-      ],
-      "link": "https://youtu.be/SD4Z8dlZPd8"
-   },
-   {
-      "id": 133,
-      "name": "Enna Sona",
-      "lyrics": "https://www.azlyrics.com/lyrics/arijitsingh/ennasona.html",
-      "album": "Ok Jaanu",
-      "Duration": "3 min 51 sec",
-      "singer": [
-         "Arijit Singh"
-      ],
-      "link": "https://youtu.be/ofTxceS4wLI"
-   },
-   {
-      "id": 134,
-      "name": "Qaafirana",
-      "lyrics": "https://www.lyricsmint.com/kedarnath/qaafirana",
-      "album": "Kedarnath",
-      "Duration": "6 min 16 sec",
-      "singer": [
-         "Amit Trivedi"
-      ],
-      "genre": [
-         "Romantic"
-      ],
-      "link": "https://www.youtube.com/watch?v=ZmcBC9-wAXM"
-   },
-   {
-      "id": 135,
-      "name": "Te Amo",
-      "lyrics": "https://www.lyricsmint.com/dum-maaro-dum/te-amo",
-      "album": "Dum Maaro Dum",
-      "Duration": "4 min 25 sec",
-      "singer": [
-         "Ash King, Sunidhi Chauhan"
-      ],
-      "genre": [
-         "Romantic"
-      ],
-      "link": "https://youtu.be/lPXdn-pR8mI"
-   },
-   {
-      "id": 136,
-      "name": "Heropanti : Raat Bhar ",
-      "lyrics": "https://youtu.be/4KFVySixs_E",
-      "album": "Heropanti",
-      "Duration": "2 min 28 sec",
-      "singer": [
-         "Arijit Singh, Shreya Ghoshal"
-      ],
-      "genre": [
-         "Romantic",
-         "Pop",
-         "Hindi"
-      ],
-      "link": ""
-   },
-   {
-      "id": 137,
-      "name": "Tu Har Lamha ",
-      "lyrics": "https://www.hinditracks.in/tu-har-lamha-hindi-lyrics-khamoshiyan",
-      "album": "not available",
-      "Duration": "4 min 21 sec",
-      "singer": [
-         "Arijit Singh"
-      ],
-      "genre": [
-         "Romantic",
-         "Pop",
-         "Hindi"
-      ],
-      "link": "https://youtu.be/SdGL0qxgZGM"
-   },
-   {
-      "id": 138,
-      "name": "Filhall",
-      "lyrics": "https://lyricsraag.com/filhaal-song-translation-akshay-kumar/",
-      "album": "Filhall",
-      "Duration": "4:16",
-      "singer": [
-         "B Praak"
-      ],
-      "genre": [
-         "Romantic"
-      ],
-      "link": "https://youtu.be/DUwlGduupRI"
-   },
-   {
-      "id": 139,
-      "name": "Dekha Hazaro Dafaa",
-      "lyrices": "https://www.azlyrics.com/lyrics/arijitsingh/dekhahazarodafa.html",
-      "album": "Rustom",
-      "Duration": "3:33",
-      "singer": [
-         "Arijit Singh , Palak M"
-      ],
-      "genre": [
-         "Romantic"
-      ],
-      "link": "https://youtu.be/ImnYPjOd1Tw"
-   },
-   {
-      "id": 140,
-      "name": "Kun Faaya Kun",
-      "lyrics": "https://gaana.com/lyrics/kun-fayakun",
-      "album": "Rockstar",
-      "Duration": "6:21",
-      "singer": [
-         "A. R. Rahman, Javed Ali, Mohit Chauhan"
-      ],
-      "genre": [
-         "Sufi"
-      ],
-      "link": "https://www.youtube.com/watch?v=T94PHkuydcw"
-   },
-   {
-      "id": 141,
-      "name": "Dharkhaast",
-      "lyrics": "https://gaana.com/lyrics/darkhaast-1",
-      "album": "Shivaay",
-      "Duration": "6:55",
-      "singer": [
-         "Arijit Singh,Sunidhi Chauhan"
-      ],
-      "genre": [
-         "Romantic"
-      ],
-      "link": "https://youtu.be/GNm7vIZXEYw"
-   },
-   {
-      "id": 142,
-      "name": "Bade Acche Lagte Hai",
-      "lyrics": "https://gaana.com/lyrics/bade-achhe-lagte-hain",
-      "album": "Balika Badhu(1976)",
-      "Duration": "3 min 41 sec",
-      "singer": [
-         " Amit Kumar"
-      ],
-      "genre": [
-         "Romantic"
-      ],
-      "link": "https://youtu.be/ags3vxqbk-s"
-   },
-   {
-      "id": 143,
-      "name": "Zara Zara",
-      "lyrics": "https://gaana.com/lyrics/zara-zara-5",
-      "album": "Zara Zara",
-      "Duration": "4 min 56 sec",
-      "singer": [
-         " Bombay Jayashri"
-      ],
-      "genre": [
-         "Romantic",
-         "Filmy"
-      ],
-      "link": "https://youtu.be/NeXbmEnpSz0"
-   },
-   {
-      "id": 144,
-      "name": "Bawaal",
-      "lyrics": "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwi7v5zqyKjzAhXVXCsKHVZeDe0QFnoECAIQAQ&url=https%3A%2F%2Fwww.lyricsbell.com%2Fbawaal-mj5%2F&usg=AOvVaw2ptmUKxp_hdhV-MMKr5kP_",
-      "album": "ZBawaal",
-      "Duration": "3 min 14 sec",
-      "singer": [
-         " Kartik, Rohit"
-      ],
-      "genre": [
-         "Filmy"
-      ],
-      "link": "https://youtu.be/SGLVh57-HJs"
-   },
-   {
-      "id": 145,
-      "name": "Stay a little longer",
-      "lyrics": "https://www.lyricsmint.com/half-girlfriend/stay-a-little-longer",
-      "album": "Half Girlfriend",
-      "Duration": "4 min 59 sec",
-      "singer": [
-         " Anushka Shahaney "
-      ],
-      "genre": [
-         " Western swing",
-         "Filmy"
-      ],
-      "link": "https://www.youtube.com/watch?v=tjXHcyQhzqI"
-   },
-   {
-      "id": 146,
-      "name": "Dil Ko Karar Aaya",
-      "lyrics": "https://gaana.com/lyrics/dil-ko-karaar-aaya",
-      "album": "Sukoon",
-      "Duration": "2 min 29 sec",
-      "singer": [
-         " Neha Kakkar & Yasser Desai"
-      ],
-      "genre": [
-         "Romantic",
-         "lo-fi"
-      ],
-      "link": "https://youtu.be/Ad5s2_Z7-Pw"
-   },
-   {
-      "id": 147,
-      "name": "Sheikchillie",
-      "lyrics": "https://www.lyrics.com/sublyric/54086/Raftaar/Sheikh+Chilli+Original+Lyrics",
-      "album": "Sheikchillie",
-      "Duration": "4 min 13 sec",
-      "singer": [
-         "sheikchilli"
-      ],
-      "genre": [
-         "Pop"
-      ],
-      "link": "https://www.youtube.com/watch?v=uykOHAhId0Q"
-   },
-   {
-      "id": 148,
-      "name": "Kya Mujhe Pyar Hai",
-      "lyrics": "https://gaana.com/song/kya-mujhe-pyar-hai",
-      "album": "Woh Lamhe",
-      "Duration": "4 min 26 sec",
-      "singer": [
-         " KK,Pritam"
-      ],
-      "genre": [
-         "Romantic",
-         "Filmy"
-      ],
-      "link": "https://www.youtube.com/watch?v=lrAM_H7v8wM"
-   },
-   {
-      "id": 149,
-      "name": "Dil galt Kar Baitha hai",
-      "lyrics": "https://gaana.com/song/dil-galti-kar-baitha-hai-feat-mouni-roy",
-      "album": "Dil galt Kar Baitha hai",
-      "Duration": "4 min 26 sec",
-      "singer": [
-         "jubin"
-      ],
-      "genre": [
-         "Romantic",
-         "Filmy"
-      ],
-      "link": "https://www.youtube.com/watch?v=lrAM_H7v8wM"
-   },
-   {
-      "id": 150,
-      "name": "Kal Ho Naa Ho",
-      "lyrics": "https://gaana.com/song/kya-mujhe-pyar-hai",
-      "album": "Kal Ho Naa Ho",
-      "Duration": "4 min 46 sec",
-      "singer": [
-         "Sonu Nigam"
-      ],
-      "genre": [
-         "Romantic",
-         "Filmy"
-      ],
-      "link": "https://www.youtube.com/watch?v=g0eO74UmRBs"
-   },
-   {
-      "id": 151,
-      "name": "bazigar hai bazigar ",
-      "lyrics": "https://www.indicine.com/movies/lyrics/baigar/",
-      "album": "Bazigar",
-      "Duration": "03 minutes 15 seconds",
-      "singer": [
-         "Udit narayan "
-      ],
-      "genre": [
-         " Acoustic music",
-         "Filmi",
-         "Indian pop"
-      ],
-      "link": "https://youtu.be/IJq0yyWug1k"
-   },
-   {
-      "id": 152,
-      "name": "Baby",
-      "lyrics": "https://gaana.com/lyrics/baby-738",
-      "album": "My World 2.0",
-      "Duration": "3 min 36 sec",
-      "singer": [
-         "Justin Bieber"
-      ],
-      "genre": [
-         "Romantic"
-      ],
-      "link": "https://www.youtube.com/watch?v=kffacxfA7G4"
-   },
-   {
-      "id": 153,
-      "name": "Kal Ho Naa Ho ",
-      "lyrics": "https://gaana.com/lyrics/kal-ho-naa-ho-5",
-      "album": " Kal Ho Naa Ho ",
-      "Duration": "5 min 23 sec",
-      "singer": [
-         "Sonu Nigam"
-      ],
-      "genre": [
-         "Romance",
-         "Filmi"
-      ],
-      "link": "https://youtu.be/g0eO74UmRBs"
-   },
-   {
-      "id": 154,
-      "name": "dil dooba",
-      "lyrics": "https://gaana.com/lyrics/dil dooba",
-      "album": "khakee",
-      "Duration": "4 min 38 sec",
-      "singer": [
-         "Sonu nigam "
-      ],
-      "genre": [
-         "Motivation",
-         "Pop"
-      ],
-      "link": "https://www.youtube.com/watch?v=SAiyopkF22M"
-   },
-   {
-      "id": 155,
-      "name": "Panchhi Banoo Udti Phiroon ",
-      "lyrics": "https://youtu.be/fUtIQtRMGzg",
-      "album": "Chori Chori",
-      "Duration": "4 min 20 sec",
-      "singer": [
-         "Lata Mangeshkar"
-      ],
-      "genre": [
-         "Motivation",
-         "Folk"
-      ],
-      "link": "https://youtu.be/bIhhCGFR2NE"
-   },
-   {
-      "id": 156,
-      "name": "Chinta ta chita chita",
-      "lyrics": "https://www.lyricsmint.com/rowdy-rathore/chinta-ta-ta-chita-chita",
-      "album": "Rowdy Rathore",
-      "Duration": "5 min 7 sec",
-      "singer": [
-         "Mika Singh "
-      ],
-      "genre": [
-         "dance number",
-         "Pop"
-      ],
-      "link": "https://www.youtube.com/watch?v=NPRd7Xc0tfM"
-   },
-   {
-      "id": 157,
-      "name": "KHAIRIYAT",
-      "lyrics": "https://www.ilyricshub.com/khairiyat-chhichhore-arijit-singh/",
-      "album": "Chhichhore",
-      "Duration": "3 min 58 sec",
-      "singer": [
-         "Arijit Singh "
-      ],
-      "genre": [
-         "dance number",
-         "Pop"
-      ],
-      "link": "https://www.youtube.com/watch?v=hoNb6HuNmU0"
-   },
-   {
-      "id": 158,
-      "name": "Dekha Hazaro Dafaa",
-      "lyrices": "https://www.azlyrics.com/lyrics/arijitsingh/dekhahazarodafa.html",
-      "album": "Rustom",
-      "Duration": "3:33",
-      "singer": [
-         "Arijit Singh , Palak M"
-      ],
-      "genre": [
-         "Romantic"
-      ],
-      "link": "https://youtu.be/ImnYPjOd1Tw"
-   },
-   {
-      "id": 159,
-      "name": "Mere Mehboob Qayamat Hogi",
-      "lyrices": "https://youtu.be/EBRc5ckj5k0",
-      "album": "NA",
-      "Duration": "4:32",
-      "singer": [
-         "Kishore Kumar"
-      ],
-      "genre": [
-         "Romantic"
-      ],
-      "link": "https://youtu.be/yIzCBU0_LyY"
-   },
-   {
-      "id": 160,
-      "name": "kun faya kun",
-      "lyrics": "https://genius.com/Ar-rahman-kun-faya-kun-lyrics",
-      "album": "Rockstar",
-      "Duration": "6 min 20 sec",
-      "singer": [
-         "A R Rahman",
-         "Javed Ali"
-      ],
-      "genre": [
-         "Sufi"
-      ],
-      "link": "https://youtu.be/T94PHkuydcw"
-   },
-   {
-      "id": 161,
-      "name": "vienna waits for you",
-      "lyrics": " https://genius.com/Billy-joel-vienna-lyrics",
-      "album": "vienna",
-      "Duration": "3 min 37 sec",
-      "singer": [
-         "billy joel "
-      ],
-      "genre": [
-         "dance number",
-         "Pop"
-      ],
-      "link": "https://www.youtube.com/results?search_query=vienna"
-   },
-   {
-      "id": 162,
-      "name": "Dildara",
-      "lyrics": "https://lyricsdna.com/songs/lyrics/dildara-dildara-lyrics-stand-by-me-ra-one",
-      "album": "Ra.One",
-      "Duration": "4 min 30 sec",
-      "singer": [
-         "Abhijeet Bhattacharya, Sowmya Raoh "
-      ],
-      "genre": [
-         "dance number",
-         "Pop"
-      ],
-      "link": "https://www.youtube.com/watch?v=gQ5qVtoLMk4"
-   },
-   {
-      "id": 163,
-      "name": "Tu Tu Hai Wahi ",
-      "lyrics": "https://www.lyricsoff.com/songs/tu-tu-hai-wahi-yeh-vaada-raha.html",
-      "album": "Yeh Vaada Raha ",
-      "Duration": "6 min 50 sec",
-      "singer": [
-         "Kishore Kumar",
-         "Asha Bhosle"
-      ],
-      "genre": [
-         "Romanace"
-      ],
-      "link": "https://youtu.be/hjfzFVw2Zjo"
-   },
-   {
-      "id": 164,
-      "name": "Raat kali ek khwab mein aayi",
-      "lyrics": "https://gaana.com/lyrics/raat-kali-ek-khwab-men-aai-23",
-      "album": "Buddha Mil Gaya",
-      "Duration": "4 min 59 sec",
-      "singer": [
-         "Kishore Kumar"
-      ],
-      "genre": [
-         "Romanace"
-      ],
-      "link": "https://www.youtube.com/watch?v=jFYlChHSdzo"
-   },
-   {
-      "id": 165,
-      "name": " Kisi Ki Muskurahaton Se ",
-      "lyrics": "https://youtu.be/z6FukwueP1o",
-      "album": "Legend Raj Kapoor-The Showman  Vol-3",
-      "Duration": "4 min 08 sec",
-      "singer": [
-         "Mukesh"
-      ],
-      "genre": [
-         "Motivational",
-         "Folk"
-      ],
-      "link": "https://youtu.be/z6FukwueP1o"
-   },
-   {
-      "id": 166,
-      "name": "Tu Tu Hai Wahi ",
-      "lyrics": "https://www.lyricsoff.com/songs/tu-tu-hai-wahi-yeh-vaada-raha.html",
-      "album": "Yeh Vaada Raha ",
-      "Duration": "6 min 50 sec",
-      "singer": [
-         "Kishore Kumar",
-         "Asha Bhosle"
-      ],
-      "genre": [
-         "Romanace"
-      ],
-      "link": "https://youtu.be/hjfzFVw2Zjo"
-   },
-   {
-      "id": 167,
-      "name": "Chand Sifarish ",
-      "lyrics": "https://gaana.com/lyrics/chand-sifarish-13",
-      "album": "Fanaa ",
-      "Duration": "4 min 536 sec",
-      "singer": [
-         "Shaan",
-         "Kailash Kher"
-      ],
-      "genre": [
-         "Romanace"
-      ],
-      "link": "https://youtu.be/zWEOx7TSM6I"
-   },
-   {
-      "id": 168,
-      "name": "Makhna",
-      "lyrics": "https://www.lyricsbell.com/makhna-drive/",
-      "album": "Drive",
-      "Duration": "3 min 13 sec",
-      "singer": [
-         "Tanishk Bagchi",
-         "Yasser Desai",
-         "Asees Kaur"
-      ],
-      "genre": [
-         "Filmy"
-      ],
-      "link": "https://www.youtube.com/watch?v=HqUeSjsYLNU"
-   },
-   {
-      "id": 169,
-      "name": "Pani Da Rang",
-      "lyrics": "https://gaana.com/lyrics/pani-di-gal",
-      "album": "Vicky Donor",
-      "Duration": "4 min",
-      "singer": [
-         " Ayushman Khurrana"
-      ],
-      "genre": [
-         "Filmi, Acoustic pop"
-      ],
-      "link": "https://youtu.be/2kgEc6oH9J0"
-   },
-   {
-      "id": 170,
-      "name": "Bhul Bhulaiya Title Track",
-      "lyrics": "https://gaana.com/song/bhool-bhulaiyaa-remix-1",
-      "album": "Bhul Bhulaiya Remix",
-      "Duration": "5 min 04 sec",
-      "singer": [
-         " Neeraj Sridhar"
-      ],
-      "genre": [
-         "Funny"
-      ],
-      "link": "https://www.youtube.com/watch?v=1hCQgzZoeNM"
-   },
-   {
-      "id": 171,
-      "name": "Janam Janam",
-      "lyrics": "https://www.azlyrics.com/lyrics/arijitsingh/janamjanam.html",
-      "album": "Dilwale",
-      "Duration": "4 min 13 sec",
-      "singer": [
-         " Arjit Singh"
-      ],
-      "genre": [
-         "Romantic"
-      ],
-      "link": "https://www.youtube.com/watch?v=pIBoAh4OXhQ"
-   },
-   {
-      "id": 172,
-      "name": "Bahara",
-      "lyrics": "https://gaana.com/lyrics/bahara-13",
-      "album": "I Hate Luv Storys",
-      "Duration": "4 min 08 sec",
-      "singer": [
-         "Shreya Goshal",
-         "Sona Mohapatra",
-         "Vishal\u00e2\u20ac\u201cShekhar"
-      ],
-      "genre": [
-         "Romantic"
-      ],
-      "link": "https://youtu.be/_VOXxKDNCuM"
-   },
-   {
-      "id": 173,
-      "name": "Love you zindagi",
-      "lyrics": "http://songolyrics.in/dear-zindagi/love-you-zindagi",
-      "album": "Dear Zindagi",
-      "Duration": "4 min 11 sec",
-      "singer": [
-         " Jasleen Royal"
-      ],
-      "genre": [
-         "motivation"
-      ],
-      "link": "https://www.youtube.com/watch?v=bw7bVpI5VcM"
-   },
-   {
-      "id": 174,
-      "name": "Ilahi",
-      "lyrics": "https://gaana.com/lyrics/ilahi-9",
-      "album": "Yeh Jawaani Hai Deewani",
-      "Duration": "3 min 48 sec",
-      "singer": [
-         "Pritam",
-         "Arijit Singh"
-      ],
-      "genre": [
-         "Travel"
-      ],
-      "link": "https://www.youtube.com/watch?v=fdubeMFwuGs"
-   },
-   {
-      "id": 175,
-      "name": "Kaam 25",
-      "lyrics": "https://gaana.com/lyrics/kaam-25",
-      "album": "Sacred Games",
-      "Duration": "2 min 29 sec",
-      "singer": [
-         "Divine"
-      ],
-      "genre": [
-         "Rap"
-      ],
-      "link": "https://www.youtube.com/watch?v=ATf05n5LBHQ"
-   },
-   {
-      "id": 176,
-      "name": "Drivers license",
-      "lyrics": "https://www.republicworld.com/entertainment-news/music/drivers-license-lyrics-and-meaning-behind-this-olivia-rodrigo-song-explained.html",
-      "album": "Divers license",
-      "Duration": "4 min 2 sec",
-      "singer": [
-         "Daniel Nigro / Olivia Rodrigo"
-      ],
-      "genre": [
-         "Indie Pop"
-      ],
-      "link": "https://www.youtube.com/watch?v=_Bjf-iExroI"
-   },
-   {
-      "id": 177,
-      "name": "Kashmir Main Tu Kanyakumari",
-      "lyrics": "https://www.lyricsoff.com/songs/kashmir-main-tu-kanyakumari.html",
-      "album": "Chennai Express",
-      "Duration": "3 min 41 sec",
-      "singer": [
-         "Arijit Singh",
-         "Sunidhi Chauhan"
-      ],
-      "genre": [
-         "Folk"
-      ],
-      "link": "https://www.youtube.com/watch?v=dodDteh-m3Q"
-   },
-   {
-      "id": 178,
-      "name": "Dekhte Dekhte",
-      "lyrics": "https://www.lyricspedia.co.in/dekhte-dekhte-lyrics-atif-aslam/",
-      "album": "Batti Gul Meter Chalu",
-      "Duration": "4 min 36 sec",
-      "singer": [
-         " Atif Aslam"
-      ],
-      "genre": [
-         "Romantic"
-      ],
-      "link": "https://www.youtube.com/watch?v=jBQpGiubj0c"
-   },
-   {
-      "id": 179,
-      "name": "Tera Hone Laga Hoon",
-      "lyrics": "https://gaana.com/playlist/ashitharamesh2-terahonelagahoon",
-      "album": "Ajab Prem Ki Ghazab Kahani",
-      "Duration": "4 min 59 sec",
-      "singer": [
-         "  Atif Aslam"
-      ],
-      "genre": [
-         "Romantic"
-      ],
-      "link": "https://www.youtube.com/watch?v=rTuxUAuJRyY"
-   },
-   {
-      "id": 180,
-      "name": "Gerua",
-      "lyrics": "https://www.azlyrics.com/lyrics/arijitsingh/gerua.html",
-      "album": "Dilwale",
-      "Duration": "4 min 48 sec",
-      "singer": [
-         "Arijit Singh"
-      ],
-      "genre": [
-         "Romantic"
-      ],
-      "link": "https://youtu.be/AEIVhBS6baE"
-   },
-   {
-      "id": 181,
-      "name": "Enna Sona",
-      "lyrics": "https://www.azlyrics.com/lyrics/arijitsingh/ennasona.html",
-      "album": "Ok Jaanu",
-      "Duration": "3 min 33 sec",
-      "singer": [
-         "Arijit Singh"
-      ],
-      "genre": [
-         "Romantic"
-      ],
-      "link": "https://youtu.be/mrdRHsIkK_c"
-   },
-   {
-      "id": 182,
-      "name": "Kalank (Title Track)",
-      "lyrics": "https://www.lyricsmint.com/kalank/kalank-title-track",
-      "album": "Kalank",
-      "Duration": "5 min 11 sec",
-      "singer": [
-         "Arijit Singh"
-      ],
-      "genre": [
-         "Romantic"
-      ],
-      "link": "https://youtu.be/Grr0FlC8SQA"
-   },
-   {
-      "id": 183,
-      "name": "Iktara",
-      "lyrics": "https://gaana.com/lyrics/iktara-9",
-      "album": "wake up sid",
-      "Duration": "4 min 13 sec",
-      "singer": [
-         "Amitabh Bhattachary",
-         "Amit Trivedi",
-         "kavita Seth"
-      ],
-      "genre": [
-         "Romantic"
-      ],
-      "link": "https://www.youtube.com/watch?v=fSS_R91Nimw"
-   },
-   {
-      "id": 184,
-      "name": "tu bin bataye",
-      "lyrics": "https://genius.com/Ar-rahman-tu-bin-bataye-lyrics",
-      "album": "Rang de basanti",
-      "Duration": "5 min 55 sec",
-      "singer": [
-         "A.R Rahman"
-      ],
-      "genre": [
-         "Romantic"
-      ],
-      "link": "https://www.youtube.com/watch?v=UqblLzBwlns"
-   },
-   {
-      "id": 185,
-      "name": "Kinna Sona",
-      "lyrics": "https://www.ilyricshub.com/kinna-sona-marjaavaan/",
-      "album": "Marjaavaan",
-      "Duration": "4 min 33 sec",
-      "singer": [
-         "Jubin Nautiyal"
-      ],
-      "genre": [
-         "Romantic"
-      ],
-      "link": "https://www.youtube.com/watch?v=7lfFZs50JHM"
-   },
-   {
-      "id": 186,
-      "name": "kaun disha mein leke chala re",
-      "lyrics": "https://gaana.com/lyrics/kaun-disha-mein-leke-chala",
-      "album": " Nadiya Ke Paar ",
-      "Duration": "6 min 52 sec",
-      "singer": [
-         "Hemlata, Jaspal Singh"
-      ],
-      "genre": [
-         "Romantic"
-      ],
-      "link": "https://www.youtube.com/watch?v=D61BvxAOxm0"
-   },
-   {
-      "id": 187,
-      "name": "Ankhiyon Ke Jharokhon Se",
-      "lyrics": "https://gaana.com/lyrics/ankhiyon-ke-jharokhon-se-happy-ii",
-      "album": "Ankhiyon Ke Jharokhon Se",
-      "Duration": "2 min 58 sec",
-      "singer": [
-         "Hemlata"
-      ],
-      "genre": [
-         "Romantic"
-      ],
-      "link": "https://www.youtube.com/watch?v=_NIFoqfSO6E"
-   },
-   {
-      "id": 188,
-      "name": "Jhilmil Sitaron Ka Aangan Hoga",
-      "lyrics": "https://gaana.com/lyrics/jhilmil-sitaron-ka-angan-hoga-1",
-      "album": "Jeevan Mrityue",
-      "Duration": "5 min 28 sec",
-      "singer": [
-         "Mohammed Rafi, Lata Mangeshkar"
-      ],
-      "genre": [
-         "Romantic"
-      ],
-      "link": "https://www.youtube.com/watch?v=v13cUeX6_co"
-   },
-   {
-      "id": 189,
-      "name": "Solah Baras Ki Bali Umar ",
-      "lyrics": "https://gaana.com/lyrics/solah-baras-ki-bali-umariya",
-      "album": " Ek Duuje Ke Liye",
-      "Duration": "6 min 13 sec",
-      "singer": [
-         " Lata Mangeshkar, Anup Jalota"
-      ],
-      "genre": [
-         "Romantic"
-      ],
-      "link": "https://www.youtube.com/watch?v=1RIEPUjTXEA"
-   },
-   {
-      "id": 190,
-      "name": "Mere naal tu whistle baja",
-      "lyrics": "https://gaana.com/lyrics/whistle-baja",
-      "album": "Heropanti",
-      "Duration": "3 min 25 sec",
-      "singer": [
-         "Manj Musik"
-      ],
-      "genre": [
-         "Romantic"
-      ],
-      "link": "https://www.youtube.com/watch?v=5NM7VF0AOfo"
-   },
-   {
-      "id": 191,
-      "name": "Khoj",
-      "lyrics": "https://genius.com/When-chai-met-toast-khoj-lyrics",
-      "album": "Believe",
-      "Duration": "3 min 31 sec",
-      "singer": [
-         "When Chai Met Toast pop/folk band"
-      ],
-      "genre": [
-         "Pop, Rock, Folk"
-      ],
-      "link": "https://youtu.be/LMEdbBK4bk0"
-   },
-   {
-      "id": 192,
-      "name": "Kinna Sona",
-      "lyrics": "https://www.ilyricshub.com/kinna-sona-marjaavaan/",
-      "album": "Marjaavaan",
-      "Duration": "4 min 33 sec",
-      "singer": [
-         "Jubin Nautiyal"
-      ],
-      "genre": [
-         "Romantic"
-      ],
-      "link": "https://www.youtube.com/watch?v=7lfFZs50JHM"
-   },
-   {
-      "id": 193,
-      "name": "Thug Le",
-      "lyrics": "https://gaana.com/lyrics/thug-le-14",
-      "album": "Ladies Vs Rickt Bahl",
-      "Duration": "3 min 38 sec",
-      "singer": [
-         "Vishal Dadlani"
-      ],
-      "genre": [
-         "Energetic"
-      ],
-      "link": "https://www.youtube.com/watch?v=LEYXdZ_rVbo"
-   },
-   {
-      "id": 194,
-      "name": "KHAIRIYAT",
-      "lyrics": "https://gaana.com/lyrics/khairiyat-happy",
-      "album": "chhichhore",
-      "Duration": "3 min 58 sec",
-      "singer": [
-         "Arijit Singh"
-      ],
-      "genre": [
-         "Romantic"
-      ],
-      "link": "https://www.youtube.com/watch?v=hoNb6HuNmU0"
-   },
-   {
-      "id": 195,
-      "name": "Mere Liye Tum Kaafi Ho",
-      "lyrics": "https://gaana.com/lyrics/moh-moh-ke-dhaage-male",
-      "movie": "Dum Laga Ke Haisha",
-      "Duration": "5 min 22 sec",
-      "singer": [
-         "Monali Thakur"
-      ],
-      "genre": [
-         "Romantic"
-      ],
-      "link": "https://www.youtube.com/watch?v=JbDktrsnH40"
-   },
-   {
-      "id": 196,
-      "name": "Lut Gaye",
-      "lyrics": "https://gaana.com/lyrics/lut-gaye-feat-emraan-hashmi",
-      "album": "Lut Gaye(feat Emraan Hashmi",
-      "Duration": "4 min 57 sec",
-      "singer": [
-         "Jubin Nautiyal"
-      ],
-      "genre": [
-         "Romatic"
-      ],
-      "link": "https://www.youtube.com/watch?v=sCbbMZ-q4-I"
-   },
-   {
-      "id": 197,
-      "name": "Thoda Thoda Pyaar",
-      "lyrics": "https://lyricsmint.com/stebin-ben/thoda-thoda-pyaar",
-      "album": "Thoda Thoda Pyaar",
-      "Duration": "4 min 57 sec",
-      "singer": [
-         "Stebin Ben"
-      ],
-      "genre": [
-         "Romatic"
-      ],
-      "link": "https://www.youtube.com/watch?v=USccSZnS8MQ"
-   },
-   {
-      "id": 198,
-      "name": "Shayad",
-      "lyrics": "https://www.lyricsmint.com/love-aaj-kal/shayad",
-      "album": "Love aaj kal",
-      "Duration": "3 min 10 sec",
-      "singer": [
-         "Arijit Singh"
-      ],
-      "genre": [
-         "Romatic"
-      ],
-      "link": "https://www.youtube.com/watch?v=MJyKN-8UncM"
-   },
-   {
-      "id": 199,
-      "name": "Aaj din Chadheya",
-      "lyrics": "https://www.indicine.com/movies/bollywood/ajj-din-chadheya-lyrics-love-aaj-kal/",
-      "album": "Love aaj kal",
-      "Duration": "5 min 24 sec",
-      "singer": [
-         "Rahat Fateh Ali Khan"
-      ],
-      "genre": [
-         "Romatic"
-      ],
-      "link": "https://www.youtube.com/watch?v=YSWMbwQuWAY"
-   },
-   {
-      "id": 200,
-      "name": "Tune Jo Na Kaha",
-      "lyrics": "https://gaana.com/lyrics/tune-jo-na-kaha",
-      "album": "New York",
-      "Duration": "2 min 23 sec",
-      "singer": [
-         "Mohit Chauhan"
-      ],
-      "genre": [
-         "Romatic"
-      ],
-      "link": "https://www.youtube.com/watch?v=dTu5dTEzVM4"
-   },
-   {
-      "id": 201,
-      "name": "Mehbooba Mehbooba",
-      "lyrics": "https://www.lyrics.com/lyric/6166149/R.D.+Burman/Mehbooba+Mehbooba+%5BFrom+Sholay%5D",
-      "album": "Sholay",
-      "Duration": "3 min 56 sec",
-      "singer": [
-         "R.D. Burman"
-      ],
-      "genre": [
-         "Romatic"
-      ],
-      "link": "https://www.youtube.com/watch?v=ByAbV-MKDgs"
-   },
-   {
-      "id": 202,
-      "name": "Chitta",
-      "lyrics": "https://www.ilyricshub.com/chitta-shiddat-manan-bhardwaj/",
-      "album": "Shiddat",
-      "Duration": "2 min 25 sec",
-      "singer": [
-         "Manan Bhardwaj"
-      ],
-      "genre": [
-         "Romatic"
-      ],
-      "link": "https://www.youtube.com/watch?v=4vpfmr6M4FU"
-   },
-   {
-      "id": 203,
-      "name": "goom hai kisi ke pyar mein",
-      "lyrics": "https://gaana.com/lyrics/goom-hai-kisi-ke-pyar-mein-1",
-      "album": "Raampur Ka Lakshman",
-      "Duration": "4 min 30 sec",
-      "singer": [
-         "Lata Mangeshkar",
-         "Kishore Kumar "
-      ],
-      "genre": [
-         "Romatic"
-      ],
-      "link": "https://www.youtube.com/watch?v=sPiOMuvzSI8"
-   },
-   {
-      "id": 204,
-      "name": "Virah",
-      "lyrics": "https://www.lyricsgoal.com/virah-bandish-bandits/",
-      "album": "Bandish Bandits",
-      "Duration": "3 min 10 sec",
-      "singer": [
-         "Shankar Mahadevan"
-      ],
-      "genre": [
-         "classical"
-      ],
-      "link": "https://www.youtube.com/watch?v=2lARCtyoiT8"
-   },
-   {
-      "id": 205,
-      "name": "Badmash Company",
-      "lyrics": "https://www.indicine.com/movies/bollywood/badmaash-company-lyrics/",
-      "album": "Badmash Company",
-      "Duration": "4 min",
-      "singer": [
-         "Benny Dayal"
-      ],
-      "genre": [
-         "Rock , pop"
-      ],
-      "link": "https://gaana.com/album/badmaash-company"
-   },
-   {
-      "id": 206,
-      "name": "Mourya Re",
-      "lyrics": "https://gaana.com/lyrics/mourya-re-3",
-      "album": "Chalisa Sangrah",
-      "Duration": "5 min 48 sec",
-      "singer": [
-         "Shankar Mahadevan"
-      ],
-      "genre": [
-         "God"
-      ],
-      "link": "https://gaana.com/song/mourya-re-3"
-   },
-   {
-      "id": 207,
-      "name": "insane",
-      "lyrics": "https://www.lyricsgoal.com/insane-ap-dhillon/",
-      "album": "insane",
-      "Duration": "5 min 48 sec",
-      "singer": [
-         "AP Dhillon"
-      ],
-      "genre": [
-         "pop"
-      ],
-      "link": "https://www.youtube.com/watch?v=cqP8I5aaud8"
-   },
-   {
-      "id": 208,
-      "name": "Agar tum saath ho",
-      "lyrics": "https://gaana.com/song/agar-tum-saath-ho",
-      "album": "Tamasha",
-      "Duration": "5 min 41 sec",
-      "singer": [
-         "Arjit singh,Alka yagnik"
-      ],
-      "genre": [
-         "Romatic"
-      ],
-      "link": "https://www.youtube.com/watch?v=sK7riqg2mr4"
-   },
-   {
-      "id": 209,
-      "name": "Maahi Ve",
-      "lyrics": "https://www.lyricsoff.com/songs/maahi-ve-highway.html",
-      "album": "Highway",
-      "Duration": "4 min",
-      "singer": [
-         "AR Rahman"
-      ],
-      "genre": [
-         "Rock , pop"
-      ],
-      "link": "https://open.spotify.com/track/1sbW5E7w8tnqpYk0Frx8QG?si=3bac1a7746994768"
-   },
-   {
-      "id": 210,
-      "name": "Baatein ye Kabhi na",
-      "lyrics": "https://www.hinditracks.in/baatein-ye-kabhi-na-khamoshiyan",
-      "album": "Khamoshiyan",
-      "Duration": "4 min 16 sec",
-      "singer": [
-         "Arijit Singh"
-      ],
-      "genre": [
-         "Pop, Soul, Folk"
-      ],
-      "link": "https://www.youtube.com/watch?v=SOessajf_Ik"
-   },
-   {
-      "id": 211,
-      "name": "Ae Dil hai Mushkil",
-      "lyrics": "https://www.azlyrics.com/lyrics/arijitsingh/aedilhaimushkil.html",
-      "album": "Ae Dil Hai Mushkil",
-      "Duration": "5 min 01 sec",
-      "singer": [
-         "Arijit Singh"
-      ],
-      "genre": [
-         "Love, Instrumental"
-      ],
-      "link": "https://www.youtube.com/watch?v=6FURuLYrR_Q"
-   },
-   {
-      "id": 212,
-      "name": "Raatan Lambiyan",
-      "lyrics": "https://www.hinditracks.in/raataan-lambiyan-lyrics",
-      "album": "Shershaah",
-      "Duration": "2 min 31 sec",
-      "singer": [
-         "Jubin Nautiyal, Asees Kaur"
-      ],
-      "genre": [
-         "Love, Instrumental"
-      ],
-      "link": "https://youtu.be/gvyUuxdRdR4"
-   },
-   {
-      "id": 213,
-      "name": "Muskurane",
-      "lyrics": "https://www.azlyrics.com/lyrics/arijitsingh/muskurane.html",
-      "album": "Citylights",
-      "Duration": "2 min 19 sec",
-      "singer": [
-         "Arijit SIngh"
-      ],
-      "genre": [
-         "Love, Instrumental"
-      ],
-      "link": "https://www.youtube.com/watch?v=4gNu8LsfYP8"
-   },
-   {
-      "id": 214,
-      "name": "Jogi",
-      "lyrics": "https://www.lyricsbull.com/jogi-shaadi-mein-zaroor-aana/",
-      "album": "Shadi me jaroor ana",
-      "Duration": "4 min 44 sec",
-      "singer": [
-         "Yasser Desai ,Aakanksha Sharma"
-      ],
-      "genre": [
-         "Love",
-         "Instrumental"
-      ],
-      "link": "https://www.youtube.com/watch?v=HexFqifusOk""id": 214,
-      "name": "Waka Waka (This Time for Africa)",
-      "lyrics": "https://lyricbasket.in/waka-waka-song-lyrics-valmiki-varun-tej/",
-      "album": "",
-      "Duration": "3 min 22 sec",
-      "singer": [
-         "Shakira"
-      ],
-      "genre": [
-         "Afro-fusion,Soca"
-      ],
-      "link": "https://www.youtube.com/watch?v=1zacYmrdexA"
-   },
-   "name": "Raanjhana",
-   "lyrics": "https://www.lyricsmint.com/raanjhanaa/raanjhanaa-title-song",
-   "album": "Raanjhana",
-   "Duration": "3 min 10 sec",
-   "singer": [
-      "Shiraz Uppal",
-      " Jaswinder Singh"
-   ],
-   "genre": [
-      "Romantic"
-   ],
-   "link": "https://www.youtube.com/watch?v=OsTGp5n6w5E"
-},
-}
-"id": 214,
-"name": "Neend Churayee Meri",
-"lyrics": "https://www.songlyrics.com/the-boss/neend-churayee-meri-lyrics/",
-"album": "Ishq",
-"Duration": "4 min 23 sec",
-"singer": [
-"Alak Yagnik,Kumar Sanu,Kavita Krishnamurthy,udit Narayan"
-],
-"genre": [
-"Love,Romantic"
-],
-"link": "https://www.youtube.com/watch?v=m9YhBDFxC5o"
-],
-{
-"id": 243,
-"name": "Maiyya Mainu ",
-"lyrics": "https://www.lyricsgoal.com/maiyya-mainu-jersey-sachet-tandon/",
-"album": "Jersey",
-"Duration": "4 min 19 sec",
-"singer": [
-"Sachet-Parampara," Shellee" , "Gowtam T"],"genre": ["Love, Instrumental"
-],
-"link": "https://www.youtube.com/watch?v=y7MW7d8fb1Y"
-},
-"id": 214,
-"name": "Chand Si Mehbooba",
-"lyrics": "https://www.jiosaavn.com/lyrics/chand-si-mehbooba-lyrics/JA1TfjBDBXQ",
-"album": "Himalay Ki God Mein ",
-"Duration": "3 min 35 sec",
-"singer": [
-"Mukesh"
-],
-"genre": [
-"Romantic"
-],
-"link": "https://www.youtube.com/watch?v=WYjVa10bP1c"
+    {
+       "id": 1,
+       "name": "Sajdaa",
+       "lyrics": "https://www.indicine.com/movies/bollywood/sajda-lyrics-my-name-is-khan/",
+       "album": "My Name is Khan (2010)",
+       "Duration": "4 min 58 sec",
+       "singer": [
+          "Rahat Fateh Ali Khan",
+          "Shankar Mahadevan",
+          "Richa Sharma"
+       ],
+       "genre": [
+          "Romantic"
+       ],
+       "link": "https://youtu.be/3rPEWcY6Oww"
+    },
+    {
+       "id": 2,
+       "name": "Mast Magaan",
+       "lyrics": "https://gaana.com/lyrics/mast-magan-1",
+       "album": "2 States",
+       "Duration": "4 min 40 sec",
+       "singer": [
+          "Arijit Singh",
+          "Chinmayi Sripada"
+       ],
+       "genre": [
+          "Romantic",
+          "slow",
+          "lofi"
+       ],
+       "link": "https://youtu.be/fXRvluHnjxE"
+    },
+    {
+       "id": 3,
+       "name": "Sajde",
+       "lyrics": "https://gaana.com/lyrics/sajde",
+       "album": "Khatta Meetha",
+       "Duration": "5 min 5 sec",
+       "singer": [
+          "Pritam",
+          "K.K",
+          "Sunidhi Chauhan"
+       ],
+       "genre": [
+          "Romantic",
+          "slow"
+       ],
+       "link": "https://youtu.be/zfABYXP_NSA"
+    },
+    {
+       "id": 4,
+       "name": "Kholo Kholo",
+       "lyrics": "https://gaana.com/lyrics/kholo-kholo",
+       "album": "Taare Zameen Par",
+       "Duration": "6 min 34 sec",
+       "singer": [
+          "Raman Mahadevan"
+       ],
+       "genre": [
+          "Motivation",
+          "Pop"
+       ],
+       "link": "https://youtu.be/FIaUYKLg5S4"
+    },
+    {
+       "id": 5,
+       "name": "Mann Bharryaa 2.0",
+       "lyrics": "https://www.ilyricshub.com/mann-bharrya-2-0-shershaah-b-praak/",
+       "album": "Sheershaah",
+       "Duration": "3 min 50 sec",
+       "singer": [
+          "B Praak"
+       ],
+       "genre": [
+          "Emotional",
+          "slow",
+          "sad",
+          "Punjabi"
+       ],
+       "link": "https://youtu.be/1poXN3jF3Bw"
+    },
+    {
+       "id": 6,
+       "name": "Kabhii Tumhhe",
+       "lyrics": "https://www.ilyricshub.com/kabhi-tumhe-shershaah-darshan-raval/",
+       "album": "Sheershaah",
+       "Duration": "3 min 40 sec",
+       "singer": [
+          "Darshan Raval"
+       ],
+       "genre": [
+          "Emotional",
+          "slow",
+          "sad",
+          "Romantic",
+          "Punjabi"
+       ],
+       "link": "https://youtu.be/ByIZIKFmHOA"
+    },
+    {
+       "id": 7,
+       "name": "Raataan Lambiyan",
+       "lyrics": "https://www.ilyricshub.com/raataan-lambiyan-shershaah/",
+       "album": "Sheershaah",
+       "Duration": "2 min 31 sec",
+       "singer": [
+          "Jubin Nautiyal",
+          "Asees Kaur",
+          "Punjabi"
+       ],
+       "genre": [
+          "Romantic",
+          "slow"
+       ],
+       "link": "https://youtu.be/gvyUuxdRdR4"
+    },
+    {
+       "id": 8,
+       "name": "Ranjha ",
+       "lyrics": "https://www.ilyricshub.com/ranjha-shershaah-b-praak/",
+       "album": "Sheershaah",
+       "Duration": "3 min 13 sec",
+       "singer": [
+          "B Praak",
+          "Jasleen Royal",
+          "Punjabi"
+       ],
+       "genre": [
+          "Romantic",
+          "slow"
+       ],
+       "link": "https://youtu.be/V7LwfY5U5WI"
+    },
+    {
+       "id": 9,
+       "name": "Pani Da Rang",
+       "lyrics": "https://www.lyricsmint.com/vicky-donor/pani-da-rang",
+       "album": "Vicky Donor",
+       "Duration": "4 min 05 sec",
+       "singer": [
+          "Ayushmann Khurrana"
+       ],
+       "genre": [
+          "Romantic",
+          "Pop",
+          "Punjabi"
+       ],
+       "link": "https://youtu.be/2kgEc6oH9J0"
+    },
+    {
+       "id": 10,
+       "name": "Mere Liye Tum Kaafi Ho",
+       "lyrics": "https://gaana.com/lyrics/mere-liye-tum-kaafi-ho-from-shubh-mangal-zyada-saavdhan",
+       "album": "Shubh Mangal Zyada Saavdhan",
+       "Duration": "2 min 05 sec",
+       "singer": [
+          "Ayushman Khurana"
+       ],
+       "genre": [
+          "Romantic",
+          "Friendship"
+       ],
+       "link": "https://youtu.be/5LBB6OV3Ano"
+    },
+    {
+       "id": 11,
+       "name": "Rang De Basanti",
+       "lyrics": "https://www.hinditracks.in/mohe-rang-de-basanti-lyrics",
+       "album": "Rang De Basanti",
+       "Duration": "5 min 40 sec",
+       "singer": [
+          "Daler Mehndi"
+       ],
+       "genre": [
+          "Film Sountrack",
+          "Punjabi"
+       ],
+       "link": "https://youtu.be/5LBB6OV3Ano"
+    },
+    {
+       "id": 12,
+       "name": "Senorita",
+       "lyrics": "https://gaana.com/lyrics/senorita-17",
+       "album": "Zindagi Na Milegi Dobara",
+       "Duration": "3 min 51 sec",
+       "singer": [
+          "Farhan Akhtar",
+          " Hrithik Roshan",
+          "Abhay Deol"
+       ],
+       "genre": [
+          "Dance",
+          "Disco"
+       ],
+       "link": "https://youtu.be/yDv0WSgXJVg"
+    },
+    {
+       "id": 13,
+       "name": "Slow Motion Angreza",
+       "lyrics": "https://gaana.com/lyrics/slow-motion-angreza",
+       "album": "Bhaag Milkha Bhaag",
+       "Duration": "4 min 54 sec",
+       "singer": [
+          "Slow Motion Angreza",
+          "Shankar Mahadevan",
+          "Loy Mendonsa"
+       ],
+       "genre": [
+          "Dance",
+          "Disco"
+       ],
+       "link": "https://youtu.be/60vIVA5AZ9M"
+    },
+    {
+       "id": 14,
+       "name": "Sooraj Ki Baahon Mein",
+       "lyrics": "https://gaana.com/lyrics/sooraj-ki-baahon-mein-1",
+       "album": "Zindagi Na Milegi Dobara",
+       "Duration": "3 min 22 sec",
+       "singer": [
+          "Clinton Cerejo",
+          "Loy Mendonsa",
+          "Dominique Cerejo"
+       ],
+       "genre": [
+          "Chill",
+          "Motivation",
+          "Travel"
+       ],
+       "link": "https://youtu.be/gnrSX7TQJqU"
+    },
+    {
+       "id": 15,
+       "name": "Naina Da Kya Kasoor",
+       "lyrics": "https://www.lyricsbell.com/naina-da-kya-kasoor-andhadhun/",
+       "album": "Andhadhun",
+       "Duration": "3 min 30 sec",
+       "singer": [
+          "Amit Trivedi"
+       ],
+       "genre": [
+          "Pop",
+          "Romantic"
+       ],
+       "link": "https://youtu.be/WwvVUbllNkM"
+    },
+    {
+       "id": 16,
+       "name": "kaun tujhe",
+       "lyrics": "https://www.lyricsbell.com/kaun-tujhe",
+       "album": "M.S.Dhoni",
+       "Duration": "3 min 30 sec",
+       "singer": [
+          "Palak Muchhal"
+       ],
+       "genre": [
+          "Romantic"
+       ],
+       "link": "https://www.youtube.com/watch?v=atVof3pjT-I"
+    },
+    {
+       "id": 17,
+       "name": "Raftaarein",
+       "lyrics": "https://www.indicine.com/movies/lyrics/raftaarein-lyrics-ra-one/",
+       "album": "Ra.One",
+       "Duration": "4 min 45 sec",
+       "singer": [
+          "Vishal Dadlani"
+       ],
+       "genre": [
+          "Pop"
+       ],
+       "link": "https://www.youtube.com/watch?v=MlE-GojmNwM&ab_channel=T-Series"
+    },
+    {
+       "id": 18,
+       "name": "Aoi shiori",
+       "lyrics": "https://www.smule.com/song/galileo-galilei-aoi-shiori-full-romaji-karaoke-lyrics/796913691_2920463/arrangement",
+       "album": "",
+       "Duration": "2min",
+       "singer": [
+          "Galileo Galilei"
+       ],
+       "genre": [
+          "Romantic"
+       ],
+       "link": "https://www.youtube.com/results?search_query=aoi+shiori"
+    },
+    {
+       "id": 19,
+       "name": "Broke is a Joke",
+       "lyrics": "https://genius.com/Mc-stan-broke-is-a-joke-lyrics",
+       "album": "Broke is a Joke",
+       "Duration": "3 min 35 sec",
+       "singer": [
+          "MC STAN"
+       ],
+       "genre": [
+          "Motivation",
+          "Pop"
+       ],
+       "link": "https://youtu.be/YdIxAdTDpWU"
+    },
+    {
+       "id": 20,
+       "name": "Humnava",
+       "lyrics": "https://www.azlyrics.com/lyrics/arijitsingh/hamariadhurikahani.html",
+       "album": "Humari Adhuri Kahani",
+       "Duration": "6 min 19 sec",
+       "singer": [
+          "Papoon",
+          "Mithoon"
+       ],
+       "genre": [
+          "Romanace"
+       ],
+       "link": "https://www.youtube.com/watch?v=ktPD6TMovxs"
+    },
+    {
+       "id": 21,
+       "name": "chand sa roshan chehra",
+       "lyrics": "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiH9dL_nqfzAhWY8XMBHVfGAHoQFnoECBkQAQ&url=https%3A%2F%2Fwww.ajoobalyrics.com%2Fyeh-chaand-sa-roshan-chehra-lyrics-kashmir-ki-kali%2F&usg=AOvVaw0-My_DvQrryllZKs_xQUOu",
+       "album": "Tamannaah.",
+       "Duration": "6 min 19 sec",
+       "singer": [
+          "Udit Narayan",
+          "Mithoon"
+       ],
+       "genre": [
+          "Romanace"
+       ],
+       "link": "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiH9dL_nqfzAhWY8XMBHVfGAHoQwqsBegQIBBAB&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DVueN49P7JyU&usg=AOvVaw2i5UokZjIkxpd936yhE5y"
+    },
+    {
+       "id": 22,
+       "name": "Kabira",
+       "lyrics": "https://gaana.com/lyrics/kabira-1",
+       "album": "Yeh Jawaani Hai Deewani",
+       "Duration": "4 min 11 sec",
+       "singer": [
+          "TOCHI RAINA",
+          "REKHA BHARDWAJ"
+       ],
+       "genre": [
+          "Romanace"
+       ],
+       "link": "https://www.youtube.com/watch?v=jHNNMj5bNQw&list=PLP-07VKxSomFxGPP9Sa1lUBI_zTyGWHtu&index=10"
+    },
+    {
+       "id": 23,
+       "name": "Tu Chale",
+       "lyrics": "https://gaana.com/lyrics/tu-chale",
+       "album": "I",
+       "Duration": "4 min 52 sec",
+       "singer": [
+          "ARIJIT SINGH",
+          "SHREYA GHOSHAL"
+       ],
+       "genre": [
+          "Romanace"
+       ],
+       "link": "https://www.youtube.com/watch?v=iMuZRXsE7KI"
+    },
+    {
+       "id": 24,
+       "name": "Tu Hai Ki Nahi",
+       "lyrics": "https://gaana.com/lyrics/tu-hai-ki-nahi",
+       "album": "Roy",
+       "Duration": "5 min 33 sec",
+       "singer": [
+          "Ankit Tiwari"
+       ],
+       "genre": [
+          "Romanace"
+       ],
+       "link": "https://www.youtube.com/watch?v=61floBUAiTY"
+    },
+    {
+       "id": 25,
+       "name": "LAAL ISHQ",
+       "lyrics": "https://www.azlyrics.com/lyrics/arijitsingh/laalishq.html",
+       "album": "Goliyon Ki Raasleela Ram-leela",
+       "Duration": "6 min 43 sec",
+       "singer": [
+          "Arijit Singh"
+       ],
+       "genre": [
+          "Romanace"
+       ],
+       "link": "https://www.youtube.com/watch?v=PycY_BqbWaw"
+    },
+    {
+       "id": 26,
+       "name": "Saibo",
+       "lyrics": "https://gaana.com/lyrics/saibo-1",
+       "album": "Shor in the City ",
+       "Duration": "3 min 16 sec",
+       "singer": [
+          "Shreya Ghoshal,Tochi Raina"
+       ],
+       "genre": [
+          "Filmi, Pop"
+       ],
+       "link": "youtube.com/watch?v=P_HrHdFvcsg"
+    },
+    {
+       "id": 27,
+       "name": "Mumbai Dance",
+       "lyrics": "",
+       "album": "Bass Rani",
+       "Duration": "3 min 02 sec",
+       "singer": [
+          "Nucleya"
+       ],
+       "genre": [
+          "EDM"
+       ],
+       "link": "https://www.youtube.com/watch?v=f0DkVn-joQc"
+    },
+    {
+       "id": 28,
+       "name": "Lag jaa gale",
+       "lyrics": "https://gaana.com/song/lag-ja-gale-24",
+       "album": "Lag jaa gale",
+       "Duration": "5 min 02 sec",
+       "singer": [
+          "Lata Mangeshkar "
+       ],
+       "genre": [
+          "Romance"
+       ],
+       "link": "https://www.youtube.com/watch?v=TFr6G5zveS8"
+    },
+    {
+       "id": 29,
+       "name": "ranjha",
+       "lyrics": "https://www.hinditracks.in/ranjha-lyrics",
+       "album": "Shershaah",
+       "Duration": "3 min 13 sec",
+       "singer": [
+          "B Praak",
+          "Jasleen Royal"
+       ],
+       "genre": [
+          "Romantic"
+       ],
+       "link": "https://www.youtube.com/watch?v=V7LwfY5U5WI"
+    },
+    {
+       "id": 30,
+       "name": "aarambh hai prachand",
+       "lyrics": "https://www.hinditracks.in/aarambh-hai-prachand-lyrics-in-hindi-gulaal",
+       "album": "Gulaal",
+       "Duration": "4 min 55 sec",
+       "singer": [
+          "Piyush Mishra"
+       ],
+       "genre": [
+          "Motivational"
+       ],
+       "link": "https://www.youtube.com/watch?v=x9feF5rtMAc"
+    },
+    {
+       "id": 31,
+       "name": "Snake",
+       "lyrics": "https://genius.com/Mc-stan-snake-lyrics",
+       "album": "Snake",
+       "Duration": "4 min 36 sec",
+       "singer": [
+          "MC STAN"
+       ],
+       "genre": [
+          "Motivation",
+          "Pop"
+       ],
+       "link": "https://youtu.be/DSb7tmVcZm4"
+    },
+    {
+       "id": 32,
+       "name": "Tujhse Naraz Nahi Zindagi - Sanam",
+       "lyrics": "https://www.hinditracks.in/ranjha-lyrics",
+       "album": "SANAM",
+       "Duration": "4 min 12 sec",
+       "singer": [
+          "Lata Mangeshkar"
+       ],
+       "genre": [
+          "Romantic"
+       ],
+       "link": "https://www.youtube.com/watch?v=V7LwfY5U5WI"
+    },
+    {
+       "id": 33,
+       "name": "Namo Namo",
+       "lyrics": "https://www.lyricsmint.com/kedarnath/namo-namo",
+       "album": "Kedarnath",
+       "Duration": "5 min 22 sec",
+       "singer": [
+          "Amit Trivedi"
+       ],
+       "genre": [
+          "Classic"
+       ],
+       "link": "https://www.youtube.com/watch?v=HFX6AZ5bDDo"
+    },
+    {
+       "id": 34,
+       "name": "Tum Hi Ho",
+       "lyrics": "https://www.indicine.com/movies/lyrics/tum-hi-ho-lyrics-aashiqui-2/",
+       "album": "Aashiqui 2",
+       "Duration": "04 minutes 21 seconds",
+       "singer": [
+          "Arijit Singh"
+       ],
+       "genre": [
+          " Acoustic music",
+          "Filmi",
+          "Indian pop"
+       ],
+       "link": "https://youtu.be/IJq0yyWug1k"
+    },
+    {
+       "id": 35,
+       "name": "Saagar Kinare-Sagar(1985)",
+       "lyrics": "https://www.lyrics.com/lyric/28653018/Kishore+Kumar/Saagar+Kinare",
+       "album": "Saagar Kinare-Saagar",
+       "Duration": "3 min 45 sec",
+       "singer": [
+          "Lata Mangeshkar",
+          "Kishore Kumar"
+       ]
+    },
+    {
+       "id": 36,
+       "name": "Zara Zara by Maadhyam",
+       "lyrics": "https://youtu.be/MB6bUI5uaoc",
+       "album": "M.S.Dhoni",
+       "Duration": "4 min 6 sec",
+       "singer": [
+          "Bombay Jayashree"
+       ],
+       "genre": [
+          "Romantic"
+       ],
+       "link": "https://youtu.be/MB6bUI5uaoc"
+    },
+    {
+       "id": 37,
+       "name": "FRIENDS",
+       "lyrics": "https://www.azlyrics.com/lyrics/marshmello/friends.html",
+       "album": "FRIENDS",
+       "Duration": "3 min 51 sec",
+       "singer": [
+          "Marshmello & Anne-Marie "
+       ],
+       "genre": [
+          "Romance"
+       ],
+       "link": "https://youtu.be/jzD_yyEcp0M"
+    },
+    {
+       "id": 38,
+       "name": "Genda Phool",
+       "lyrics": "https://gaana.com/lyrics/genda-phool-6",
+       "albhum": "Genda Phool",
+       "Duration": "02:48",
+       "singer": [
+          "Badshah, Payal Dev"
+       ],
+       "genre": [
+          " Indian pop"
+       ],
+       "link": "https://youtu.be/SD4Z8dlZPd8"
+    },
+    {
+       "id": 39,
+       "name": "Enna Sona",
+       "lyrics": "https://www.azlyrics.com/lyrics/arijitsingh/ennasona.html",
+       "album": "Ok Jaanu",
+       "Duration": "3 min 51 sec",
+       "singer": [
+          "Arijit Singh"
+       ],
+       "link": "https://youtu.be/ofTxceS4wLI"
+    },
+    {
+       "id": 40,
+       "name": "Qaafirana",
+       "lyrics": "https://www.lyricsmint.com/kedarnath/qaafirana",
+       "album": "Kedarnath",
+       "Duration": "6 min 16 sec",
+       "singer": [
+          "Amit Trivedi"
+       ],
+       "genre": [
+          "Romantic"
+       ],
+       "link": "https://www.youtube.com/watch?v=ZmcBC9-wAXM"
+    },
+    {
+       "id": 41,
+       "name": "Te Amo",
+       "lyrics": "https://www.lyricsmint.com/dum-maaro-dum/te-amo",
+       "album": "Dum Maaro Dum",
+       "Duration": "4 min 25 sec",
+       "singer": [
+          "Ash King, Sunidhi Chauhan"
+       ],
+       "genre": [
+          "Romantic"
+       ],
+       "link": "https://youtu.be/lPXdn-pR8mI"
+    },
+    {
+       "id": 42,
+       "name": "Heropanti : Raat Bhar ",
+       "lyrics": "https://youtu.be/4KFVySixs_E",
+       "album": "Heropanti",
+       "Duration": "2 min 28 sec",
+       "singer": [
+          "Arijit Singh, Shreya Ghoshal"
+       ],
+       "genre": [
+          "Romantic",
+          "Pop",
+          "Hindi"
+       ],
+       "link": ""
+    },
+    {
+       "id": 43,
+       "name": "Tu Har Lamha ",
+       "lyrics": "https://www.hinditracks.in/tu-har-lamha-hindi-lyrics-khamoshiyan",
+       "album": "not available",
+       "Duration": "4 min 21 sec",
+       "singer": [
+          "Arijit Singh"
+       ],
+       "genre": [
+          "Romantic",
+          "Pop",
+          "Hindi"
+       ],
+       "link": "https://youtu.be/SdGL0qxgZGM"
+    },
+    {
+       "id": 44,
+       "name": "Filhall",
+       "lyrics": "https://lyricsraag.com/filhaal-song-translation-akshay-kumar/",
+       "album": "Filhall",
+       "Duration": "4:16",
+       "singer": [
+          "B Praak"
+       ],
+       "genre": [
+          "Romantic"
+       ],
+       "link": "https://youtu.be/DUwlGduupRI"
+    },
+    {
+       "id": 45,
+       "name": "Dekha Hazaro Dafaa",
+       "lyrices": "https://www.azlyrics.com/lyrics/arijitsingh/dekhahazarodafa.html",
+       "album": "Rustom",
+       "Duration": "3:33",
+       "singer": [
+          "Arijit Singh , Palak M"
+       ],
+       "genre": [
+          "Romantic"
+       ],
+       "link": "https://youtu.be/ImnYPjOd1Tw"
+    },
+    {
+       "id": 46,
+       "name": "Kun Faaya Kun",
+       "lyrics": "https://gaana.com/lyrics/kun-fayakun",
+       "album": "Rockstar",
+       "Duration": "6:21",
+       "singer": [
+          "A. R. Rahman, Javed Ali, Mohit Chauhan"
+       ],
+       "genre": [
+          "Sufi"
+       ],
+       "link": "https://www.youtube.com/watch?v=T94PHkuydcw"
+    },
+    {
+       "id": 47,
+       "name": "Dharkhaast",
+       "lyrics": "https://gaana.com/lyrics/darkhaast-1",
+       "album": "Shivaay",
+       "Duration": "6:55",
+       "singer": [
+          "Arijit Singh,Sunidhi Chauhan"
+       ],
+       "genre": [
+          "Romantic"
+       ],
+       "link": "https://youtu.be/GNm7vIZXEYw"
+    },
+    {
+       "id": 48,
+       "name": "Bade Acche Lagte Hai",
+       "lyrics": "https://gaana.com/lyrics/bade-achhe-lagte-hain",
+       "album": "Balika Badhu(1976)",
+       "Duration": "3 min 41 sec",
+       "singer": [
+          " Amit Kumar"
+       ],
+       "genre": [
+          "Romantic"
+       ],
+       "link": "https://youtu.be/ags3vxqbk-s"
+    },
+    {
+       "id": 49,
+       "name": "Zara Zara",
+       "lyrics": "https://gaana.com/lyrics/zara-zara-5",
+       "album": "Zara Zara",
+       "Duration": "4 min 56 sec",
+       "singer": [
+          " Bombay Jayashri"
+       ],
+       "genre": [
+          "Romantic",
+          "Filmy"
+       ],
+       "link": "https://youtu.be/NeXbmEnpSz0"
+    },
+    {
+       "id": 50,
+       "name": "Bawaal",
+       "lyrics": "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwi7v5zqyKjzAhXVXCsKHVZeDe0QFnoECAIQAQ&url=https%3A%2F%2Fwww.lyricsbell.com%2Fbawaal-mj5%2F&usg=AOvVaw2ptmUKxp_hdhV-MMKr5kP_",
+       "album": "ZBawaal",
+       "Duration": "3 min 14 sec",
+       "singer": [
+          " Kartik, Rohit"
+       ],
+       "genre": [
+          "Filmy"
+       ],
+       "link": "https://youtu.be/SGLVh57-HJs"
+    },
+    {
+       "id": 51,
+       "name": "Stay a little longer",
+       "lyrics": "https://www.lyricsmint.com/half-girlfriend/stay-a-little-longer",
+       "album": "Half Girlfriend",
+       "Duration": "4 min 59 sec",
+       "singer": [
+          " Anushka Shahaney "
+       ],
+       "genre": [
+          " Western swing",
+          "Filmy"
+       ],
+       "link": "https://www.youtube.com/watch?v=tjXHcyQhzqI"
+    },
+    {
+       "id": 52,
+       "name": "Dil Ko Karar Aaya",
+       "lyrics": "https://gaana.com/lyrics/dil-ko-karaar-aaya",
+       "album": "Sukoon",
+       "Duration": "2 min 29 sec",
+       "singer": [
+          " Neha Kakkar & Yasser Desai"
+       ],
+       "genre": [
+          "Romantic",
+          "lo-fi"
+       ],
+       "link": "https://youtu.be/Ad5s2_Z7-Pw"
+    },
+    {
+       "id": 53,
+       "name": "Sheikchillie",
+       "lyrics": "https://www.lyrics.com/sublyric/54086/Raftaar/Sheikh+Chilli+Original+Lyrics",
+       "album": "Sheikchillie",
+       "Duration": "4 min 13 sec",
+       "singer": [
+          "sheikchilli"
+       ],
+       "genre": [
+          "Pop"
+       ],
+       "link": "https://www.youtube.com/watch?v=uykOHAhId0Q"
+    },
+    {
+       "id": 54,
+       "name": "Kya Mujhe Pyar Hai",
+       "lyrics": "https://gaana.com/song/kya-mujhe-pyar-hai",
+       "album": "Woh Lamhe",
+       "Duration": "4 min 26 sec",
+       "singer": [
+          " KK,Pritam"
+       ],
+       "genre": [
+          "Romantic",
+          "Filmy"
+       ],
+       "link": "https://www.youtube.com/watch?v=lrAM_H7v8wM"
+    },
+    {
+       "id": 55,
+       "name": "Dil galt Kar Baitha hai",
+       "lyrics": "https://gaana.com/song/dil-galti-kar-baitha-hai-feat-mouni-roy",
+       "album": "Dil galt Kar Baitha hai",
+       "Duration": "4 min 26 sec",
+       "singer": [
+          "jubin"
+       ],
+       "genre": [
+          "Romantic",
+          "Filmy"
+       ],
+       "link": "https://www.youtube.com/watch?v=lrAM_H7v8wM"
+    },
+    {
+       "id": 56,
+       "name": "Kal Ho Naa Ho",
+       "lyrics": "https://gaana.com/song/kya-mujhe-pyar-hai",
+       "album": "Kal Ho Naa Ho",
+       "Duration": "4 min 46 sec",
+       "singer": [
+          "Sonu Nigam"
+       ],
+       "genre": [
+          "Romantic",
+          "Filmy"
+       ],
+       "link": "https://www.youtube.com/watch?v=g0eO74UmRBs"
+    },
+    {
+       "id": 57,
+       "name": "bazigar hai bazigar ",
+       "lyrics": "https://www.indicine.com/movies/lyrics/baigar/",
+       "album": "Bazigar",
+       "Duration": "03 minutes 15 seconds",
+       "singer": [
+          "Udit narayan "
+       ],
+       "genre": [
+          " Acoustic music",
+          "Filmi",
+          "Indian pop"
+       ],
+       "link": "https://youtu.be/IJq0yyWug1k"
+    },
+    {
+       "id": 58,
+       "name": "Kal Ho Naa Ho ",
+       "lyrics": "https://gaana.com/lyrics/kal-ho-naa-ho-5",
+       "album": " Kal Ho Naa Ho ",
+       "Duration": "5 min 23 sec",
+       "singer": [
+          "Sonu Nigam"
+       ],
+       "genre": [
+          "Romance",
+          "Filmi"
+       ],
+       "link": "https://youtu.be/g0eO74UmRBs"
+    },
+    {
+       "id": 59,
+       "name": "dil dooba",
+       "lyrics": "https://gaana.com/lyrics/dil dooba",
+       "album": "khakee",
+       "Duration": "4 min 38 sec",
+       "singer": [
+          "Sonu nigam "
+       ],
+       "genre": [
+          "Motivation",
+          "Pop"
+       ],
+       "link": "https://www.youtube.com/watch?v=SAiyopkF22M"
+    },
+    {
+       "id": 60,
+       "name": "Panchhi Banoo Udti Phiroon ",
+       "lyrics": "https://youtu.be/fUtIQtRMGzg",
+       "album": "Chori Chori",
+       "Duration": "4 min 20 sec",
+       "singer": [
+          "Lata Mangeshkar"
+       ],
+       "genre": [
+          "Motivation",
+          "Folk"
+       ],
+       "link": "https://youtu.be/bIhhCGFR2NE"
+    },
+    {
+       "id": 61,
+       "name": "Chinta ta chita chita",
+       "lyrics": "https://www.lyricsmint.com/rowdy-rathore/chinta-ta-ta-chita-chita",
+       "album": "Rowdy Rathore",
+       "Duration": "5 min 7 sec",
+       "singer": [
+          "Mika Singh "
+       ],
+       "genre": [
+          "dance number",
+          "Pop"
+       ],
+       "link": "https://www.youtube.com/watch?v=NPRd7Xc0tfM"
+    },
+    {
+       "id": 62,
+       "name": "KHAIRIYAT",
+       "lyrics": "https://www.ilyricshub.com/khairiyat-chhichhore-arijit-singh/",
+       "album": "Chhichhore",
+       "Duration": "3 min 58 sec",
+       "singer": [
+          "Arijit Singh "
+       ],
+       "genre": [
+          "dance number",
+          "Pop"
+       ],
+       "link": "https://www.youtube.com/watch?v=hoNb6HuNmU0"
+    },
+    {
+       "id": 63,
+       "name": "Dekha Hazaro Dafaa",
+       "lyrices": "https://www.azlyrics.com/lyrics/arijitsingh/dekhahazarodafa.html",
+       "album": "Rustom",
+       "Duration": "3:33",
+       "singer": [
+          "Arijit Singh , Palak M"
+       ],
+       "genre": [
+          "Romantic"
+       ],
+       "link": "https://youtu.be/ImnYPjOd1Tw"
+    },
+    {
+       "id": 64,
+       "name": "Mere Mehboob Qayamat Hogi",
+       "lyrices": "https://youtu.be/EBRc5ckj5k0",
+       "album": "NA",
+       "Duration": "4:32",
+       "singer": [
+          "Kishore Kumar"
+       ],
+       "genre": [
+          "Romantic"
+       ],
+       "link": "https://youtu.be/yIzCBU0_LyY"
+    },
+    {
+       "id": 65,
+       "name": "kun faya kun",
+       "lyrics": "https://genius.com/Ar-rahman-kun-faya-kun-lyrics",
+       "album": "Rockstar",
+       "Duration": "6 min 20 sec",
+       "singer": [
+          "A R Rahman",
+          "Javed Ali"
+       ],
+       "genre": [
+          "Sufi"
+       ],
+       "link": "https://youtu.be/T94PHkuydcw"
+    },
+    {
+       "id": 66,
+       "name": "vienna waits for you",
+       "lyrics": " https://genius.com/Billy-joel-vienna-lyrics",
+       "album": "vienna",
+       "Duration": "3 min 37 sec",
+       "singer": [
+          "billy joel "
+       ],
+       "genre": [
+          "dance number",
+          "Pop"
+       ],
+       "link": "https://www.youtube.com/results?search_query=vienna"
+    },
+    {
+       "id": 67,
+       "name": "Dildara",
+       "lyrics": "https://lyricsdna.com/songs/lyrics/dildara-dildara-lyrics-stand-by-me-ra-one",
+       "album": "Ra.One",
+       "Duration": "4 min 30 sec",
+       "singer": [
+          "Abhijeet Bhattacharya, Sowmya Raoh "
+       ],
+       "genre": [
+          "dance number",
+          "Pop"
+       ],
+       "link": "https://www.youtube.com/watch?v=gQ5qVtoLMk4"
+    },
+    {
+       "id": 68,
+       "name": "Tu Tu Hai Wahi ",
+       "lyrics": "https://www.lyricsoff.com/songs/tu-tu-hai-wahi-yeh-vaada-raha.html",
+       "album": "Yeh Vaada Raha ",
+       "Duration": "6 min 50 sec",
+       "singer": [
+          "Kishore Kumar",
+          "Asha Bhosle"
+       ],
+       "genre": [
+          "Romanace"
+       ],
+       "link": "https://youtu.be/hjfzFVw2Zjo"
+    },
+    {
+       "id": 69,
+       "name": "Raat kali ek khwab mein aayi",
+       "lyrics": "https://gaana.com/lyrics/raat-kali-ek-khwab-men-aai-23",
+       "album": "Buddha Mil Gaya",
+       "Duration": "4 min 59 sec",
+       "singer": [
+          "Kishore Kumar"
+       ],
+       "genre": [
+          "Romanace"
+       ],
+       "link": "https://www.youtube.com/watch?v=jFYlChHSdzo"
+    },
+    {
+       "id": 70,
+       "name": " Kisi Ki Muskurahaton Se ",
+       "lyrics": "https://youtu.be/z6FukwueP1o",
+       "album": "Legend Raj Kapoor-The Showman  Vol-3",
+       "Duration": "4 min 08 sec",
+       "singer": [
+          "Mukesh"
+       ],
+       "genre": [
+          "Motivational",
+          "Folk"
+       ],
+       "link": "https://youtu.be/z6FukwueP1o"
+    },
+    {
+       "id": 71,
+       "name": "Tu Tu Hai Wahi ",
+       "lyrics": "https://www.lyricsoff.com/songs/tu-tu-hai-wahi-yeh-vaada-raha.html",
+       "album": "Yeh Vaada Raha ",
+       "Duration": "6 min 50 sec",
+       "singer": [
+          "Kishore Kumar",
+          "Asha Bhosle"
+       ],
+       "genre": [
+          "Romanace"
+       ],
+       "link": "https://youtu.be/hjfzFVw2Zjo"
+    },
+    {
+       "id": 72,
+       "name": "Chand Sifarish ",
+       "lyrics": "https://gaana.com/lyrics/chand-sifarish-13",
+       "album": "Fanaa ",
+       "Duration": "4 min 536 sec",
+       "singer": [
+          "Shaan",
+          "Kailash Kher"
+       ],
+       "genre": [
+          "Romanace"
+       ],
+       "link": "https://youtu.be/zWEOx7TSM6I"
+    },
+    {
+       "id": 73,
+       "name": "Makhna",
+       "lyrics": "https://www.lyricsbell.com/makhna-drive/",
+       "album": "Drive",
+       "Duration": "3 min 13 sec",
+       "singer": [
+          "Tanishk Bagchi",
+          "Yasser Desai",
+          "Asees Kaur"
+       ],
+       "genre": [
+          "Filmy"
+       ],
+       "link": "https://www.youtube.com/watch?v=HqUeSjsYLNU"
+    },
+    {
+       "id": 74,
+       "name": "Pani Da Rang",
+       "lyrics": "https://gaana.com/lyrics/pani-di-gal",
+       "album": "Vicky Donor",
+       "Duration": "4 min",
+       "singer": [
+          " Ayushman Khurrana"
+       ],
+       "genre": [
+          "Filmi, Acoustic pop"
+       ],
+       "link": "https://youtu.be/2kgEc6oH9J0"
+    },
+    {
+       "id": 75,
+       "name": "Bhul Bhulaiya Title Track",
+       "lyrics": "https://gaana.com/song/bhool-bhulaiyaa-remix-1",
+       "album": "Bhul Bhulaiya Remix",
+       "Duration": "5 min 04 sec",
+       "singer": [
+          " Neeraj Sridhar"
+       ],
+       "genre": [
+          "Funny"
+       ],
+       "link": "https://www.youtube.com/watch?v=1hCQgzZoeNM"
+    },
+    {
+       "id": 76,
+       "name": "Janam Janam",
+       "lyrics": "https://www.azlyrics.com/lyrics/arijitsingh/janamjanam.html",
+       "album": "Dilwale",
+       "Duration": "4 min 13 sec",
+       "singer": [
+          " Arjit Singh"
+       ],
+       "genre": [
+          "Romantic"
+       ],
+       "link": "https://www.youtube.com/watch?v=pIBoAh4OXhQ"
+    },
+    {
+       "id": 77,
+       "name": "Bahara",
+       "lyrics": "https://gaana.com/lyrics/bahara-13",
+       "album": "I Hate Luv Storys",
+       "Duration": "4 min 08 sec",
+       "singer": [
+          "Shreya Goshal",
+          "Sona Mohapatra",
+          "Vishal\u00e2\u20ac\u201cShekhar"
+       ],
+       "genre": [
+          "Romantic"
+       ],
+       "link": "https://youtu.be/_VOXxKDNCuM"
+    },
+    {
+       "id": 78,
+       "name": "Love you zindagi",
+       "lyrics": "http://songolyrics.in/dear-zindagi/love-you-zindagi",
+       "album": "Dear Zindagi",
+       "Duration": "4 min 11 sec",
+       "singer": [
+          " Jasleen Royal"
+       ],
+       "genre": [
+          "motivation"
+       ],
+       "link": "https://www.youtube.com/watch?v=bw7bVpI5VcM"
+    },
+    {
+       "id": 79,
+       "name": "Illahi",
+       "lyrics": "https://gaana.com/lyrics/ilahi-9",
+       "album": "Yeh Jawaani Hai Deewani",
+       "Duration": "3 min 48 sec",
+       "singer": [
+          "Pritam",
+          "Arijit Singh"
+       ],
+       "genre": [
+          "Travel"
+       ],
+       "link": "https://www.youtube.com/watch?v=fdubeMFwuGs"
+    },
+    {
+       "id": 80,
+       "name": "Kaam 25",
+       "lyrics": "https://gaana.com/lyrics/kaam-25",
+       "album": "Sacred Games",
+       "Duration": "2 min 29 sec",
+       "singer": [
+          "Divine"
+       ],
+       "genre": [
+          "Rap"
+       ],
+       "link": "https://www.youtube.com/watch?v=ATf05n5LBHQ"
+    },
+    {
+       "id": 81,
+       "name": "Drivers license",
+       "lyrics": "https://www.republicworld.com/entertainment-news/music/drivers-license-lyrics-and-meaning-behind-this-olivia-rodrigo-song-explained.html",
+       "album": "Divers license",
+       "Duration": "4 min 2 sec",
+       "singer": [
+          "Daniel Nigro / Olivia Rodrigo"
+       ],
+       "genre": [
+          "Indie Pop"
+       ],
+       "link": "https://www.youtube.com/watch?v=_Bjf-iExroI"
+    },
+    {
+       "id": 82,
+       "name": "Kashmir Main Tu Kanyakumari",
+       "lyrics": "https://www.lyricsoff.com/songs/kashmir-main-tu-kanyakumari.html",
+       "album": "Chennai Express",
+       "Duration": "3 min 41 sec",
+       "singer": [
+          "Arijit Singh",
+          "Sunidhi Chauhan"
+       ],
+       "genre": [
+          "Folk"
+       ],
+       "link": "https://www.youtube.com/watch?v=dodDteh-m3Q"
+    },
+    {
+       "id": 83,
+       "name": "Dekhte Dekhte",
+       "lyrics": "https://www.lyricspedia.co.in/dekhte-dekhte-lyrics-atif-aslam/",
+       "album": "Batti Gul Meter Chalu",
+       "Duration": "4 min 36 sec",
+       "singer": [
+          " Atif Aslam"
+       ],
+       "genre": [
+          "Romantic"
+       ],
+       "link": "https://www.youtube.com/watch?v=jBQpGiubj0c"
+    },
+    {
+       "id": 84,
+       "name": "Tera Hone Laga Hoon",
+       "lyrics": "https://gaana.com/playlist/ashitharamesh2-terahonelagahoon",
+       "album": "Ajab Prem Ki Ghazab Kahani",
+       "Duration": "4 min 59 sec",
+       "singer": [
+          "  Atif Aslam"
+       ],
+       "genre": [
+          "Romantic"
+       ],
+       "link": "https://www.youtube.com/watch?v=rTuxUAuJRyY"
+    },
+    {
+       "id": 85,
+       "name": "Gerua",
+       "lyrics": "https://www.azlyrics.com/lyrics/arijitsingh/gerua.html",
+       "album": "Dilwale",
+       "Duration": "4 min 48 sec",
+       "singer": [
+          "Arijit Singh"
+       ],
+       "genre": [
+          "Romantic"
+       ],
+       "link": "https://youtu.be/AEIVhBS6baE"
+    },
+    {
+       "id": 86,
+       "name": "Enna Sona",
+       "lyrics": "https://www.azlyrics.com/lyrics/arijitsingh/ennasona.html",
+       "album": "Ok Jaanu",
+       "Duration": "3 min 33 sec",
+       "singer": [
+          "Arijit Singh"
+       ],
+       "genre": [
+          "Romantic"
+       ],
+       "link": "https://youtu.be/mrdRHsIkK_c"
+    },
+    {
+       "id": 87,
+       "name": "Kalank (Title Track)",
+       "lyrics": "https://www.lyricsmint.com/kalank/kalank-title-track",
+       "album": "Kalank",
+       "Duration": "5 min 11 sec",
+       "singer": [
+          "Arijit Singh"
+       ],
+       "genre": [
+          "Romantic"
+       ],
+       "link": "https://youtu.be/Grr0FlC8SQA"
+    },
+    {
+       "id": 88,
+       "name": "Iktara",
+       "lyrics": "https://gaana.com/lyrics/iktara-9",
+       "album": "wake up sid",
+       "Duration": "4 min 13 sec",
+       "singer": [
+          "Amitabh Bhattachary",
+          "Amit Trivedi",
+          "kavita Seth"
+       ],
+       "genre": [
+          "Romantic"
+       ],
+       "link": "https://www.youtube.com/watch?v=fSS_R91Nimw"
+    },
+    {
+       "id": 89,
+       "name": "tu bin bataye",
+       "lyrics": "https://genius.com/Ar-rahman-tu-bin-bataye-lyrics",
+       "album": "Rang de basanti",
+       "Duration": "5 min 55 sec",
+       "singer": [
+          "A.R Rahman"
+       ],
+       "genre": [
+          "Romantic"
+       ],
+       "link": "https://www.youtube.com/watch?v=UqblLzBwlns"
+    },
+    {
+       "id": 90,
+       "name": "Kinna Sona",
+       "lyrics": "https://www.ilyricshub.com/kinna-sona-marjaavaan/",
+       "album": "Marjaavaan",
+       "Duration": "4 min 33 sec",
+       "singer": [
+          "Jubin Nautiyal"
+       ],
+       "genre": [
+          "Romantic"
+       ],
+       "link": "https://www.youtube.com/watch?v=7lfFZs50JHM"
+    },
+    {
+       "id": 91,
+       "name": "Mere naal tu whistle baja",
+       "lyrics": "https://gaana.com/lyrics/whistle-baja",
+       "album": "Heropanti",
+       "Duration": "3 min 25 sec",
+       "singer": [
+          "Manj Musik"
+       ],
+       "genre": [
+          "Romantic"
+       ],
+       "link": "https://www.youtube.com/watch?v=5NM7VF0AOfo"
+    },
+    {
+       "id": 92,
+       "name": "Khoj",
+       "lyrics": "https://genius.com/When-chai-met-toast-khoj-lyrics",
+       "album": "Believe",
+       "Duration": "3 min 31 sec",
+       "singer": [
+          "When Chai Met Toast pop/folk band"
+       ],
+       "genre": [
+          "Pop, Rock, Folk"
+       ],
+       "link": "https://youtu.be/LMEdbBK4bk0"
+    },
+    {
+       "id": 93,
+       "name": "Kinna Sona",
+       "lyrics": "https://www.ilyricshub.com/kinna-sona-marjaavaan/",
+       "album": "Marjaavaan",
+       "Duration": "4 min 33 sec",
+       "singer": [
+          "Jubin Nautiyal"
+       ],
+       "genre": [
+          "Romantic"
+       ],
+       "link": "https://www.youtube.com/watch?v=7lfFZs50JHM"
+    },
+    {
+       "id": 94,
+       "name": "Thug Le",
+       "lyrics": "https://gaana.com/lyrics/thug-le-14",
+       "album": "Ladies Vs Rickt Bahl",
+       "Duration": "3 min 38 sec",
+       "singer": [
+          "Vishal Dadlani"
+       ],
+       "genre": [
+          "Energetic"
+       ],
+       "link": "https://www.youtube.com/watch?v=LEYXdZ_rVbo"
+    },
+    {
+       "id": 95,
+       "name": "Sajdaa",
+       "lyrics": "https://www.indicine.com/movies/bollywood/sajda-lyrics-my-name-is-khan/",
+       "album": "My Name is Khan (2010)",
+       "Duration": "4 min 58 sec",
+       "singer": [
+          "Rahat Fateh Ali Khan",
+          "Shankar Mahadevan",
+          "Richa Sharma"
+       ],
+       "genre": [
+          "Romantic"
+       ],
+       "link": "https://youtu.be/3rPEWcY6Oww"
+    },
+    {
+       "id": 96,
+       "name": "Mast Magaan",
+       "lyrics": "https://gaana.com/lyrics/mast-magan-1",
+       "album": "2 States",
+       "Duration": "4 min 40 sec",
+       "singer": [
+          "Arijit Singh",
+          "Chinmayi Sripada"
+       ],
+       "genre": [
+          "Romantic",
+          "slow",
+          "lofi"
+       ],
+       "link": "https://youtu.be/fXRvluHnjxE"
+    },
+    {
+       "id": 97,
+       "name": "Sajde",
+       "lyrics": "https://gaana.com/lyrics/sajde",
+       "album": "Khatta Meetha",
+       "Duration": "5 min 5 sec",
+       "singer": [
+          "Pritam",
+          "K.K",
+          "Sunidhi Chauhan"
+       ],
+       "genre": [
+          "Romantic",
+          "slow"
+       ],
+       "link": "https://youtu.be/zfABYXP_NSA"
+    },
+    {
+       "id": 98,
+       "name": "Kholo Kholo",
+       "lyrics": "https://gaana.com/lyrics/kholo-kholo",
+       "album": "Taare Zameen Par",
+       "Duration": "6 min 34 sec",
+       "singer": [
+          "Raman Mahadevan"
+       ],
+       "genre": [
+          "Motivation",
+          "Pop"
+       ],
+       "link": "https://youtu.be/FIaUYKLg5S4"
+    },
+    {
+       "id": 99,
+       "name": "Mann Bharryaa 2.0",
+       "lyrics": "https://www.ilyricshub.com/mann-bharrya-2-0-shershaah-b-praak/",
+       "album": "Sheershaah",
+       "Duration": "3 min 50 sec",
+       "singer": [
+          "B Praak"
+       ],
+       "genre": [
+          "Emotional",
+          "slow",
+          "sad",
+          "Punjabi"
+       ],
+       "link": "https://youtu.be/1poXN3jF3Bw"
+    },
+    {
+       "id": 100,
+       "name": "Kabhii Tumhhe",
+       "lyrics": "https://www.ilyricshub.com/kabhi-tumhe-shershaah-darshan-raval/",
+       "album": "Sheershaah",
+       "Duration": "3 min 40 sec",
+       "singer": [
+          "Darshan Raval"
+       ],
+       "genre": [
+          "Emotional",
+          "slow",
+          "sad",
+          "Romantic",
+          "Punjabi"
+       ],
+       "link": "https://youtu.be/ByIZIKFmHOA"
+    },
+    {
+       "id": 101,
+       "name": "Raataan Lambiyan",
+       "lyrics": "https://www.ilyricshub.com/raataan-lambiyan-shershaah/",
+       "album": "Sheershaah",
+       "Duration": "2 min 31 sec",
+       "singer": [
+          "Jubin Nautiyal",
+          "Asees Kaur",
+          "Punjabi"
+       ],
+       "genre": [
+          "Romantic",
+          "slow"
+       ],
+       "link": "https://youtu.be/gvyUuxdRdR4"
+    },
+    {
+       "id": 102,
+       "name": "Ranjha ",
+       "lyrics": "https://www.ilyricshub.com/ranjha-shershaah-b-praak/",
+       "album": "Sheershaah",
+       "Duration": "3 min 13 sec",
+       "singer": [
+          "B Praak",
+          "Jasleen Royal",
+          "Punjabi"
+       ],
+       "genre": [
+          "Romantic",
+          "slow"
+       ],
+       "link": "https://youtu.be/V7LwfY5U5WI"
+    },
+    {
+       "id": 103,
+       "name": "Pani Da Rang",
+       "lyrics": "https://www.lyricsmint.com/vicky-donor/pani-da-rang",
+       "album": "Vicky Donor",
+       "Duration": "4 min 05 sec",
+       "singer": [
+          "Ayushmann Khurrana"
+       ],
+       "genre": [
+          "Romantic",
+          "Pop",
+          "Punjabi"
+       ],
+       "link": "https://youtu.be/2kgEc6oH9J0"
+    },
+    {
+       "id": 104,
+       "name": "Mere Liye Tum Kaafi Ho",
+       "lyrics": "https://gaana.com/lyrics/mere-liye-tum-kaafi-ho-from-shubh-mangal-zyada-saavdhan",
+       "album": "Shubh Mangal Zyada Saavdhan",
+       "Duration": "2 min 05 sec",
+       "singer": [
+          "Ayushman Khurana"
+       ],
+       "genre": [
+          "Romantic",
+          "Friendship"
+       ],
+       "link": "https://youtu.be/5LBB6OV3Ano"
+    },
+    {
+       "id": 105,
+       "name": "Rang De Basanti",
+       "lyrics": "https://www.hinditracks.in/mohe-rang-de-basanti-lyrics",
+       "album": "Rang De Basanti",
+       "Duration": "5 min 40 sec",
+       "singer": [
+          "Daler Mehndi"
+       ],
+       "genre": [
+          "Film Sountrack",
+          "Punjabi"
+       ],
+       "link": "https://youtu.be/5LBB6OV3Ano"
+    },
+    {
+       "id": 106,
+       "name": "Senorita",
+       "lyrics": "https://gaana.com/lyrics/senorita-17",
+       "album": "Zindagi Na Milegi Dobara",
+       "Duration": "3 min 51 sec",
+       "singer": [
+          "Farhan Akhtar",
+          " Hrithik Roshan",
+          "Abhay Deol"
+       ],
+       "genre": [
+          "Dance",
+          "Disco"
+       ],
+       "link": "https://youtu.be/yDv0WSgXJVg"
+    },
+    {
+       "id": 107,
+       "name": "Slow Motion Angreza",
+       "lyrics": "https://gaana.com/lyrics/slow-motion-angreza",
+       "album": "Bhaag Milkha Bhaag",
+       "Duration": "4 min 54 sec",
+       "singer": [
+          "Slow Motion Angreza",
+          "Shankar Mahadevan",
+          "Loy Mendonsa"
+       ],
+       "genre": [
+          "Dance",
+          "Disco"
+       ],
+       "link": "https://youtu.be/60vIVA5AZ9M"
+    },
+    {
+       "id": 108,
+       "name": "Sooraj Ki Baahon Mein",
+       "lyrics": "https://gaana.com/lyrics/sooraj-ki-baahon-mein-1",
+       "album": "Zindagi Na Milegi Dobara",
+       "Duration": "3 min 22 sec",
+       "singer": [
+          "Clinton Cerejo",
+          "Loy Mendonsa",
+          "Dominique Cerejo"
+       ],
+       "genre": [
+          "Chill",
+          "Motivation",
+          "Travel"
+       ],
+       "link": "https://youtu.be/gnrSX7TQJqU"
+    },
+    {
+       "id": 109,
+       "name": "Naina Da Kya Kasoor",
+       "lyrics": "https://www.lyricsbell.com/naina-da-kya-kasoor-andhadhun/",
+       "album": "Andhadhun",
+       "Duration": "3 min 30 sec",
+       "singer": [
+          "Amit Trivedi"
+       ],
+       "genre": [
+          "Pop",
+          "Romantic"
+       ],
+       "link": "https://youtu.be/WwvVUbllNkM"
+    },
+    {
+       "id": 110,
+       "name": "kaun tujhe",
+       "lyrics": "https://www.lyricsbell.com/kaun-tujhe",
+       "album": "M.S.Dhoni",
+       "Duration": "3 min 30 sec",
+       "singer": [
+          "Palak Muchhal"
+       ],
+       "genre": [
+          "Romantic"
+       ],
+       "link": "https://www.youtube.com/watch?v=atVof3pjT-I"
+    },
+    {
+       "id": 111,
+       "name": "Raftaarein",
+       "lyrics": "https://www.indicine.com/movies/lyrics/raftaarein-lyrics-ra-one/",
+       "album": "Ra.One",
+       "Duration": "4 min 45 sec",
+       "singer": [
+          "Vishal Dadlani"
+       ],
+       "genre": [
+          "Pop"
+       ],
+       "link": "https://www.youtube.com/watch?v=MlE-GojmNwM&ab_channel=T-Series"
+    },
+    {
+       "id": 112,
+       "name": "Aoi shiori",
+       "lyrics": "https://www.smule.com/song/galileo-galilei-aoi-shiori-full-romaji-karaoke-lyrics/796913691_2920463/arrangement",
+       "album": "",
+       "Duration": "2min",
+       "singer": [
+          "Galileo Galilei"
+       ],
+       "genre": [
+          "Romantic"
+       ],
+       "link": "https://www.youtube.com/results?search_query=aoi+shiori"
+    },
+    {
+       "id": 113,
+       "name": "Broke is a Joke",
+       "lyrics": "https://genius.com/Mc-stan-broke-is-a-joke-lyrics",
+       "album": "Broke is a Joke",
+       "Duration": "3 min 35 sec",
+       "singer": [
+          "MC STAN"
+       ],
+       "genre": [
+          "Motivation",
+          "Pop"
+       ],
+       "link": "https://youtu.be/YdIxAdTDpWU"
+    },
+    {
+       "id": 114,
+       "name": "Humnava",
+       "lyrics": "https://www.azlyrics.com/lyrics/arijitsingh/hamariadhurikahani.html",
+       "album": "Humari Adhuri Kahani",
+       "Duration": "6 min 19 sec",
+       "singer": [
+          "Papoon",
+          "Mithoon"
+       ],
+       "genre": [
+          "Romanace"
+       ],
+       "link": "https://www.youtube.com/watch?v=ktPD6TMovxs"
+    },
+    {
+       "id": 115,
+       "name": "chand sa roshan chehra",
+       "lyrics": "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiH9dL_nqfzAhWY8XMBHVfGAHoQFnoECBkQAQ&url=https%3A%2F%2Fwww.ajoobalyrics.com%2Fyeh-chaand-sa-roshan-chehra-lyrics-kashmir-ki-kali%2F&usg=AOvVaw0-My_DvQrryllZKs_xQUOu",
+       "album": "Tamannaah.",
+       "Duration": "6 min 19 sec",
+       "singer": [
+          "Udit Narayan",
+          "Mithoon"
+       ],
+       "genre": [
+          "Romanace"
+       ],
+       "link": "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiH9dL_nqfzAhWY8XMBHVfGAHoQwqsBegQIBBAB&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DVueN49P7JyU&usg=AOvVaw2i5UokZjIkxpd936yhE5y"
+    },
+    {
+       "id": 116,
+       "name": "Kabira",
+       "lyrics": "https://gaana.com/lyrics/kabira-1",
+       "album": "Yeh Jawaani Hai Deewani",
+       "Duration": "4 min 11 sec",
+       "singer": [
+          "TOCHI RAINA",
+          "REKHA BHARDWAJ"
+       ],
+       "genre": [
+          "Romanace"
+       ],
+       "link": "https://www.youtube.com/watch?v=jHNNMj5bNQw&list=PLP-07VKxSomFxGPP9Sa1lUBI_zTyGWHtu&index=10"
+    },
+    {
+       "id": 117,
+       "name": "Tu Chale",
+       "lyrics": "https://gaana.com/lyrics/tu-chale",
+       "album": "I",
+       "Duration": "4 min 52 sec",
+       "singer": [
+          "ARIJIT SINGH",
+          "SHREYA GHOSHAL"
+       ],
+       "genre": [
+          "Romanace"
+       ],
+       "link": "https://www.youtube.com/watch?v=iMuZRXsE7KI"
+    },
+    {
+       "id": 118,
+       "name": "Tu Hai Ki Nahi",
+       "lyrics": "https://gaana.com/lyrics/tu-hai-ki-nahi",
+       "album": "Roy",
+       "Duration": "5 min 33 sec",
+       "singer": [
+          "Ankit Tiwari"
+       ],
+       "genre": [
+          "Romanace"
+       ],
+       "link": "https://www.youtube.com/watch?v=61floBUAiTY"
+    },
+    {
+       "id": 119,
+       "name": "LAAL ISHQ",
+       "lyrics": "https://www.azlyrics.com/lyrics/arijitsingh/laalishq.html",
+       "album": "Goliyon Ki Raasleela Ram-leela",
+       "Duration": "6 min 43 sec",
+       "singer": [
+          "Arijit Singh"
+       ],
+       "genre": [
+          "Romanace"
+       ],
+       "link": "https://www.youtube.com/watch?v=PycY_BqbWaw"
+    },
+    {
+       "id": 120,
+       "name": "Saibo",
+       "lyrics": "https://gaana.com/lyrics/saibo-1",
+       "album": "Shor in the City ",
+       "Duration": "3 min 16 sec",
+       "singer": [
+          "Shreya Ghoshal,Tochi Raina"
+       ],
+       "genre": [
+          "Filmi, Pop"
+       ],
+       "link": "youtube.com/watch?v=P_HrHdFvcsg"
+    },
+    {
+       "id": 121,
+       "name": "Mumbai Dance",
+       "lyrics": "",
+       "album": "Bass Rani",
+       "Duration": "3 min 02 sec",
+       "singer": [
+          "Nucleya"
+       ],
+       "genre": [
+          "EDM"
+       ],
+       "link": "https://www.youtube.com/watch?v=f0DkVn-joQc"
+    },
+    {
+       "id": 122,
+       "name": "Lag jaa gale",
+       "lyrics": "https://gaana.com/song/lag-ja-gale-24",
+       "album": "Lag jaa gale",
+       "Duration": "5 min 02 sec",
+       "singer": [
+          "Lata Mangeshkar "
+       ],
+       "genre": [
+          "Romance"
+       ],
+       "link": "https://www.youtube.com/watch?v=TFr6G5zveS8"
+    },
+    {
+       "id": 123,
+       "name": "ranjha",
+       "lyrics": "https://www.hinditracks.in/ranjha-lyrics",
+       "album": "Shershaah",
+       "Duration": "3 min 13 sec",
+       "singer": [
+          "B Praak",
+          "Jasleen Royal"
+       ],
+       "genre": [
+          "Romantic"
+       ],
+       "link": "https://www.youtube.com/watch?v=V7LwfY5U5WI"
+    },
+    {
+       "id": 124,
+       "name": "aarambh hai prachand",
+       "lyrics": "https://www.hinditracks.in/aarambh-hai-prachand-lyrics-in-hindi-gulaal",
+       "album": "Gulaal",
+       "Duration": "4 min 55 sec",
+       "singer": [
+          "Piyush Mishra"
+       ],
+       "genre": [
+          "Motivational"
+       ],
+       "link": "https://www.youtube.com/watch?v=x9feF5rtMAc"
+    },
+    {
+       "id": 125,
+       "name": "Snake",
+       "lyrics": "https://genius.com/Mc-stan-snake-lyrics",
+       "album": "Snake",
+       "Duration": "4 min 36 sec",
+       "singer": [
+          "MC STAN"
+       ],
+       "genre": [
+          "Motivation",
+          "Pop"
+       ],
+       "link": "https://youtu.be/DSb7tmVcZm4"
+    },
+    {
+       "id": 126,
+       "name": "Tujhse Naraz Nahi Zindagi - Sanam",
+       "lyrics": "https://www.hinditracks.in/ranjha-lyrics",
+       "album": "SANAM",
+       "Duration": "4 min 12 sec",
+       "singer": [
+          "Lata Mangeshkar"
+       ],
+       "genre": [
+          "Romantic"
+       ],
+       "link": "https://www.youtube.com/watch?v=V7LwfY5U5WI"
+    },
+    {
+       "id": 127,
+       "name": "Namo Namo",
+       "lyrics": "https://www.lyricsmint.com/kedarnath/namo-namo",
+       "album": "Kedarnath",
+       "Duration": "5 min 22 sec",
+       "singer": [
+          "Amit Trivedi"
+       ],
+       "genre": [
+          "Classic"
+       ],
+       "link": "https://www.youtube.com/watch?v=HFX6AZ5bDDo"
+    },
+    {
+       "id": 128,
+       "name": "Tum Hi Ho",
+       "lyrics": "https://www.indicine.com/movies/lyrics/tum-hi-ho-lyrics-aashiqui-2/",
+       "album": "Aashiqui 2",
+       "Duration": "04 minutes 21 seconds",
+       "singer": [
+          "Arijit Singh"
+       ],
+       "genre": [
+          " Acoustic music",
+          "Filmi",
+          "Indian pop"
+       ],
+       "link": "https://youtu.be/IJq0yyWug1k"
+    },
+    {
+       "id": 129,
+       "name": "Saagar Kinare-Sagar(1985)",
+       "lyrics": "https://www.lyrics.com/lyric/28653018/Kishore+Kumar/Saagar+Kinare",
+       "album": "Saagar Kinare-Saagar",
+       "Duration": "3 min 45 sec",
+       "singer": [
+          "Lata Mangeshkar",
+          "Kishore Kumar"
+       ]
+    },
+    {
+       "id": 130,
+       "name": "Zara Zara by Maadhyam",
+       "lyrics": "https://youtu.be/MB6bUI5uaoc",
+       "album": "M.S.Dhoni",
+       "Duration": "4 min 6 sec",
+       "singer": [
+          "Bombay Jayashree"
+       ],
+       "genre": [
+          "Romantic"
+       ],
+       "link": "https://youtu.be/MB6bUI5uaoc"
+    },
+    {
+       "id": 131,
+       "name": "FRIENDS",
+       "lyrics": "https://www.azlyrics.com/lyrics/marshmello/friends.html",
+       "album": "FRIENDS",
+       "Duration": "3 min 51 sec",
+       "singer": [
+          "Marshmello & Anne-Marie "
+       ],
+       "genre": [
+          "Romance"
+       ],
+       "link": "https://youtu.be/jzD_yyEcp0M"
+    },
+    {
+       "id": 132,
+       "name": "Genda Phool",
+       "lyrics": "https://gaana.com/lyrics/genda-phool-6",
+       "albhum": "Genda Phool",
+       "Duration": "02:48",
+       "singer": [
+          "Badshah, Payal Dev"
+       ],
+       "genre": [
+          " Indian pop"
+       ],
+       "link": "https://youtu.be/SD4Z8dlZPd8"
+    },
+    {
+       "id": 133,
+       "name": "Enna Sona",
+       "lyrics": "https://www.azlyrics.com/lyrics/arijitsingh/ennasona.html",
+       "album": "Ok Jaanu",
+       "Duration": "3 min 51 sec",
+       "singer": [
+          "Arijit Singh"
+       ],
+       "link": "https://youtu.be/ofTxceS4wLI"
+    },
+    {
+       "id": 134,
+       "name": "Qaafirana",
+       "lyrics": "https://www.lyricsmint.com/kedarnath/qaafirana",
+       "album": "Kedarnath",
+       "Duration": "6 min 16 sec",
+       "singer": [
+          "Amit Trivedi"
+       ],
+       "genre": [
+          "Romantic"
+       ],
+       "link": "https://www.youtube.com/watch?v=ZmcBC9-wAXM"
+    },
+    {
+       "id": 135,
+       "name": "Te Amo",
+       "lyrics": "https://www.lyricsmint.com/dum-maaro-dum/te-amo",
+       "album": "Dum Maaro Dum",
+       "Duration": "4 min 25 sec",
+       "singer": [
+          "Ash King, Sunidhi Chauhan"
+       ],
+       "genre": [
+          "Romantic"
+       ],
+       "link": "https://youtu.be/lPXdn-pR8mI"
+    },
+    {
+       "id": 136,
+       "name": "Heropanti : Raat Bhar ",
+       "lyrics": "https://youtu.be/4KFVySixs_E",
+       "album": "Heropanti",
+       "Duration": "2 min 28 sec",
+       "singer": [
+          "Arijit Singh, Shreya Ghoshal"
+       ],
+       "genre": [
+          "Romantic",
+          "Pop",
+          "Hindi"
+       ],
+       "link": ""
+    },
+    {
+       "id": 137,
+       "name": "Tu Har Lamha ",
+       "lyrics": "https://www.hinditracks.in/tu-har-lamha-hindi-lyrics-khamoshiyan",
+       "album": "not available",
+       "Duration": "4 min 21 sec",
+       "singer": [
+          "Arijit Singh"
+       ],
+       "genre": [
+          "Romantic",
+          "Pop",
+          "Hindi"
+       ],
+       "link": "https://youtu.be/SdGL0qxgZGM"
+    },
+    {
+       "id": 138,
+       "name": "Filhall",
+       "lyrics": "https://lyricsraag.com/filhaal-song-translation-akshay-kumar/",
+       "album": "Filhall",
+       "Duration": "4:16",
+       "singer": [
+          "B Praak"
+       ],
+       "genre": [
+          "Romantic"
+       ],
+       "link": "https://youtu.be/DUwlGduupRI"
+    },
+    {
+       "id": 139,
+       "name": "Dekha Hazaro Dafaa",
+       "lyrices": "https://www.azlyrics.com/lyrics/arijitsingh/dekhahazarodafa.html",
+       "album": "Rustom",
+       "Duration": "3:33",
+       "singer": [
+          "Arijit Singh , Palak M"
+       ],
+       "genre": [
+          "Romantic"
+       ],
+       "link": "https://youtu.be/ImnYPjOd1Tw"
+    },
+    {
+       "id": 140,
+       "name": "Kun Faaya Kun",
+       "lyrics": "https://gaana.com/lyrics/kun-fayakun",
+       "album": "Rockstar",
+       "Duration": "6:21",
+       "singer": [
+          "A. R. Rahman, Javed Ali, Mohit Chauhan"
+       ],
+       "genre": [
+          "Sufi"
+       ],
+       "link": "https://www.youtube.com/watch?v=T94PHkuydcw"
+    },
+    {
+       "id": 141,
+       "name": "Dharkhaast",
+       "lyrics": "https://gaana.com/lyrics/darkhaast-1",
+       "album": "Shivaay",
+       "Duration": "6:55",
+       "singer": [
+          "Arijit Singh,Sunidhi Chauhan"
+       ],
+       "genre": [
+          "Romantic"
+       ],
+       "link": "https://youtu.be/GNm7vIZXEYw"
+    },
+    {
+       "id": 142,
+       "name": "Bade Acche Lagte Hai",
+       "lyrics": "https://gaana.com/lyrics/bade-achhe-lagte-hain",
+       "album": "Balika Badhu(1976)",
+       "Duration": "3 min 41 sec",
+       "singer": [
+          " Amit Kumar"
+       ],
+       "genre": [
+          "Romantic"
+       ],
+       "link": "https://youtu.be/ags3vxqbk-s"
+    },
+    {
+       "id": 143,
+       "name": "Zara Zara",
+       "lyrics": "https://gaana.com/lyrics/zara-zara-5",
+       "album": "Zara Zara",
+       "Duration": "4 min 56 sec",
+       "singer": [
+          " Bombay Jayashri"
+       ],
+       "genre": [
+          "Romantic",
+          "Filmy"
+       ],
+       "link": "https://youtu.be/NeXbmEnpSz0"
+    },
+    {
+       "id": 144,
+       "name": "Bawaal",
+       "lyrics": "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwi7v5zqyKjzAhXVXCsKHVZeDe0QFnoECAIQAQ&url=https%3A%2F%2Fwww.lyricsbell.com%2Fbawaal-mj5%2F&usg=AOvVaw2ptmUKxp_hdhV-MMKr5kP_",
+       "album": "ZBawaal",
+       "Duration": "3 min 14 sec",
+       "singer": [
+          " Kartik, Rohit"
+       ],
+       "genre": [
+          "Filmy"
+       ],
+       "link": "https://youtu.be/SGLVh57-HJs"
+    },
+    {
+       "id": 145,
+       "name": "Stay a little longer",
+       "lyrics": "https://www.lyricsmint.com/half-girlfriend/stay-a-little-longer",
+       "album": "Half Girlfriend",
+       "Duration": "4 min 59 sec",
+       "singer": [
+          " Anushka Shahaney "
+       ],
+       "genre": [
+          " Western swing",
+          "Filmy"
+       ],
+       "link": "https://www.youtube.com/watch?v=tjXHcyQhzqI"
+    },
+    {
+       "id": 146,
+       "name": "Dil Ko Karar Aaya",
+       "lyrics": "https://gaana.com/lyrics/dil-ko-karaar-aaya",
+       "album": "Sukoon",
+       "Duration": "2 min 29 sec",
+       "singer": [
+          " Neha Kakkar & Yasser Desai"
+       ],
+       "genre": [
+          "Romantic",
+          "lo-fi"
+       ],
+       "link": "https://youtu.be/Ad5s2_Z7-Pw"
+    },
+    {
+       "id": 147,
+       "name": "Sheikchillie",
+       "lyrics": "https://www.lyrics.com/sublyric/54086/Raftaar/Sheikh+Chilli+Original+Lyrics",
+       "album": "Sheikchillie",
+       "Duration": "4 min 13 sec",
+       "singer": [
+          "sheikchilli"
+       ],
+       "genre": [
+          "Pop"
+       ],
+       "link": "https://www.youtube.com/watch?v=uykOHAhId0Q"
+    },
+    {
+       "id": 148,
+       "name": "Kya Mujhe Pyar Hai",
+       "lyrics": "https://gaana.com/song/kya-mujhe-pyar-hai",
+       "album": "Woh Lamhe",
+       "Duration": "4 min 26 sec",
+       "singer": [
+          " KK,Pritam"
+       ],
+       "genre": [
+          "Romantic",
+          "Filmy"
+       ],
+       "link": "https://www.youtube.com/watch?v=lrAM_H7v8wM"
+    },
+    {
+       "id": 149,
+       "name": "Dil galt Kar Baitha hai",
+       "lyrics": "https://gaana.com/song/dil-galti-kar-baitha-hai-feat-mouni-roy",
+       "album": "Dil galt Kar Baitha hai",
+       "Duration": "4 min 26 sec",
+       "singer": [
+          "jubin"
+       ],
+       "genre": [
+          "Romantic",
+          "Filmy"
+       ],
+       "link": "https://www.youtube.com/watch?v=lrAM_H7v8wM"
+    },
+    {
+       "id": 150,
+       "name": "Kal Ho Naa Ho",
+       "lyrics": "https://gaana.com/song/kya-mujhe-pyar-hai",
+       "album": "Kal Ho Naa Ho",
+       "Duration": "4 min 46 sec",
+       "singer": [
+          "Sonu Nigam"
+       ],
+       "genre": [
+          "Romantic",
+          "Filmy"
+       ],
+       "link": "https://www.youtube.com/watch?v=g0eO74UmRBs"
+    },
+    {
+       "id": 151,
+       "name": "bazigar hai bazigar ",
+       "lyrics": "https://www.indicine.com/movies/lyrics/baigar/",
+       "album": "Bazigar",
+       "Duration": "03 minutes 15 seconds",
+       "singer": [
+          "Udit narayan "
+       ],
+       "genre": [
+          " Acoustic music",
+          "Filmi",
+          "Indian pop"
+       ],
+       "link": "https://youtu.be/IJq0yyWug1k"
+    },
+    {
+       "id": 152,
+       "name": "Baby",
+       "lyrics": "https://gaana.com/lyrics/baby-738",
+       "album": "My World 2.0",
+       "Duration": "3 min 36 sec",
+       "singer": [
+          "Justin Bieber"
+       ],
+       "genre": [
+          "Romantic"
+       ],
+       "link": "https://www.youtube.com/watch?v=kffacxfA7G4"
+    },
+    {
+       "id": 153,
+       "name": "Kal Ho Naa Ho ",
+       "lyrics": "https://gaana.com/lyrics/kal-ho-naa-ho-5",
+       "album": " Kal Ho Naa Ho ",
+       "Duration": "5 min 23 sec",
+       "singer": [
+          "Sonu Nigam"
+       ],
+       "genre": [
+          "Romance",
+          "Filmi"
+       ],
+       "link": "https://youtu.be/g0eO74UmRBs"
+    },
+    {
+       "id": 154,
+       "name": "dil dooba",
+       "lyrics": "https://gaana.com/lyrics/dil dooba",
+       "album": "khakee",
+       "Duration": "4 min 38 sec",
+       "singer": [
+          "Sonu nigam "
+       ],
+       "genre": [
+          "Motivation",
+          "Pop"
+       ],
+       "link": "https://www.youtube.com/watch?v=SAiyopkF22M"
+    },
+    {
+       "id": 155,
+       "name": "Panchhi Banoo Udti Phiroon ",
+       "lyrics": "https://youtu.be/fUtIQtRMGzg",
+       "album": "Chori Chori",
+       "Duration": "4 min 20 sec",
+       "singer": [
+          "Lata Mangeshkar"
+       ],
+       "genre": [
+          "Motivation",
+          "Folk"
+       ],
+       "link": "https://youtu.be/bIhhCGFR2NE"
+    },
+    {
+       "id": 156,
+       "name": "Chinta ta chita chita",
+       "lyrics": "https://www.lyricsmint.com/rowdy-rathore/chinta-ta-ta-chita-chita",
+       "album": "Rowdy Rathore",
+       "Duration": "5 min 7 sec",
+       "singer": [
+          "Mika Singh "
+       ],
+       "genre": [
+          "dance number",
+          "Pop"
+       ],
+       "link": "https://www.youtube.com/watch?v=NPRd7Xc0tfM"
+    },
+    {
+       "id": 157,
+       "name": "KHAIRIYAT",
+       "lyrics": "https://www.ilyricshub.com/khairiyat-chhichhore-arijit-singh/",
+       "album": "Chhichhore",
+       "Duration": "3 min 58 sec",
+       "singer": [
+          "Arijit Singh "
+       ],
+       "genre": [
+          "dance number",
+          "Pop"
+       ],
+       "link": "https://www.youtube.com/watch?v=hoNb6HuNmU0"
+    },
+    {
+       "id": 158,
+       "name": "Dekha Hazaro Dafaa",
+       "lyrices": "https://www.azlyrics.com/lyrics/arijitsingh/dekhahazarodafa.html",
+       "album": "Rustom",
+       "Duration": "3:33",
+       "singer": [
+          "Arijit Singh , Palak M"
+       ],
+       "genre": [
+          "Romantic"
+       ],
+       "link": "https://youtu.be/ImnYPjOd1Tw"
+    },
+    {
+       "id": 159,
+       "name": "Mere Mehboob Qayamat Hogi",
+       "lyrices": "https://youtu.be/EBRc5ckj5k0",
+       "album": "NA",
+       "Duration": "4:32",
+       "singer": [
+          "Kishore Kumar"
+       ],
+       "genre": [
+          "Romantic"
+       ],
+       "link": "https://youtu.be/yIzCBU0_LyY"
+    },
+    {
+       "id": 160,
+       "name": "kun faya kun",
+       "lyrics": "https://genius.com/Ar-rahman-kun-faya-kun-lyrics",
+       "album": "Rockstar",
+       "Duration": "6 min 20 sec",
+       "singer": [
+          "A R Rahman",
+          "Javed Ali"
+       ],
+       "genre": [
+          "Sufi"
+       ],
+       "link": "https://youtu.be/T94PHkuydcw"
+    },
+    {
+       "id": 161,
+       "name": "vienna waits for you",
+       "lyrics": " https://genius.com/Billy-joel-vienna-lyrics",
+       "album": "vienna",
+       "Duration": "3 min 37 sec",
+       "singer": [
+          "billy joel "
+       ],
+       "genre": [
+          "dance number",
+          "Pop"
+       ],
+       "link": "https://www.youtube.com/results?search_query=vienna"
+    },
+    {
+       "id": 162,
+       "name": "Dildara",
+       "lyrics": "https://lyricsdna.com/songs/lyrics/dildara-dildara-lyrics-stand-by-me-ra-one",
+       "album": "Ra.One",
+       "Duration": "4 min 30 sec",
+       "singer": [
+          "Abhijeet Bhattacharya, Sowmya Raoh "
+       ],
+       "genre": [
+          "dance number",
+          "Pop"
+       ],
+       "link": "https://www.youtube.com/watch?v=gQ5qVtoLMk4"
+    },
+    {
+       "id": 163,
+       "name": "Tu Tu Hai Wahi ",
+       "lyrics": "https://www.lyricsoff.com/songs/tu-tu-hai-wahi-yeh-vaada-raha.html",
+       "album": "Yeh Vaada Raha ",
+       "Duration": "6 min 50 sec",
+       "singer": [
+          "Kishore Kumar",
+          "Asha Bhosle"
+       ],
+       "genre": [
+          "Romanace"
+       ],
+       "link": "https://youtu.be/hjfzFVw2Zjo"
+    },
+    {
+       "id": 164,
+       "name": "Raat kali ek khwab mein aayi",
+       "lyrics": "https://gaana.com/lyrics/raat-kali-ek-khwab-men-aai-23",
+       "album": "Buddha Mil Gaya",
+       "Duration": "4 min 59 sec",
+       "singer": [
+          "Kishore Kumar"
+       ],
+       "genre": [
+          "Romanace"
+       ],
+       "link": "https://www.youtube.com/watch?v=jFYlChHSdzo"
+    },
+    {
+       "id": 165,
+       "name": " Kisi Ki Muskurahaton Se ",
+       "lyrics": "https://youtu.be/z6FukwueP1o",
+       "album": "Legend Raj Kapoor-The Showman  Vol-3",
+       "Duration": "4 min 08 sec",
+       "singer": [
+          "Mukesh"
+       ],
+       "genre": [
+          "Motivational",
+          "Folk"
+       ],
+       "link": "https://youtu.be/z6FukwueP1o"
+    },
+    {
+       "id": 166,
+       "name": "Tu Tu Hai Wahi ",
+       "lyrics": "https://www.lyricsoff.com/songs/tu-tu-hai-wahi-yeh-vaada-raha.html",
+       "album": "Yeh Vaada Raha ",
+       "Duration": "6 min 50 sec",
+       "singer": [
+          "Kishore Kumar",
+          "Asha Bhosle"
+       ],
+       "genre": [
+          "Romanace"
+       ],
+       "link": "https://youtu.be/hjfzFVw2Zjo"
+    },
+    {
+       "id": 167,
+       "name": "Chand Sifarish ",
+       "lyrics": "https://gaana.com/lyrics/chand-sifarish-13",
+       "album": "Fanaa ",
+       "Duration": "4 min 536 sec",
+       "singer": [
+          "Shaan",
+          "Kailash Kher"
+       ],
+       "genre": [
+          "Romanace"
+       ],
+       "link": "https://youtu.be/zWEOx7TSM6I"
+    },
+    {
+       "id": 168,
+       "name": "Makhna",
+       "lyrics": "https://www.lyricsbell.com/makhna-drive/",
+       "album": "Drive",
+       "Duration": "3 min 13 sec",
+       "singer": [
+          "Tanishk Bagchi",
+          "Yasser Desai",
+          "Asees Kaur"
+       ],
+       "genre": [
+          "Filmy"
+       ],
+       "link": "https://www.youtube.com/watch?v=HqUeSjsYLNU"
+    },
+    {
+       "id": 169,
+       "name": "Pani Da Rang",
+       "lyrics": "https://gaana.com/lyrics/pani-di-gal",
+       "album": "Vicky Donor",
+       "Duration": "4 min",
+       "singer": [
+          " Ayushman Khurrana"
+       ],
+       "genre": [
+          "Filmi, Acoustic pop"
+       ],
+       "link": "https://youtu.be/2kgEc6oH9J0"
+    },
+    {
+       "id": 170,
+       "name": "Bhul Bhulaiya Title Track",
+       "lyrics": "https://gaana.com/song/bhool-bhulaiyaa-remix-1",
+       "album": "Bhul Bhulaiya Remix",
+       "Duration": "5 min 04 sec",
+       "singer": [
+          " Neeraj Sridhar"
+       ],
+       "genre": [
+          "Funny"
+       ],
+       "link": "https://www.youtube.com/watch?v=1hCQgzZoeNM"
+    },
+    {
+       "id": 171,
+       "name": "Janam Janam",
+       "lyrics": "https://www.azlyrics.com/lyrics/arijitsingh/janamjanam.html",
+       "album": "Dilwale",
+       "Duration": "4 min 13 sec",
+       "singer": [
+          " Arjit Singh"
+       ],
+       "genre": [
+          "Romantic"
+       ],
+       "link": "https://www.youtube.com/watch?v=pIBoAh4OXhQ"
+    },
+    {
+       "id": 172,
+       "name": "Bahara",
+       "lyrics": "https://gaana.com/lyrics/bahara-13",
+       "album": "I Hate Luv Storys",
+       "Duration": "4 min 08 sec",
+       "singer": [
+          "Shreya Goshal",
+          "Sona Mohapatra",
+          "Vishal\u00e2\u20ac\u201cShekhar"
+       ],
+       "genre": [
+          "Romantic"
+       ],
+       "link": "https://youtu.be/_VOXxKDNCuM"
+    },
+    {
+       "id": 173,
+       "name": "Love you zindagi",
+       "lyrics": "http://songolyrics.in/dear-zindagi/love-you-zindagi",
+       "album": "Dear Zindagi",
+       "Duration": "4 min 11 sec",
+       "singer": [
+          " Jasleen Royal"
+       ],
+       "genre": [
+          "motivation"
+       ],
+       "link": "https://www.youtube.com/watch?v=bw7bVpI5VcM"
+    },
+    {
+       "id": 174,
+       "name": "Ilahi",
+       "lyrics": "https://gaana.com/lyrics/ilahi-9",
+       "album": "Yeh Jawaani Hai Deewani",
+       "Duration": "3 min 48 sec",
+       "singer": [
+          "Pritam",
+          "Arijit Singh"
+       ],
+       "genre": [
+          "Travel"
+       ],
+       "link": "https://www.youtube.com/watch?v=fdubeMFwuGs"
+    },
+    {
+       "id": 175,
+       "name": "Kaam 25",
+       "lyrics": "https://gaana.com/lyrics/kaam-25",
+       "album": "Sacred Games",
+       "Duration": "2 min 29 sec",
+       "singer": [
+          "Divine"
+       ],
+       "genre": [
+          "Rap"
+       ],
+       "link": "https://www.youtube.com/watch?v=ATf05n5LBHQ"
+    },
+    {
+       "id": 176,
+       "name": "Drivers license",
+       "lyrics": "https://www.republicworld.com/entertainment-news/music/drivers-license-lyrics-and-meaning-behind-this-olivia-rodrigo-song-explained.html",
+       "album": "Divers license",
+       "Duration": "4 min 2 sec",
+       "singer": [
+          "Daniel Nigro / Olivia Rodrigo"
+       ],
+       "genre": [
+          "Indie Pop"
+       ],
+       "link": "https://www.youtube.com/watch?v=_Bjf-iExroI"
+    },
+    {
+       "id": 177,
+       "name": "Kashmir Main Tu Kanyakumari",
+       "lyrics": "https://www.lyricsoff.com/songs/kashmir-main-tu-kanyakumari.html",
+       "album": "Chennai Express",
+       "Duration": "3 min 41 sec",
+       "singer": [
+          "Arijit Singh",
+          "Sunidhi Chauhan"
+       ],
+       "genre": [
+          "Folk"
+       ],
+       "link": "https://www.youtube.com/watch?v=dodDteh-m3Q"
+    },
+    {
+       "id": 178,
+       "name": "Dekhte Dekhte",
+       "lyrics": "https://www.lyricspedia.co.in/dekhte-dekhte-lyrics-atif-aslam/",
+       "album": "Batti Gul Meter Chalu",
+       "Duration": "4 min 36 sec",
+       "singer": [
+          " Atif Aslam"
+       ],
+       "genre": [
+          "Romantic"
+       ],
+       "link": "https://www.youtube.com/watch?v=jBQpGiubj0c"
+    },
+    {
+       "id": 179,
+       "name": "Tera Hone Laga Hoon",
+       "lyrics": "https://gaana.com/playlist/ashitharamesh2-terahonelagahoon",
+       "album": "Ajab Prem Ki Ghazab Kahani",
+       "Duration": "4 min 59 sec",
+       "singer": [
+          "  Atif Aslam"
+       ],
+       "genre": [
+          "Romantic"
+       ],
+       "link": "https://www.youtube.com/watch?v=rTuxUAuJRyY"
+    },
+    {
+       "id": 180,
+       "name": "Gerua",
+       "lyrics": "https://www.azlyrics.com/lyrics/arijitsingh/gerua.html",
+       "album": "Dilwale",
+       "Duration": "4 min 48 sec",
+       "singer": [
+          "Arijit Singh"
+       ],
+       "genre": [
+          "Romantic"
+       ],
+       "link": "https://youtu.be/AEIVhBS6baE"
+    },
+    {
+       "id": 181,
+       "name": "Enna Sona",
+       "lyrics": "https://www.azlyrics.com/lyrics/arijitsingh/ennasona.html",
+       "album": "Ok Jaanu",
+       "Duration": "3 min 33 sec",
+       "singer": [
+          "Arijit Singh"
+       ],
+       "genre": [
+          "Romantic"
+       ],
+       "link": "https://youtu.be/mrdRHsIkK_c"
+    },
+    {
+       "id": 182,
+       "name": "Kalank (Title Track)",
+       "lyrics": "https://www.lyricsmint.com/kalank/kalank-title-track",
+       "album": "Kalank",
+       "Duration": "5 min 11 sec",
+       "singer": [
+          "Arijit Singh"
+       ],
+       "genre": [
+          "Romantic"
+       ],
+       "link": "https://youtu.be/Grr0FlC8SQA"
+    },
+    {
+       "id": 183,
+       "name": "Iktara",
+       "lyrics": "https://gaana.com/lyrics/iktara-9",
+       "album": "wake up sid",
+       "Duration": "4 min 13 sec",
+       "singer": [
+          "Amitabh Bhattachary",
+          "Amit Trivedi",
+          "kavita Seth"
+       ],
+       "genre": [
+          "Romantic"
+       ],
+       "link": "https://www.youtube.com/watch?v=fSS_R91Nimw"
+    },
+    {
+       "id": 184,
+       "name": "tu bin bataye",
+       "lyrics": "https://genius.com/Ar-rahman-tu-bin-bataye-lyrics",
+       "album": "Rang de basanti",
+       "Duration": "5 min 55 sec",
+       "singer": [
+          "A.R Rahman"
+       ],
+       "genre": [
+          "Romantic"
+       ],
+       "link": "https://www.youtube.com/watch?v=UqblLzBwlns"
+    },
+    {
+       "id": 185,
+       "name": "Kinna Sona",
+       "lyrics": "https://www.ilyricshub.com/kinna-sona-marjaavaan/",
+       "album": "Marjaavaan",
+       "Duration": "4 min 33 sec",
+       "singer": [
+          "Jubin Nautiyal"
+       ],
+       "genre": [
+          "Romantic"
+       ],
+       "link": "https://www.youtube.com/watch?v=7lfFZs50JHM"
+    },
+    {
+       "id": 186,
+       "name": "kaun disha mein leke chala re",
+       "lyrics": "https://gaana.com/lyrics/kaun-disha-mein-leke-chala",
+       "album": " Nadiya Ke Paar ",
+       "Duration": "6 min 52 sec",
+       "singer": [
+          "Hemlata, Jaspal Singh"
+       ],
+       "genre": [
+          "Romantic"
+       ],
+       "link": "https://www.youtube.com/watch?v=D61BvxAOxm0"
+    },
+    {
+       "id": 187,
+       "name": "Ankhiyon Ke Jharokhon Se",
+       "lyrics": "https://gaana.com/lyrics/ankhiyon-ke-jharokhon-se-happy-ii",
+       "album": "Ankhiyon Ke Jharokhon Se",
+       "Duration": "2 min 58 sec",
+       "singer": [
+          "Hemlata"
+       ],
+       "genre": [
+          "Romantic"
+       ],
+       "link": "https://www.youtube.com/watch?v=_NIFoqfSO6E"
+    },
+    {
+       "id": 188,
+       "name": "Jhilmil Sitaron Ka Aangan Hoga",
+       "lyrics": "https://gaana.com/lyrics/jhilmil-sitaron-ka-angan-hoga-1",
+       "album": "Jeevan Mrityue",
+       "Duration": "5 min 28 sec",
+       "singer": [
+          "Mohammed Rafi, Lata Mangeshkar"
+       ],
+       "genre": [
+          "Romantic"
+       ],
+       "link": "https://www.youtube.com/watch?v=v13cUeX6_co"
+    },
+    {
+       "id": 189,
+       "name": "Solah Baras Ki Bali Umar ",
+       "lyrics": "https://gaana.com/lyrics/solah-baras-ki-bali-umariya",
+       "album": " Ek Duuje Ke Liye",
+       "Duration": "6 min 13 sec",
+       "singer": [
+          " Lata Mangeshkar, Anup Jalota"
+       ],
+       "genre": [
+          "Romantic"
+       ],
+       "link": "https://www.youtube.com/watch?v=1RIEPUjTXEA"
+    },
+    {
+       "id": 190,
+       "name": "Mere naal tu whistle baja",
+       "lyrics": "https://gaana.com/lyrics/whistle-baja",
+       "album": "Heropanti",
+       "Duration": "3 min 25 sec",
+       "singer": [
+          "Manj Musik"
+       ],
+       "genre": [
+          "Romantic"
+       ],
+       "link": "https://www.youtube.com/watch?v=5NM7VF0AOfo"
+    },
+    {
+       "id": 191,
+       "name": "Khoj",
+       "lyrics": "https://genius.com/When-chai-met-toast-khoj-lyrics",
+       "album": "Believe",
+       "Duration": "3 min 31 sec",
+       "singer": [
+          "When Chai Met Toast pop/folk band"
+       ],
+       "genre": [
+          "Pop, Rock, Folk"
+       ],
+       "link": "https://youtu.be/LMEdbBK4bk0"
+    },
+    {
+       "id": 192,
+       "name": "Kinna Sona",
+       "lyrics": "https://www.ilyricshub.com/kinna-sona-marjaavaan/",
+       "album": "Marjaavaan",
+       "Duration": "4 min 33 sec",
+       "singer": [
+          "Jubin Nautiyal"
+       ],
+       "genre": [
+          "Romantic"
+       ],
+       "link": "https://www.youtube.com/watch?v=7lfFZs50JHM"
+    },
+    {
+       "id": 193,
+       "name": "Thug Le",
+       "lyrics": "https://gaana.com/lyrics/thug-le-14",
+       "album": "Ladies Vs Rickt Bahl",
+       "Duration": "3 min 38 sec",
+       "singer": [
+          "Vishal Dadlani"
+       ],
+       "genre": [
+          "Energetic"
+       ],
+       "link": "https://www.youtube.com/watch?v=LEYXdZ_rVbo"
+    },
+    {
+       "id": 194,
+       "name": "KHAIRIYAT",
+       "lyrics": "https://gaana.com/lyrics/khairiyat-happy",
+       "album": "chhichhore",
+       "Duration": "3 min 58 sec",
+       "singer": [
+          "Arijit Singh"
+       ],
+       "genre": [
+          "Romantic"
+       ],
+       "link": "https://www.youtube.com/watch?v=hoNb6HuNmU0"
+    },
+    {
+       "id": 195,
+       "name": "Mere Liye Tum Kaafi Ho",
+       "lyrics": "https://gaana.com/lyrics/moh-moh-ke-dhaage-male",
+       "movie": "Dum Laga Ke Haisha",
+       "Duration": "5 min 22 sec",
+       "singer": [
+          "Monali Thakur"
+       ],
+       "genre": [
+          "Romantic"
+       ],
+       "link": "https://www.youtube.com/watch?v=JbDktrsnH40"
+    },
+    {
+       "id": 196,
+       "name": "Lut Gaye",
+       "lyrics": "https://gaana.com/lyrics/lut-gaye-feat-emraan-hashmi",
+       "album": "Lut Gaye(feat Emraan Hashmi",
+       "Duration": "4 min 57 sec",
+       "singer": [
+          "Jubin Nautiyal"
+       ],
+       "genre": [
+          "Romatic"
+       ],
+       "link": "https://www.youtube.com/watch?v=sCbbMZ-q4-I"
+    },
+    {
+       "id": 197,
+       "name": "Thoda Thoda Pyaar",
+       "lyrics": "https://lyricsmint.com/stebin-ben/thoda-thoda-pyaar",
+       "album": "Thoda Thoda Pyaar",
+       "Duration": "4 min 57 sec",
+       "singer": [
+          "Stebin Ben"
+       ],
+       "genre": [
+          "Romatic"
+       ],
+       "link": "https://www.youtube.com/watch?v=USccSZnS8MQ"
+    },
+    {
+       "id": 198,
+       "name": "Shayad",
+       "lyrics": "https://www.lyricsmint.com/love-aaj-kal/shayad",
+       "album": "Love aaj kal",
+       "Duration": "3 min 10 sec",
+       "singer": [
+          "Arijit Singh"
+       ],
+       "genre": [
+          "Romatic"
+       ],
+       "link": "https://www.youtube.com/watch?v=MJyKN-8UncM"
+    },
+    {
+       "id": 199,
+       "name": "Aaj din Chadheya",
+       "lyrics": "https://www.indicine.com/movies/bollywood/ajj-din-chadheya-lyrics-love-aaj-kal/",
+       "album": "Love aaj kal",
+       "Duration": "5 min 24 sec",
+       "singer": [
+          "Rahat Fateh Ali Khan"
+       ],
+       "genre": [
+          "Romatic"
+       ],
+       "link": "https://www.youtube.com/watch?v=YSWMbwQuWAY"
+    },
+    {
+       "id": 200,
+       "name": "Tune Jo Na Kaha",
+       "lyrics": "https://gaana.com/lyrics/tune-jo-na-kaha",
+       "album": "New York",
+       "Duration": "2 min 23 sec",
+       "singer": [
+          "Mohit Chauhan"
+       ],
+       "genre": [
+          "Romatic"
+       ],
+       "link": "https://www.youtube.com/watch?v=dTu5dTEzVM4"
+    },
+    {
+       "id": 201,
+       "name": "Mehbooba Mehbooba",
+       "lyrics": "https://www.lyrics.com/lyric/6166149/R.D.+Burman/Mehbooba+Mehbooba+%5BFrom+Sholay%5D",
+       "album": "Sholay",
+       "Duration": "3 min 56 sec",
+       "singer": [
+          "R.D. Burman"
+       ],
+       "genre": [
+          "Romatic"
+       ],
+       "link": "https://www.youtube.com/watch?v=ByAbV-MKDgs"
+    },
+    {
+       "id": 202,
+       "name": "Chitta",
+       "lyrics": "https://www.ilyricshub.com/chitta-shiddat-manan-bhardwaj/",
+       "album": "Shiddat",
+       "Duration": "2 min 25 sec",
+       "singer": [
+          "Manan Bhardwaj"
+       ],
+       "genre": [
+          "Romatic"
+       ],
+       "link": "https://www.youtube.com/watch?v=4vpfmr6M4FU"
+    },
+    {
+       "id": 203,
+       "name": "goom hai kisi ke pyar mein",
+       "lyrics": "https://gaana.com/lyrics/goom-hai-kisi-ke-pyar-mein-1",
+       "album": "Raampur Ka Lakshman",
+       "Duration": "4 min 30 sec",
+       "singer": [
+          "Lata Mangeshkar",
+          "Kishore Kumar "
+       ],
+       "genre": [
+          "Romatic"
+       ],
+       "link": "https://www.youtube.com/watch?v=sPiOMuvzSI8"
+    },
+    {
+       "id": 204,
+       "name": "Virah",
+       "lyrics": "https://www.lyricsgoal.com/virah-bandish-bandits/",
+       "album": "Bandish Bandits",
+       "Duration": "3 min 10 sec",
+       "singer": [
+          "Shankar Mahadevan"
+       ],
+       "genre": [
+          "classical"
+       ],
+       "link": "https://www.youtube.com/watch?v=2lARCtyoiT8"
+    },
+    {
+       "id": 205,
+       "name": "Badmash Company",
+       "lyrics": "https://www.indicine.com/movies/bollywood/badmaash-company-lyrics/",
+       "album": "Badmash Company",
+       "Duration": "4 min",
+       "singer": [
+          "Benny Dayal"
+       ],
+       "genre": [
+          "Rock , pop"
+       ],
+       "link": "https://gaana.com/album/badmaash-company"
+    },
+    {
+       "id": 206,
+       "name": "Mourya Re",
+       "lyrics": "https://gaana.com/lyrics/mourya-re-3",
+       "album": "Chalisa Sangrah",
+       "Duration": "5 min 48 sec",
+       "singer": [
+          "Shankar Mahadevan"
+       ],
+       "genre": [
+          "God"
+       ],
+       "link": "https://gaana.com/song/mourya-re-3"
+    },
+    {
+       "id": 207,
+       "name": "insane",
+       "lyrics": "https://www.lyricsgoal.com/insane-ap-dhillon/",
+       "album": "insane",
+       "Duration": "5 min 48 sec",
+       "singer": [
+          "AP Dhillon"
+       ],
+       "genre": [
+          "pop"
+       ],
+       "link": "https://www.youtube.com/watch?v=cqP8I5aaud8"
+    },
+    {
+       "id": 208,
+       "name": "Agar tum saath ho",
+       "lyrics": "https://gaana.com/song/agar-tum-saath-ho",
+       "album": "Tamasha",
+       "Duration": "5 min 41 sec",
+       "singer": [
+          "Arjit singh,Alka yagnik"
+       ],
+       "genre": [
+          "Romatic"
+       ],
+       "link": "https://www.youtube.com/watch?v=sK7riqg2mr4"
+    },
+    {
+       "id": 209,
+       "name": "Maahi Ve",
+       "lyrics": "https://www.lyricsoff.com/songs/maahi-ve-highway.html",
+       "album": "Highway",
+       "Duration": "4 min",
+       "singer": [
+          "AR Rahman"
+       ],
+       "genre": [
+          "Rock , pop"
+       ],
+       "link": "https://open.spotify.com/track/1sbW5E7w8tnqpYk0Frx8QG?si=3bac1a7746994768"
+    },
+    {
+       "id": 210,
+       "name": "Baatein ye Kabhi na",
+       "lyrics": "https://www.hinditracks.in/baatein-ye-kabhi-na-khamoshiyan",
+       "album": "Khamoshiyan",
+       "Duration": "4 min 16 sec",
+       "singer": [
+          "Arijit Singh"
+       ],
+       "genre": [
+          "Pop, Soul, Folk"
+       ],
+       "link": "https://www.youtube.com/watch?v=SOessajf_Ik"
+    },
+    {
+       "id": 211,
+       "name": "Ae Dil hai Mushkil",
+       "lyrics": "https://www.azlyrics.com/lyrics/arijitsingh/aedilhaimushkil.html",
+       "album": "Ae Dil Hai Mushkil",
+       "Duration": "5 min 01 sec",
+       "singer": [
+          "Arijit Singh"
+       ],
+       "genre": [
+          "Love, Instrumental"
+       ],
+       "link": "https://www.youtube.com/watch?v=6FURuLYrR_Q"
+    },
+    {
+       "id": 212,
+       "name": "Raatan Lambiyan",
+       "lyrics": "https://www.hinditracks.in/raataan-lambiyan-lyrics",
+       "album": "Shershaah",
+       "Duration": "2 min 31 sec",
+       "singer": [
+          "Jubin Nautiyal, Asees Kaur"
+       ],
+       "genre": [
+          "Love, Instrumental"
+       ],
+       "link": "https://youtu.be/gvyUuxdRdR4"
+    },
+    {
+       "id": 213,
+       "name": "Muskurane",
+       "lyrics": "https://www.azlyrics.com/lyrics/arijitsingh/muskurane.html",
+       "album": "Citylights",
+       "Duration": "2 min 19 sec",
+       "singer": [
+          "Arijit SIngh"
+       ],
+       "genre": [
+          "Love, Instrumental"
+       ],
+       "link": "https://www.youtube.com/watch?v=4gNu8LsfYP8"
+    },
+    {
+       "id": 521,
+       "name": "Jogi",
+       "lyrics": "https://www.lyricsbull.com/jogi-shaadi-mein-zaroor-aana/",
+       "album": "Shadi me jaroor ana",
+       "Duration": "4 min 44 sec",
+       "singer": [
+          "Yasser Desai ,Aakanksha Sharma"
+       ],
+       "genre": [
+          "Love",
+          "Instrumental"
+       ],
+    "link": "https://www.youtube.com/watch?v=OsTGp5n6w5E"
+ },
+ {
+ "id": 214,
+ "name": "Neend Churayee Meri",
+ "lyrics": "https://www.songlyrics.com/the-boss/neend-churayee-meri-lyrics/",
+ "album": "Ishq",
+ "Duration": "4 min 23 sec",
+ "singer": [
+ "Alak Yagnik,Kumar Sanu,Kavita Krishnamurthy,udit Narayan"
+ ],
+ "genre": [
+ "Love,Romantic"
+ ],
+ "link": "https://www.youtube.com/watch?v=m9YhBDFxC5o"
 },
 {
-"id": 214,
-"name": "tum hi ho",
-"lyrics": "https://www.indicine.com/movies/bollywood/sajda-lyrics-my-name-is-khan/",
-"album": "aashiqui 2",
-"Duration": "4 min 58 sec",
-"singer": [
-"arijit singh",
-"Shankar Mahadevan",
-"Richa Sharma"
-],
-"genre": [
-"Romantic"
-],
-"link": "https://youtu.be/3rPEWcY6Oww"
+ "id": 215,
+ "name": "Chand Si Mehbooba",
+ "lyrics": "https://www.jiosaavn.com/lyrics/chand-si-mehbooba-lyrics/JA1TfjBDBXQ",
+ "album": "Himalay Ki God Mein ",
+ "Duration": "3 min 35 sec",
+ "singer": [
+ "Mukesh"
+ ],
+ "genre": [
+ "Romantic"
+ ],
+ "link": "https://www.youtube.com/watch?v=WYjVa10bP1c"
 },
-{
-"id": 214,
-"name": "Sau Aasmaan",
-"lyrics": "https://open.spotify.com/track/0zHZSO80CTxNtvtRhveHRJ",
-"album": "Baar Baar Dekho",
-"Duration": "4 min 19 sec",
-"singer": [
-"Aarmaan Malik",
-"Neeti Mohan"
-],
-"genre": [
-"Romantic"
-],
-"link": "https://www.youtube.com/watch?v=mpjNh-uGBY4"
+ {
+ "id": 214,
+ "name": "tum hi ho",
+ "lyrics": "https://www.indicine.com/movies/bollywood/sajda-lyrics-my-name-is-khan/",
+ "album": "aashiqui 2",
+ "Duration": "4 min 58 sec",
+ "singer": [
+ "arijit singh",
+ "Shankar Mahadevan",
+ "Richa Sharma"
+ ],
+ "genre": [
+ "Romantic"
+ ],
+ "link": "https://youtu.be/3rPEWcY6Oww"
+ },
+ {
+ "id": 214,
+ "name": "Sau Aasmaan",
+ "lyrics": "https://open.spotify.com/track/0zHZSO80CTxNtvtRhveHRJ",
+ "album": "Baar Baar Dekho",
+ "Duration": "4 min 19 sec",
+ "singer": [
+ "Aarmaan Malik",
+ "Neeti Mohan"
+ ],
+ "genre": [
+ "Romantic"
+ ],
+ "link": "https://www.youtube.com/watch?v=mpjNh-uGBY4"
+ },
+ {
+ "id": 215,
+ "name": "Lag ja gale",
+ "lyrics": "https://gaana.com/lyrics/lag-ja-gale-8",
+ "album": "Woh Kaun Thi?",
+ "Duration": "4 min 39 sec",
+ "singer": [
+ "Nayan Shankar"
+ ],
+ "genre": [
+ "Love"
+ ],
+ "link": "https://youtu.be/TFr6G5zveS8"
+ },
+ {
+ "id": 218,
+ "name": "Tumhi aana",
+ "lyrics": "https://gaana.com/lyrics/lag-ja-gale-8",
+ "album": "Woh Kaun Thi?",
+ "Duration": "4 min 39 sec",
+ "singer": [
+ "jubeen N"
+ ],
+ "genre": [
+ "Love"
+ ],
+ "link": "https://youtu.be/TFr6G5zveS8"
 },
-{
-"id": 215,
-"name": "Lag ja gale",
-"lyrics": "https://gaana.com/lyrics/lag-ja-gale-8",
-"album": "Woh Kaun Thi?",
-"Duration": "4 min 39 sec",
-"singer": [
-"Nayan Shankar"
-],
-"genre": [
-"Love"
-],
-"link": "https://youtu.be/TFr6G5zveS8"
-},
-{
-"id": 218,
-"name": "Tumhi aana",
-"lyrics": "https://gaana.com/lyrics/lag-ja-gale-8",
-"album": "Woh Kaun Thi?",
-"Duration": "4 min 39 sec",
-"singer": [
-"jubeen N"
-],
-"genre": [
-"Love"
-],
-"link": "https://youtu.be/TFr6G5zveS8"{
-"id": 216
-   "name": "Lag ja gale",
-"lyrics": "https://gaana.com/lyrics/lag-ja-gale-8",
-"album": "Woh Kaun Thi?",
-"Duration": "4 min 39 sec",
-"singer": [
-"Nayan Shankar"
-],
-"genre": [
-"Love"
-],
-"link": "https://youtu.be/TFr6G5zveS8"
-},
-{
-"id": 217,
-"name": "Lag ja gale",
-"lyrics": "https://gaana.com/lyrics/lag-ja-gale-8",
-"album": "Woh Kaun Thi?",
-"Duration": "4 min 40 sec",
-"singer": [
-"Lata Mangeshkar"
-],
-"link": "https://youtu.be/vB1qh0eUv78"
-},
-{
-"id": 269,
-"name": "Tere Sang Yara",
-"lyrics": "https://www.azlyrics.com/lyrics/atifaslam/teresangyaara.html",
-"album": "Rustom",
-"Duration": "5 min 5 sec",
-"singer": [
-"Atif Aslam"
-],
-"genre": [
-"Romantic",
-"slow"
-],
-"link": "https://www.youtube.com/watch?v=gIOea2pgfIo"
-},
-{
-"id": 218,
-"name": "lag ja gale",
-"lyrics": "https://www.jiosaavn.com/album/sanam---lag-ja-gale/zJ-5PdpWpxI_",
-"album": "Rewind With Sanam",
-"Duration": "4 min 39 sec",
-"singer": [
-" Lata Mangeshkar "
-],
-"genre": [
-"Love, Instrumental"
-],
-"link": "https://youtu.be/vB1qh0eUv78
-},
-{
-"id": 220,
-"name": "Love me like you do",
-"lyrics": "https://www.azlyrics.com/lyrics/elliegoulding/lovemelikeyoudofiftyshadesfreedversion.html",
-"album": "Fifty shades of gray",
-"Duration": "4 min 39 sec",
-"singer": [
-" Ellie Doungling "
-],
-"genre": [
-"Love, Instrumental"
-],
-"link": "https://www.youtube.com/watch?v=AJtDXIazrMo"
-},
-{
-"id": 219,
-"name": "Raabta",
-"lyrics": "https://www.lyricsoff.com/songs/raabta.html",
-"album": "Agent Vinod",
-"Duration": "4 min 39 sec",
-"singer": [
-"Arijit Singh"
-],
-"genre": [
-"Indian Film Pop"
-],
-"link": "https://youtu.be/piUHBTXsoiY"
-},
-{
-"id": 219,
-"name": "Dhadhkan",
-"lyrics": "https://www.jiosaavn.com/album/sanam---dhakdkan/zJ-5PdpWpxI_",
-"album": "dhakdkan",
-"Duration": "3 min 15 sec",
-"singer": [
-" Lata Mangeshkar, Udit narayn "
-],
-"genre": [
-"Love, Instrumental"
-],
-"link": "https://www.youtube.com/watch?v=dx1MPawGE-E"
-},
-{
-"id": 240,
-"name": "Rozana",
-"lyrics": "https://lyricstranslate.com/en/shreya-ghoshal-rozana-lyrics.html",
-"album": "Naam Shabana",
-"Duration": "4 min 29 sec",
-"singer": [
-"Shreya Ghoshal"
-],
-"genre": [
-"Love, Instrumental"
-],
-"link": "https://www.youtube.com/watch?v=CtgD91Ev4NU"
-},
-{
-"id": 221,
-"name": "Udi Udi Jaye",
-"lyrics": "https://www.lyricsmint.com/raees/udi-udi-jaye",
-"album": "Raees",
-"Duration": "4 min 20 sec",
-"singer": [
-"Sukhwinder Singh",
-"Bhoomi Trivedi",
-"Karsan Sagathia"
-],
-"genre": [
-"Celebration",
-"Dance"
-],
-"link": "https://www.jiosaavn.com/song/udi-udi-jaye/Gx8vZTwEX2o"
-},
-
-{
-"id":222,
-"name": "Manwa Laage",
-"lyrics": "https://wynk.in/u/wybKQLdok",
-"album": "HAPPY NEW YEAR",
-"Duration": "4 min 28 sec",
-"singer": [
-"Jubin Nautiyal"
-],
-"genre": [
-"Love, Instrumental"
-],
-"link": "https://youtu.be/d8IT-16kA8M"
-},
-   
-
-
-{
-"id": 214,
-"name": "Desi Kalakaar",
-"lyrics": "https://genius.com/Yo-yo-honey-singh-desi-kalakaar-lyrics",
-"album": "Desi Kalakaar",
-"Duration": "4 min 33 sec",
-"singer": [
-"Yo Yo Honey Singh"
-],
-"genre": [
-"Rap, Instrumental"
-],
-"link": "https://www.youtube.com/watch?v=jTg15DrXhB0"
-},
-{
-"id": 220,
-"name": "For Aisha",
-"lyrics": "https://sweet-lyrics.blogspot.com/2020/05/memba-for-aisha-lyrics-sky-is-pink.html",
-"album": "For Aisha",
-"Duration": "5 min 59 sec",
-"singer": [
-"Evan Giia and MEMBA"
-],
-"genre": [
-"Indian,Indie"
-],
-"link": "https://www.youtube.com/watch?v=bR8sE9ubyTI"
-},
-{
-   "id": 254,
-   "name": "Aayat",
-   "lyrics": "https://www.azlyrics.com/lyrics/arijitsingh/aayat.html",
-   "album": "Bajirao Mastani",
-   "Duration": "4 min 32 sec",
-   "singer": ["Arijit Singh"],
-   "genre": ["Romantic", "slow"],
-   "link": "https://www.youtube.com/watch?v=XZ8NF2Yv7J0"
-
-},
-{
-"id": 214,
-"name": "Aayat",
-"lyrics": "https://www.azlyrics.com/lyrics/arijitsingh/aayat.html",
-"album": "Bajirao Mastani",
-"Duration": "4 min 32 sec",
-"singer": [
-"Arijit Singh"
-],
-"genre": [
-"Romantic",
-"slow"
-],
-"link": "https://www.youtube.com/watch?v=XZ8NF2Yv7J0"
-},
-{
-"id": 254,
-"name": "Ranjha",
-"lyrics": "https://www.azlyrics.com/lyrics/arijitsingh/muskurane.html",
-"album": "Shersha",
-"Duration": "2 min 19 sec",
-"singer": [
-"B Prak"
-],
-"genre": [
-"Love, Instrumental"
-],
-"link": "https://www.youtube.com/watch?v=4gNu8LsfYP8"
-},
-{
-   "id": 264,
-   "name": "tere bin",
-   "lyrics": "https://www.indicine.com/movies/bollywood/sajda-lyrics-my-name-is-khan/",
-   "album": "wazir",
-   "Duration": "4 min 58 sec",
-   "singer": ["Rahat Fateh Ali Khan", "Shankar Mahadevan", "Richa Sharma"],
-   "genre": ["Romantic"],
-   "link": "https://youtu.be/3rPEWcY6Oww"
-},
-{
-"id": 214,
-"name": "tere bin",
-"lyrics": "https://www.indicine.com/movies/bollywood/sajda-lyrics-my-name-is-khan/",
-"album": "wazir",
-"Duration": "4 min 58 sec",
-"singer": [
-"Rahat Fateh Ali Khan",
-"Shankar Mahadevan",
-"Richa Sharma"
-],
-"genre": [
-"Romantic"
-],
-"link": "https://youtu.be/3rPEWcY6Oww"
-},
-{
-"id": 215,
-"name": "Yeh Jo Mohabbat Hai",
-"lyrics": "https://www.jiosaavn.com/lyrics/yeh-jo-mohabbat-hai-lyrics/KA09Uz9kfWU",
-"album": "Kati Patang",
-"Duration": "3 min 41 sec",
-"singer": [
-"Kishore Kumar"
-],
-"genre": [
-"Emotional"
-],
-"link": "https://www.youtube.com/watch?v=XxrEISBLhY0"
-},
-{
-"id": 216,
-"name": "Yeh Shaam Mastani",
-"lyrics": "http://www.lyricsgram.com/song/yeh-shaam-mastani-17765",
-"album": "Kati Patang",
-"Duration": "4 min 04 sec",
-"singer": [
-"Kishore Kumar"
-],
-"genre": [
-"Romantic"
-],
-"link": "https://www.youtube.com/watch?v=lbfWsIpXsCA"
-},
-{
-"id": 217,
-"name": "Kuchh Toh Log Kahenge",
-"lyrics": "https://www.azlyrics.com/lyrics/kishorekumar/kuchhtologkahenge.html",
-"album": "Amar Prem",
-"Duration": "4 min 13 sec",
-"singer": [
-"Kishore Kumar"
-],
-"genre": [
-"Sad",
-"Emotional"
-],
-"link": "https://www.youtube.com/watch?v=56I2rxRPRLY"
-},
-{
-"id": 218,
-"name": "Zindagi Kaisi Hai Paheli",
-"lyrics": "https://microlyrics.com/zindagi-kaisi-hai-paheli-lyrics",
-"album": "Anand",
-"Duration": "3 min 58 sec",
-"singer": [
-"MANNA DEY"
-],
-"genre": [
-"Sad",
-"Emotional"
-],
-"link": "https://www.youtube.com/watch?v=-y6_cFZsMJA"
-},
-{
-"id": 220,
-"name": "Ranjha ",
-"lyrics": "https://www.ilyricshub.com/ranjha-shershaah-b-praak/",
-"album": "Sheershaah",
-"Duration": "3 min 13 sec",
-"singer": [
-"B Praak",
-"Jasleen Royal",
-"Punjabi"
-],
-"genre": [
-"Romantic",
-"slow"
-],
-"link": "https://youtu.be/V7LwfY5U5WI"
-},
-{
-   "id": 221,
-   "name": "Rang De Basanti",
-   "lyrics": "https://www.hinditracks.in/mohe-rang-de-basanti-lyrics",
-   "album": "Rang De Basanti",
-   "Duration": "5 min 40 sec",
-   "singer": [
-      "Daler Mehndi"
-   ],
-   "genre": [
-      "Film Sountrack",
-      "Punjabi"
-   ],
-   "link": "https://youtu.be/5LBB6OV3Ano"
-},
-
-{
+ {
+ "id": 216,
+ "name": "Lag ja gale",
+ "lyrics": "https://gaana.com/lyrics/lag-ja-gale-8",
+ "album": "Woh Kaun Thi?",
+ "Duration": "4 min 39 sec",
+ "singer": [
+ "Nayan Shankar"
+ ],
+ "genre": [
+ "Love"
+ ],
+ "link": "https://youtu.be/TFr6G5zveS8"
+ },
+ {
+ "id": 217,
+ "name": "Lag ja gale",
+ "lyrics": "https://gaana.com/lyrics/lag-ja-gale-8",
+ "album": "Woh Kaun Thi?",
+ "Duration": "4 min 40 sec",
+ "singer": [
+ "Lata Mangeshkar"
+ ],
+ "link": "https://youtu.be/vB1qh0eUv78"
+ },
+ {
+ "id": 269,
+ "name": "Tere Sang Yara",
+ "lyrics": "https://www.azlyrics.com/lyrics/atifaslam/teresangyaara.html",
+ "album": "Rustom",
+ "Duration": "5 min 5 sec",
+ "singer": [
+ "Atif Aslam"
+ ],
+ "genre": [
+ "Romantic",
+ "slow"
+ ],
+ "link": "https://www.youtube.com/watch?v=gIOea2pgfIo"
+ },
+ {
+ "id": 218,
+ "name": "lag ja gale",
+ "lyrics": "https://www.jiosaavn.com/album/sanam---lag-ja-gale/zJ-5PdpWpxI_",
+ "album": "Rewind With Sanam",
+ "Duration": "4 min 39 sec",
+ "singer": [
+ " Lata Mangeshkar "
+ ],
+ "genre": [
+ "Love, Instrumental"
+ ],
+ "link": "https://youtu.be/vB1qh0eUv78"
+ },
+ {
+ "id": 220,
+ "name": "Love me like you do",
+ "lyrics": "https://www.azlyrics.com/lyrics/elliegoulding/lovemelikeyoudofiftyshadesfreedversion.html",
+ "album": "Fifty shades of gray",
+ "Duration": "4 min 39 sec",
+ "singer": [
+ " Ellie Doungling "
+ ],
+ "genre": [
+ "Love, Instrumental"
+ ],
+ "link": "https://www.youtube.com/watch?v=AJtDXIazrMo"
+ },
+ {
+ "id": 219,
+ "name": "Raabta",
+ "lyrics": "https://www.lyricsoff.com/songs/raabta.html",
+ "album": "Agent Vinod",
+ "Duration": "4 min 39 sec",
+ "singer": [
+ "Arijit Singh"
+ ],
+ "genre": [
+ "Indian Film Pop"
+ ],
+ "link": "https://youtu.be/piUHBTXsoiY"
+ },
+ {
+ "id": 219,
+ "name": "Dhadhkan",
+ "lyrics": "https://www.jiosaavn.com/album/sanam---dhakdkan/zJ-5PdpWpxI_",
+ "album": "dhakdkan",
+ "Duration": "3 min 15 sec",
+ "singer": [
+ " Lata Mangeshkar, Udit narayn "
+ ],
+ "genre": [
+ "Love, Instrumental"
+ ],
+ "link": "https://www.youtube.com/watch?v=dx1MPawGE-E"
+ },
+ {
+ "id": 240,
+ "name": "Rozana",
+ "lyrics": "https://lyricstranslate.com/en/shreya-ghoshal-rozana-lyrics.html",
+ "album": "Naam Shabana",
+ "Duration": "4 min 29 sec",
+ "singer": [
+ "Shreya Ghoshal"
+ ],
+ "genre": [
+ "Love, Instrumental"
+ ],
+ "link": "https://www.youtube.com/watch?v=CtgD91Ev4NU"
+ },
+ {
+ "id": 221,
+ "name": "Udi Udi Jaye",
+ "lyrics": "https://www.lyricsmint.com/raees/udi-udi-jaye",
+ "album": "Raees",
+ "Duration": "4 min 20 sec",
+ "singer": [
+ "Sukhwinder Singh",
+ "Bhoomi Trivedi",
+ "Karsan Sagathia"
+ ],
+ "genre": [
+ "Celebration",
+ "Dance"
+ ],
+ "link": "https://www.jiosaavn.com/song/udi-udi-jaye/Gx8vZTwEX2o"
+ },
+ 
+ {
+ "id":222,
+ "name": "Manwa Laage",
+ "lyrics": "https://wynk.in/u/wybKQLdok",
+ "album": "HAPPY NEW YEAR",
+ "Duration": "4 min 28 sec",
+ "singer": [
+ "Jubin Nautiyal"
+ ],
+ "genre": [
+ "Love, Instrumental"
+ ],
+ "link": "https://youtu.be/d8IT-16kA8M"
+ },
+    
+ 
+ 
+ {
+ "id": 214,
+ "name": "Desi Kalakaar",
+ "lyrics": "https://genius.com/Yo-yo-honey-singh-desi-kalakaar-lyrics",
+ "album": "Desi Kalakaar",
+ "Duration": "4 min 33 sec",
+ "singer": [
+ "Yo Yo Honey Singh"
+ ],
+ "genre": [
+ "Rap, Instrumental"
+ ],
+ "link": "https://www.youtube.com/watch?v=jTg15DrXhB0"
+ },
+ {
+ "id": 220,
+ "name": "For Aisha",
+ "lyrics": "https://sweet-lyrics.blogspot.com/2020/05/memba-for-aisha-lyrics-sky-is-pink.html",
+ "album": "For Aisha",
+ "Duration": "5 min 59 sec",
+ "singer": [
+ "Evan Giia and MEMBA"
+ ],
+ "genre": [
+ "Indian,Indie"
+ ],
+ "link": "https://www.youtube.com/watch?v=bR8sE9ubyTI"
+ },
+ {
+    "id": 254,
+    "name": "Aayat",
+    "lyrics": "https://www.azlyrics.com/lyrics/arijitsingh/aayat.html",
+    "album": "Bajirao Mastani",
+    "Duration": "4 min 32 sec",
+    "singer": ["Arijit Singh"],
+    "genre": ["Romantic", "slow"],
+    "link": "https://www.youtube.com/watch?v=XZ8NF2Yv7J0"
+ 
+ },
+ {
+ "id": 214,
+ "name": "Aayat",
+ "lyrics": "https://www.azlyrics.com/lyrics/arijitsingh/aayat.html",
+ "album": "Bajirao Mastani",
+ "Duration": "4 min 32 sec",
+ "singer": [
+ "Arijit Singh"
+ ],
+ "genre": [
+ "Romantic",
+ "slow"
+ ],
+ "link": "https://www.youtube.com/watch?v=XZ8NF2Yv7J0"
+ },
+ {
+ "id": 254,
+ "name": "Ranjha",
+ "lyrics": "https://www.azlyrics.com/lyrics/arijitsingh/muskurane.html",
+ "album": "Shersha",
+ "Duration": "2 min 19 sec",
+ "singer": [
+ "B Prak"
+ ],
+ "genre": [
+ "Love, Instrumental"
+ ],
+ "link": "https://www.youtube.com/watch?v=4gNu8LsfYP8"
+ },
+ {
+    "id": 264,
+    "name": "tere bin",
+    "lyrics": "https://www.indicine.com/movies/bollywood/sajda-lyrics-my-name-is-khan/",
+    "album": "wazir",
+    "Duration": "4 min 58 sec",
+    "singer": ["Rahat Fateh Ali Khan", "Shankar Mahadevan", "Richa Sharma"],
+    "genre": ["Romantic"],
+    "link": "https://youtu.be/3rPEWcY6Oww"
+ },
+ {
+ "id": 214,
+ "name": "tere bin",
+ "lyrics": "https://www.indicine.com/movies/bollywood/sajda-lyrics-my-name-is-khan/",
+ "album": "wazir",
+ "Duration": "4 min 58 sec",
+ "singer": [
+ "Rahat Fateh Ali Khan",
+ "Shankar Mahadevan",
+ "Richa Sharma"
+ ],
+ "genre": [
+ "Romantic"
+ ],
+ "link": "https://youtu.be/3rPEWcY6Oww"
+ },
+ {
+ "id": 215,
+ "name": "Yeh Jo Mohabbat Hai",
+ "lyrics": "https://www.jiosaavn.com/lyrics/yeh-jo-mohabbat-hai-lyrics/KA09Uz9kfWU",
+ "album": "Kati Patang",
+ "Duration": "3 min 41 sec",
+ "singer": [
+ "Kishore Kumar"
+ ],
+ "genre": [
+ "Emotional"
+ ],
+ "link": "https://www.youtube.com/watch?v=XxrEISBLhY0"
+ },
+ {
+ "id": 216,
+ "name": "Yeh Shaam Mastani",
+ "lyrics": "http://www.lyricsgram.com/song/yeh-shaam-mastani-17765",
+ "album": "Kati Patang",
+ "Duration": "4 min 04 sec",
+ "singer": [
+ "Kishore Kumar"
+ ],
+ "genre": [
+ "Romantic"
+ ],
+ "link": "https://www.youtube.com/watch?v=lbfWsIpXsCA"
+ },
+ {
+ "id": 217,
+ "name": "Kuchh Toh Log Kahenge",
+ "lyrics": "https://www.azlyrics.com/lyrics/kishorekumar/kuchhtologkahenge.html",
+ "album": "Amar Prem",
+ "Duration": "4 min 13 sec",
+ "singer": [
+ "Kishore Kumar"
+ ],
+ "genre": [
+ "Sad",
+ "Emotional"
+ ],
+ "link": "https://www.youtube.com/watch?v=56I2rxRPRLY"
+ },
+ {
+ "id": 218,
+ "name": "Zindagi Kaisi Hai Paheli",
+ "lyrics": "https://microlyrics.com/zindagi-kaisi-hai-paheli-lyrics",
+ "album": "Anand",
+ "Duration": "3 min 58 sec",
+ "singer": [
+ "MANNA DEY"
+ ],
+ "genre": [
+ "Sad",
+ "Emotional"
+ ],
+ "link": "https://www.youtube.com/watch?v=-y6_cFZsMJA"
+ },
+ {
+ "id": 220,
+ "name": "Ranjha ",
+ "lyrics": "https://www.ilyricshub.com/ranjha-shershaah-b-praak/",
+ "album": "Sheershaah",
+ "Duration": "3 min 13 sec",
+ "singer": [
+ "B Praak",
+ "Jasleen Royal",
+ "Punjabi"
+ ],
+ "genre": [
+ "Romantic",
+ "slow"
+ ],
+ "link": "https://youtu.be/V7LwfY5U5WI"
+ },
+ {
+    "id": 221,
+    "name": "Rang De Basanti",
+    "lyrics": "https://www.hinditracks.in/mohe-rang-de-basanti-lyrics",
+    "album": "Rang De Basanti",
+    "Duration": "5 min 40 sec",
+    "singer": [
+       "Daler Mehndi"
+    ],
+    "genre": [
+       "Film Sountrack",
+       "Punjabi"
+    ],
+    "link": "https://youtu.be/5LBB6OV3Ano"
+ },
+ 
+ {
+    "name": "Tera Hone Laga Hoon",
+ "lyrics": "https://gaana.com/playlist/ashitharamesh2-terahonelagahoon",
+ "album": "Ajab Prem Ki Ghazab Kahani",
+ "Duration": "4 min 59 sec",
+ "singer": [
+ "Atif Aslam"
+ ],
+ "genre": [
+ "Romantic"
+ ],
+ "link": "https://www.youtube.com/watch?v=rTuxUAuJRyY"
+ 
+ },
+ 
+ {
+    "id": 219,
+    "name": "Iktara",
+    "lyrics": "https://gaana.com/lyrics/iktara-9",
+    "album": "wake up sid",
+    "Duration": "4 min 13 sec",
+    "singer": ["Amitabh Bhattachary", "Amit Trivedi", "kavita Seth"],
+    "genre": ["Romantic"],
+    "link": "https://www.youtube.com/watch?v=fSS_R91Nimw"
+ },
+ {
+    "id": 220,
+ 
+    "name": "Tera Hone Laga Hoon",
+    "lyrics": "https://gaana.com/playlist/ashitharamesh2-terahonelagahoon",
+    "album": "Ajab Prem Ki Ghazab Kahani",
+    "Duration": "4 min 59 sec",
+    "singer": ["Atif Aslam"],
+    "genre": ["Romantic"],
+    "link": "https://www.youtube.com/watch?v=rTuxUAuJRyY"
+ },
+ {
+ 
+    "id":221,
+    "name": "Bawara mann rahat aake",
+    "lyrics": "https://www.lyricsmint.com/jolly-llb-2/bawara-mann",
+    "album": "Ajab Prem Ki Ghazab Kahani",
+    "Duration": "3 min 31 sec",
+    "singer": ["Jubin Nautiyal, Neeti Mohan"],
+    "genre": ["Soothing to ears"],
+    "link": "https://www.youtube.com/watch?v=EwIljm4gFoE"
+ },
+ {
+    "id": 222,
+    "name": "Meri Chunar Udd Udd Jaye",
+    "lyrics": "https://www.jiosaavn.com/lyrics/meri-chunar-udd-udd-jaye-lyrics/BikERwZoc2w",
+    "album": "Meri Chunar Udd Udd Jaye",
+    "Duration": "5 min 3 sec",
+    "singer": ["Falguni Pathak"],
+    "genre": ["Romantic","Indian Film Pop","Indian Pop"],
+    "link": "https://www.youtube.com/watch?v=p9r2GxMlRD4"
+ },
+ {
+    "id": 223,
+    "name": "Tip tip BARSA PAANI",
+    "lyrics": "https://www.hinditracks.in/tip-tip-barsa-pani-hindi-lyrics-mohra",
+    "album": "Mohra",
+    "Duration": "6 min 05 sec",
+    "singer": ["Alka Yagnik","Udit Narayan"],
+    "genre": ["Romantic","Indian Film Pop"],
+    "link": "https://www.youtube.com/watch?v=MKwVJv5d04Y"
+ },
+ {
+    "id": 225,
+    "name": "Kesariya",
+    "lyrics": "https://www.ilyricshub.com/kesariya-brahmastra/",
+    "album": "Brahmastra",
+    "Duration": "2 min 53 sec",
+    "singer": ["Arijit Singh"],
+    "genre": ["Romantic","Indian Film Pop"],
+    "link": "https://www.youtube.com/watch?v=BddP6PYo2gs&ab_channel=SonyMusicIndia"
+ },
+ {
+    "id": 224,
+    "name": "Nashe Si Chadh Gayi",
+    "lyrics": "https://gaana.com/lyrics/nashe-si-chadh-gayi",
+    "album": "Befikre",
+    "Duration": "3 min 55 sec",
+    "singer": ["Arijit Singh"],
+    "genre": ["Indian Film Pop"],
+    "link": "https://www.youtube.com/watch?v=HoCwa6gnmM0"
+ },
+ {
    "name": "Tera Hone Laga Hoon",
 "lyrics": "https://gaana.com/playlist/ashitharamesh2-terahonelagahoon",
 "album": "Ajab Prem Ki Ghazab Kahani",
@@ -3677,5 +3732,7 @@
    "singer": ["Mohit Chauhan"],
    "genre": ["Romantic","Indian Film Pop"],
    "link": "https://www.youtube.com/watch?v=mt9xg0mmt28"
-},
+}
 ]
+
+
