@@ -3667,5 +3667,15 @@
    "genre": ["Indian Film Pop"],
    "link": "https://www.youtube.com/watch?v=HoCwa6gnmM0"
 },
+{
+   "id": 225,
+   "name": "Arabic Kuthu - Halamithi Habibo",
+   "lyrics": "https://youtu.be/8FAUEv_E_xQ",
+   "album": "Beast",
+   "Duration": "4 min 43 sec",
+   "singer": ["Anirudh Ravichander", "Jonita Gandhi"],
+   "genre": ["Indian Film Pop"],
+   "link": "https://youtu.be/KUN5Uf9mObQ"
+}
    
 ]
