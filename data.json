@@ -3932,6 +3932,16 @@
        "singer": ["Mohit Chauhan"],
        "genre": ["Romantic","Indian Film Pop"],
        "link": "https://www.youtube.com/watch?v=mt9xg0mmt28"
+    },
+       {
+       "id": 226,
+       "name": "Manike",
+       "lyrics": "https://www.ilyricshub.com/manike-thank-god-jubin-nautiyal/",
+       "album": "Thank God",
+       "Duration": "3 min 17 sec",
+       "singer": ["Yohani, Jubin Nutiyal"],
+       "genre": ["Romantic","Indian Film Pop"],
+       "link": "https://www.youtube.com/watch?v=dNgU6BrTP5c"
     }
     
     ]
